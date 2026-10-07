@@ -1,0 +1,3328 @@
+provincia,year,cultivo,area_ha,prod_t
+Buenos Aires,1970.0,maiz_total,1339800,3729800
+Buenos Aires,1970.0,soja_total,1270,1600
+Buenos Aires,1970.0,trigo_total,3449000,4882600
+Buenos Aires,1971.0,maiz_total,1541900,3769500
+Buenos Aires,1971.0,soja_total,1400,1600
+Buenos Aires,1971.0,trigo_total,2837600,3255000
+Buenos Aires,1972.0,maiz_total,1337500,2509500
+Buenos Aires,1972.0,soja_total,1580,2020
+Buenos Aires,1972.0,trigo_total,2940450,3500000
+Buenos Aires,1973.0,maiz_total,1284500,3775500
+Buenos Aires,1973.0,soja_total,5185,6285
+Buenos Aires,1973.0,trigo_total,3148400,5266920
+Buenos Aires,1974.0,maiz_total,1348300,4359400
+Buenos Aires,1974.0,soja_total,57100,85000
+Buenos Aires,1974.0,trigo_total,2450400,3794000
+Buenos Aires,1975.0,maiz_total,1395800,3059400
+Buenos Aires,1975.0,soja_total,30400,37000
+Buenos Aires,1975.0,trigo_total,2866000,3440000
+Buenos Aires,1976.0,maiz_total,1402300,3239750
+Buenos Aires,1976.0,soja_total,43500,62300
+Buenos Aires,1976.0,trigo_total,3133000,4300000
+Buenos Aires,1977.0,maiz_total,1219800,3999300
+Buenos Aires,1977.0,soja_total,52000,74000
+Buenos Aires,1977.0,trigo,435000,582000
+Buenos Aires,1977.0,trigo_total,3884000,6000000
+Buenos Aires,1978.0,maiz_total,1333800,4699300
+Buenos Aires,1978.0,soja_total,151100,320000
+Buenos Aires,1978.0,trigo,269000,353100
+Buenos Aires,1978.0,trigo_total,2470000,3000000
+Buenos Aires,1979.0,maiz_total,1329800,3669400
+Buenos Aires,1979.0,soja_total,262000,520000
+Buenos Aires,1979.0,trigo,186500,369400
+Buenos Aires,1979.0,trigo_total,3040000,5100000
+Buenos Aires,1980.0,maiz_total,1241900,2519720
+Buenos Aires,1980.0,soja_total,470000,883000
+Buenos Aires,1980.0,trigo,128100,217800
+Buenos Aires,1980.0,trigo_total,2880000,4600000
+Buenos Aires,1981.0,maiz_total,1500000,6073000
+Buenos Aires,1981.0,soja_total,456000,900000
+Buenos Aires,1981.0,trigo,90400,194700
+Buenos Aires,1981.0,trigo_total,3262000,5053000
+Buenos Aires,1982.0,maiz_total,1281500,4160000
+Buenos Aires,1982.0,soja_total,462300,924500
+Buenos Aires,1982.0,trigo,46300,69600
+Buenos Aires,1982.0,trigo_total,3940000,5100000
+Buenos Aires,1983.0,maiz_total,1075000,3280000
+Buenos Aires,1983.0,soja_total,650000,950000
+Buenos Aires,1983.0,trigo,44200,97700
+Buenos Aires,1983.0,trigo_total,4446000,9790000
+Buenos Aires,1984.0,maiz_total,1195000,4130000
+Buenos Aires,1984.0,soja_total,715000,1670000
+Buenos Aires,1984.0,trigo,50800,111400
+Buenos Aires,1984.0,trigo_total,4500000,8450000
+Buenos Aires,1985.0,maiz_total,1290000,4680000
+Buenos Aires,1985.0,soja_total,830000,1600000
+Buenos Aires,1985.0,trigo,29800,78600
+Buenos Aires,1985.0,trigo_total,3915000,9100000
+Buenos Aires,1986.0,maiz_total,1274000,4800000
+Buenos Aires,1986.0,soja_total,851500,1988000
+Buenos Aires,1986.0,trigo,22700,42800
+Buenos Aires,1986.0,trigo_total,3760000,5735000
+Buenos Aires,1987.0,maiz_total,1327000,3595000
+Buenos Aires,1987.0,soja_total,844000,1726400
+Buenos Aires,1987.0,trigo,22600,56500
+Buenos Aires,1987.0,trigo_total,3300000,6150000
+Buenos Aires,1988.0,maiz_total,985000,4023000
+Buenos Aires,1988.0,soja_total,987000,2150000
+Buenos Aires,1988.0,trigo,40000,101200
+Buenos Aires,1988.0,trigo_total,2910000,5230000
+Buenos Aires,1989.0,maiz_total,1075000,3319000
+Buenos Aires,1989.0,soja_total,1130000,2100000
+Buenos Aires,1989.0,trigo,37400,56900
+Buenos Aires,1989.0,trigo_total,2890000,5300000
+Buenos Aires,1990.0,maiz_total,800000,3430000
+Buenos Aires,1990.0,soja_total,1260000,2800000
+Buenos Aires,1990.0,trigo,22000,55700
+Buenos Aires,1990.0,trigo_total,3250000,6700000
+Buenos Aires,1991.0,maiz_total,881900,3929300
+Buenos Aires,1991.0,soja_total,1313000,2799000
+Buenos Aires,1991.0,trigo,19800,44200
+Buenos Aires,1991.0,trigo_total,3453000,6599900
+Buenos Aires,1992.0,maiz_total,1099700,5171300
+Buenos Aires,1992.0,soja_total,1213300,2533100
+Buenos Aires,1992.0,trigo,37900,114500
+Buenos Aires,1992.0,trigo_total,2768900,5715300
+Buenos Aires,1993.0,maiz_total,1156800,4448000
+Buenos Aires,1993.0,soja_total,1399950,2341100
+Buenos Aires,1993.0,trigo,40700,121500
+Buenos Aires,1993.0,trigo_total,2683600,6029600
+Buenos Aires,1994.0,maiz_total,942430,4006300
+Buenos Aires,1994.0,soja_total,1382530,2429300
+Buenos Aires,1994.0,trigo,34800,78000
+Buenos Aires,1994.0,trigo_total,2682200,5659000
+Buenos Aires,1995.0,maiz_total,1007200,4910400
+Buenos Aires,1995.0,soja_total,1376400,2608200
+Buenos Aires,1995.0,trigo,43500,100120
+Buenos Aires,1995.0,trigo_total,3043800,7148800
+Buenos Aires,1996.0,maiz_total,1124600,4493520
+Buenos Aires,1996.0,soja_total,1308055,2377800
+Buenos Aires,1996.0,trigo,54800,97000
+Buenos Aires,1996.0,trigo_total,3145200,6416040
+Buenos Aires,1997.0,maiz_total,1504000,8216320
+Buenos Aires,1997.0,soja_total,1471900,2531800
+Buenos Aires,1997.0,trigo,82600,192310
+Buenos Aires,1997.0,trigo_total,4447900,10774607
+Buenos Aires,1998.0,maiz_total,1371800,9031300
+Buenos Aires,1998.0,soja_total,1604000,3859680
+Buenos Aires,1998.0,trigo,81300,286020
+Buenos Aires,1998.0,trigo_total,3658600,10663930
+Buenos Aires,1999.0,maiz_total,1109100,5702700
+Buenos Aires,1999.0,soja_total,1732300,4579260
+Buenos Aires,1999.0,trigo,73700,157600
+Buenos Aires,1999.0,trigo_total,3250950,7517600
+Buenos Aires,2000.0,maiz_total,1210400,6590900
+Buenos Aires,2000.0,soja_total,1808450,3777100
+Buenos Aires,2000.0,trigo,69800,176100
+Buenos Aires,2000.0,trigo_total,3688800,8751000
+Buenos Aires,2001.0,maiz_total,1095650,5525640
+Buenos Aires,2001.0,soja_1ra,1669480,4333880
+Buenos Aires,2001.0,soja_2da,743530,1391688
+Buenos Aires,2001.0,soja_total,2413010,5725568
+Buenos Aires,2001.0,trigo,67800,187270
+Buenos Aires,2001.0,trigo_total,3550600,9853172
+Buenos Aires,2002.0,maiz_total,800846,4047780
+Buenos Aires,2002.0,soja_1ra,1484130,4297151
+Buenos Aires,2002.0,soja_2da,703960,1479649
+Buenos Aires,2002.0,soja_total,2188090,5776800
+Buenos Aires,2002.0,trigo,47350,135620
+Buenos Aires,2002.0,trigo_total,3565450,8654680
+Buenos Aires,2003.0,maiz_total,762190,4267450
+Buenos Aires,2003.0,soja_1ra,1848396,5589530
+Buenos Aires,2003.0,soja_2da,627257,1552730
+Buenos Aires,2003.0,soja_total,2475653,7142260
+Buenos Aires,2003.0,trigo,42500,97030
+Buenos Aires,2003.0,trigo_total,3291550,6833319
+Buenos Aires,2004.0,maiz_total,795530,4998610
+Buenos Aires,2004.0,soja_1ra,2342858,6514982
+Buenos Aires,2004.0,soja_2da,862665,1337018
+Buenos Aires,2004.0,soja_total,3205523,7852000
+Buenos Aires,2004.0,trigo,46600,146950
+Buenos Aires,2004.0,trigo_total,3165997,9033010
+Buenos Aires,2005.0,maiz_total,933462,6266880
+Buenos Aires,2005.0,soja_1ra,2454494,8098923
+Buenos Aires,2005.0,soja_2da,871554,1905107
+Buenos Aires,2005.0,soja_total,3326048,10004030
+Buenos Aires,2005.0,trigo,56700,179200
+Buenos Aires,2005.0,trigo_total,3322260,9817845
+Buenos Aires,2006.0,maiz_total,822300,4304450
+Buenos Aires,2006.0,soja_1ra,2828670,8867618
+Buenos Aires,2006.0,soja_2da,881130,1659094
+Buenos Aires,2006.0,soja_total,3709800,10526712
+Buenos Aires,2006.0,trigo,53195,128540
+Buenos Aires,2006.0,trigo_total,2885045,7450976
+Buenos Aires,2007.0,maiz_total,919605,6095250
+Buenos Aires,2007.0,soja_1ra,3047368,9436058
+Buenos Aires,2007.0,soja_2da,1009660,2217217
+Buenos Aires,2007.0,soja_total,4057028,11653275
+Buenos Aires,2007.0,trigo,48955,114985
+Buenos Aires,2007.0,trigo_total,2989765,9019700
+Buenos Aires,2008.0,maiz_total,1146870,7077260
+Buenos Aires,2008.0,soja_1ra,3121250,10106479
+Buenos Aires,2008.0,soja_2da,1095950,2139322
+Buenos Aires,2008.0,soja_total,4217200,12245801
+Buenos Aires,2008.0,trigo,59217,138350
+Buenos Aires,2008.0,trigo_total,2938017,7670480
+Buenos Aires,2009.0,maiz_total,1041200,3623400
+Buenos Aires,2009.0,soja_1ra,4274017,6217567
+Buenos Aires,2009.0,soja_2da,1119521,763119
+Buenos Aires,2009.0,soja_total,5393538,6733393
+Buenos Aires,2009.0,trigo,77855,135205
+Buenos Aires,2009.0,trigo_total,2650205,5510807
+Buenos Aires,2010.0,maiz_total,1133400,8128850
+Buenos Aires,2010.0,soja_1ra,4392351,14078688
+Buenos Aires,2010.0,soja_2da,924669,1924882
+Buenos Aires,2010.0,soja_total,5317020,16003570
+Buenos Aires,2010.0,trigo,64492,98821
+Buenos Aires,2010.0,trigo_total,2168120,5792554
+Buenos Aires,2011.0,maiz_total,1428106,8514650
+Buenos Aires,2011.0,soja_1ra,4840987,13558714
+Buenos Aires,2011.0,soja_2da,1094455,1906510
+Buenos Aires,2011.0,soja_total,5935442,15465224
+Buenos Aires,2011.0,trigo,51420,187378
+Buenos Aires,2011.0,trigo_total,2296230,9233514
+Buenos Aires,2012.0,maiz_total,1588295,7629560
+Buenos Aires,2012.0,soja_1ra,4764637,13486941
+Buenos Aires,2012.0,soja_2da,1204720,1909181
+Buenos Aires,2012.0,soja_total,5969357,15396122
+Buenos Aires,2012.0,trigo,53200,166918
+Buenos Aires,2012.0,trigo_total,2277150,8537626
+Buenos Aires,2013.0,maiz_total,1606583,9790376
+Buenos Aires,2013.0,soja_1ra,5112990,15142005
+Buenos Aires,2013.0,soja_2da,1473665,2345943
+Buenos Aires,2013.0,soja_total,6645655,17601828
+Buenos Aires,2013.0,trigo,34516,101924
+Buenos Aires,2013.0,trigo_total,1245804,3664848
+Buenos Aires,2014.0,maiz_total,1476460,7191890
+Buenos Aires,2014.0,soja_1ra,5377813,15095260
+Buenos Aires,2014.0,soja_2da,1313216,2048114
+Buenos Aires,2014.0,soja_total,6691029,17143374
+Buenos Aires,2014.0,trigo,40500,123970
+Buenos Aires,2014.0,trigo_total,1638495,5617211
+Buenos Aires,2015.0,maiz_total,1561280,8893434
+Buenos Aires,2015.0,soja_1ra,5178412,16912077
+Buenos Aires,2015.0,soja_2da,1405860,2680298
+Buenos Aires,2015.0,soja_total,6584272,19592375
+Buenos Aires,2015.0,trigo,75365,205027
+Buenos Aires,2015.0,trigo_total,2187465,6468158
+Buenos Aires,2016.0,maiz_total,1787008,10147679
+Buenos Aires,2016.0,soja_1ra,5419368,19090041
+Buenos Aires,2016.0,soja_2da,1404361,2861900
+Buenos Aires,2016.0,soja_total,6823729,21951941
+Buenos Aires,2016.0,trigo,69790,249466
+Buenos Aires,2016.0,trigo_total,1510751,4958819
+Buenos Aires,2017.0,maiz_total,2308200,12955509
+Buenos Aires,2017.0,soja_1ra,4491041,14342120
+Buenos Aires,2017.0,soja_2da,1489020,3041292
+Buenos Aires,2017.0,soja_total,5980061,17383411
+Buenos Aires,2017.0,trigo,56388,150148
+Buenos Aires,2017.0,trigo_total,2354200,7548338
+Buenos Aires,2018.0,maiz_total,2452881,12770903
+Buenos Aires,2018.0,soja_1ra,4121980,10201098
+Buenos Aires,2018.0,soja_2da,1426480,1643563
+Buenos Aires,2018.0,soja_total,5548460,11844661
+Buenos Aires,2018.0,trigo,52548,170978
+Buenos Aires,2018.0,trigo_total,1989714,7611227
+Buenos Aires,2019.0,maiz_total,2418940,16770895
+Buenos Aires,2019.0,soja_1ra,3650431,13347190
+Buenos Aires,2019.0,soja_2da,1891962,4319862
+Buenos Aires,2019.0,soja_total,5542393,17667049
+Buenos Aires,2019.0,trigo,44295,145646
+Buenos Aires,2019.0,trigo_total,2342984,9017580
+Buenos Aires,2020.0,maiz_total,2472520,15595357
+Buenos Aires,2020.0,soja_1ra,3475329,11776964
+Buenos Aires,2020.0,soja_2da,1697154,3383932
+Buenos Aires,2020.0,soja_total,5172483,15160896
+Buenos Aires,2020.0,trigo,45150,134720
+Buenos Aires,2020.0,trigo_total,2484078,7810038
+Buenos Aires,2021.0,maiz_total,2713158,16045316
+Buenos Aires,2021.0,soja_1ra,3242842,9861219
+Buenos Aires,2021.0,soja_2da,2043506,3671673
+Buenos Aires,2021.0,soja_total,5286348,13532893
+Buenos Aires,2021.0,trigo,112917,444478
+Buenos Aires,2021.0,trigo_total,2747910,10480586
+Buenos Aires,2022.0,maiz_total,2950705,16161683
+Buenos Aires,2022.0,soja_1ra,2913427,9458183
+Buenos Aires,2022.0,soja_2da,2122877,4078930
+Buenos Aires,2022.0,soja_total,5036304,13537109
+Buenos Aires,2022.0,trigo,82260,240525
+Buenos Aires,2022.0,trigo_total,2601214,9687585
+Buenos Aires,2023.0,maiz_total,2928935,11954847
+Buenos Aires,2023.0,soja_1ra,2988262,6084157
+Buenos Aires,2023.0,soja_2da,2009348,2406773
+Buenos Aires,2023.0,soja_total,4997610,8490928
+Buenos Aires,2023.0,trigo,77128,192692
+Buenos Aires,2023.0,trigo_total,2641414,6132032
+Buenos Aires,2024.0,maiz_total,3090580,17859488
+Buenos Aires,2024.0,soja_1ra,3282182,10591737
+Buenos Aires,2024.0,soja_2da,1898026,4307725
+Buenos Aires,2024.0,soja_total,5180208,14899458
+Buenos Aires,2024.0,trigo,102930,261027
+Buenos Aires,2024.0,trigo_total,2415159,7955064
+Buenos Aires,2025.0,maiz_total,3130724,17196317
+Buenos Aires,2025.0,soja_1ra,3270695,10369117
+Buenos Aires,2025.0,soja_2da,2216342,5164479
+Buenos Aires,2025.0,soja_total,5487037,15533596
+Buenos Aires,2025.0,trigo,99348,296820
+Buenos Aires,2025.0,trigo_total,2620117,9265428
+Catamarca,1970.0,maiz_total,1800,1500
+Catamarca,1970.0,trigo_total,580,450
+Catamarca,1971.0,maiz_total,1600,1100
+Catamarca,1971.0,trigo_total,480,360
+Catamarca,1972.0,maiz_total,1468,240
+Catamarca,1972.0,trigo_total,400,80
+Catamarca,1973.0,maiz_total,1340,745
+Catamarca,1974.0,maiz_total,2340,2100
+Catamarca,1975.0,maiz_total,1260,530
+Catamarca,1976.0,maiz_total,2250,1680
+Catamarca,1976.0,soja_total,250,200
+Catamarca,1976.0,trigo_total,460,340
+Catamarca,1977.0,maiz_total,3000,3000
+Catamarca,1977.0,soja_total,500,500
+Catamarca,1977.0,trigo_total,460,300
+Catamarca,1978.0,maiz_total,3300,4000
+Catamarca,1978.0,soja_total,700,700
+Catamarca,1978.0,trigo_total,500,400
+Catamarca,1979.0,maiz_total,3100,4000
+Catamarca,1979.0,soja_total,800,500
+Catamarca,1979.0,trigo_total,500,400
+Catamarca,1980.0,maiz_total,3100,4200
+Catamarca,1980.0,soja_total,2000,2300
+Catamarca,1980.0,trigo_total,550,440
+Catamarca,1981.0,maiz_total,3400,4800
+Catamarca,1981.0,soja_total,2100,3000
+Catamarca,1981.0,trigo_total,630,500
+Catamarca,1982.0,maiz_total,5540,9000
+Catamarca,1982.0,soja_total,2000,2600
+Catamarca,1982.0,trigo_total,600,350
+Catamarca,1983.0,maiz_total,11980,27700
+Catamarca,1983.0,soja_total,1100,1500
+Catamarca,1983.0,trigo_total,1650,1450
+Catamarca,1984.0,maiz_total,12000,27000
+Catamarca,1984.0,soja_total,1100,1500
+Catamarca,1984.0,trigo_total,1880,1880
+Catamarca,1985.0,maiz_total,8000,17000
+Catamarca,1985.0,soja_total,1000,1800
+Catamarca,1985.0,trigo_total,1500,1800
+Catamarca,1986.0,maiz_total,20000,47000
+Catamarca,1986.0,soja_total,890,1590
+Catamarca,1986.0,trigo_total,1500,2250
+Catamarca,1987.0,maiz_total,25000,22500
+Catamarca,1987.0,soja_total,8000,5000
+Catamarca,1987.0,trigo_total,4000,5335
+Catamarca,1988.0,maiz_total,18000,54000
+Catamarca,1988.0,soja_total,7900,12400
+Catamarca,1988.0,trigo_total,3500,1400
+Catamarca,1989.0,maiz_total,5000,4620
+Catamarca,1989.0,soja_total,6000,4000
+Catamarca,1989.0,trigo_total,3500,3300
+Catamarca,1990.0,maiz_total,17000,37000
+Catamarca,1990.0,soja_total,11000,20000
+Catamarca,1990.0,trigo_total,3600,2750
+Catamarca,1991.0,maiz_total,15000,54000
+Catamarca,1991.0,soja_total,15000,33600
+Catamarca,1991.0,trigo_total,4000,4600
+Catamarca,1992.0,maiz_total,19000,70300
+Catamarca,1992.0,soja_total,16000,36700
+Catamarca,1992.0,trigo_total,4000,7600
+Catamarca,1993.0,maiz_total,15000,60000
+Catamarca,1993.0,soja_total,7000,14000
+Catamarca,1993.0,trigo_total,3000,6000
+Catamarca,1994.0,maiz_total,13000,52000
+Catamarca,1994.0,soja_total,10000,24000
+Catamarca,1994.0,trigo_total,10000,8200
+Catamarca,1995.0,maiz_total,10000,40000
+Catamarca,1995.0,soja_total,14000,29400
+Catamarca,1995.0,trigo_total,13000,7200
+Catamarca,1996.0,maiz_total,9000,36000
+Catamarca,1996.0,soja_total,12000,15600
+Catamarca,1996.0,trigo_total,4000,4800
+Catamarca,1997.0,maiz_total,9000,36000
+Catamarca,1997.0,soja_total,15000,34500
+Catamarca,1997.0,trigo_total,3500,5800
+Catamarca,1998.0,maiz_total,10000,45000
+Catamarca,1998.0,soja_total,14000,42000
+Catamarca,1998.0,trigo_total,900,1300
+Catamarca,1999.0,maiz_total,9000,36900
+Catamarca,1999.0,soja_total,18000,52200
+Catamarca,1999.0,trigo_total,2100,5700
+Catamarca,2000.0,maiz_total,9000,40500
+Catamarca,2000.0,soja_total,14000,35300
+Catamarca,2000.0,trigo_total,15000,31000
+Catamarca,2001.0,maiz_total,9000,40500
+Catamarca,2001.0,soja_2da,23000,64400
+Catamarca,2001.0,soja_total,23000,64400
+Catamarca,2001.0,trigo_total,30000,84000
+Catamarca,2002.0,maiz_total,9000,40500
+Catamarca,2002.0,soja_1ra,35000,98000
+Catamarca,2002.0,soja_total,35000,98000
+Catamarca,2002.0,trigo_total,22000,62000
+Catamarca,2003.0,maiz_total,9000,40500
+Catamarca,2003.0,soja_1ra,32000,89600
+Catamarca,2003.0,soja_2da,8000,22400
+Catamarca,2003.0,soja_total,40000,112000
+Catamarca,2003.0,trigo_total,8000,17600
+Catamarca,2004.0,maiz_total,9000,20250
+Catamarca,2004.0,soja_1ra,31000,89900
+Catamarca,2004.0,soja_2da,6000,17400
+Catamarca,2004.0,soja_total,37000,107300
+Catamarca,2004.0,trigo_total,6000,12000
+Catamarca,2005.0,maiz_total,9000,31500
+Catamarca,2005.0,soja_1ra,20394,45575
+Catamarca,2005.0,soja_2da,20000,44695
+Catamarca,2005.0,soja_total,40394,90270
+Catamarca,2005.0,trigo_total,20000,40000
+Catamarca,2006.0,maiz_total,9000,31500
+Catamarca,2006.0,soja_1ra,30000,82356
+Catamarca,2006.0,soja_2da,16000,43924
+Catamarca,2006.0,soja_total,46000,126280
+Catamarca,2006.0,trigo_total,16000,33600
+Catamarca,2007.0,maiz_total,9000,31500
+Catamarca,2007.0,soja_1ra,31000,86800
+Catamarca,2007.0,soja_2da,15000,42000
+Catamarca,2007.0,soja_total,46000,128800
+Catamarca,2007.0,trigo_total,15000,39000
+Catamarca,2008.0,maiz_total,10000,40000
+Catamarca,2008.0,soja_1ra,31000,93000
+Catamarca,2008.0,soja_2da,19000,57000
+Catamarca,2008.0,soja_total,50000,150000
+Catamarca,2008.0,trigo_total,19000,24700
+Catamarca,2009.0,maiz_total,10000,40000
+Catamarca,2009.0,soja_1ra,26000,59800
+Catamarca,2009.0,soja_2da,24000,55200
+Catamarca,2009.0,soja_total,50000,115000
+Catamarca,2009.0,trigo_total,24000,43200
+Catamarca,2010.0,maiz_total,10000,40000
+Catamarca,2010.0,soja_1ra,41500,103750
+Catamarca,2010.0,soja_2da,11500,28750
+Catamarca,2010.0,soja_total,53000,132500
+Catamarca,2010.0,trigo_total,11500,25300
+Catamarca,2011.0,maiz_total,10000,41410
+Catamarca,2011.0,soja_1ra,31000,68200
+Catamarca,2011.0,soja_2da,22000,48400
+Catamarca,2011.0,soja_total,53000,116600
+Catamarca,2011.0,trigo_total,22000,35200
+Catamarca,2012.0,maiz_total,10000,40800
+Catamarca,2012.0,soja_1ra,16000,30400
+Catamarca,2012.0,soja_2da,21000,39900
+Catamarca,2012.0,soja_total,37000,70300
+Catamarca,2012.0,trigo_total,22000,46200
+Catamarca,2013.0,maiz_total,2600,6085
+Catamarca,2013.0,soja_1ra,8060,7135
+Catamarca,2013.0,soja_2da,16240,16940
+Catamarca,2013.0,soja_total,24300,24075
+Catamarca,2013.0,trigo_total,22240,16960
+Catamarca,2014.0,maiz_total,3600,18620
+Catamarca,2014.0,soja_1ra,13400,23651
+Catamarca,2014.0,soja_2da,1700,1719
+Catamarca,2014.0,soja_total,15100,25370
+Catamarca,2014.0,trigo_total,1700,560
+Catamarca,2015.0,maiz_total,8700,48960
+Catamarca,2015.0,soja_1ra,11200,41699
+Catamarca,2015.0,soja_2da,15000,17175
+Catamarca,2015.0,soja_total,26200,58874
+Catamarca,2015.0,trigo_total,15000,14180
+Catamarca,2016.0,maiz_total,12400,93192
+Catamarca,2016.0,soja_1ra,19122,54844
+Catamarca,2016.0,soja_2da,37020,106823
+Catamarca,2016.0,soja_total,56142,161667
+Catamarca,2016.0,trigo_total,37020,55270
+Catamarca,2017.0,maiz_total,9300,50050
+Catamarca,2017.0,soja_1ra,2000,3780
+Catamarca,2017.0,soja_2da,27900,69447
+Catamarca,2017.0,soja_total,29900,73227
+Catamarca,2017.0,trigo_total,34700,37312
+Catamarca,2018.0,maiz_total,13350,84600
+Catamarca,2018.0,soja_1ra,28700,64470
+Catamarca,2018.0,soja_2da,10900,24546
+Catamarca,2018.0,soja_total,39600,89016
+Catamarca,2018.0,trigo_total,39150,38230
+Catamarca,2019.0,maiz_total,20060,142670
+Catamarca,2019.0,soja_1ra,27100,88440
+Catamarca,2019.0,soja_2da,15000,47360
+Catamarca,2019.0,soja_total,42100,135800
+Catamarca,2019.0,trigo_total,16400,10392
+Catamarca,2020.0,maiz_total,16200,91326
+Catamarca,2020.0,soja_1ra,14900,35000
+Catamarca,2020.0,soja_2da,25500,57615
+Catamarca,2020.0,soja_total,40400,92615
+Catamarca,2020.0,trigo_total,27200,31578
+Catamarca,2021.0,maiz_total,18400,124880
+Catamarca,2021.0,soja_1ra,19400,51495
+Catamarca,2021.0,soja_2da,20400,54756
+Catamarca,2021.0,soja_total,39800,106251
+Catamarca,2021.0,trigo_total,21100,20605
+Catamarca,2022.0,maiz_total,18800,103580
+Catamarca,2022.0,soja_1ra,15500,34348
+Catamarca,2022.0,soja_2da,21000,47081
+Catamarca,2022.0,soja_total,38300,84640
+Catamarca,2022.0,trigo_total,21630,23500
+Catamarca,2023.0,maiz_total,18200,93933
+Catamarca,2023.0,soja_1ra,24500,37473
+Catamarca,2023.0,soja_2da,18000,26475
+Catamarca,2023.0,soja_total,42500,63948
+Catamarca,2023.0,trigo_total,19100,18092
+Catamarca,2024.0,maiz_total,19400,29460
+Catamarca,2024.0,soja_1ra,24600,74207
+Catamarca,2024.0,soja_2da,19400,59979
+Catamarca,2024.0,soja_total,44000,134185
+Catamarca,2024.0,trigo_total,20100,25778
+Catamarca,2025.0,maiz_total,8450,36988
+Catamarca,2025.0,soja_1ra,21450,52391
+Catamarca,2025.0,soja_2da,20000,49375
+Catamarca,2025.0,soja_total,41450,101766
+Catamarca,2025.0,trigo,300,297
+Catamarca,2025.0,trigo_total,20400,19703
+Chaco,1970.0,maiz_total,40800,38400
+Chaco,1970.0,soja_total,150,110
+Chaco,1970.0,trigo_total,58800,24550
+Chaco,1971.0,maiz_total,46900,42900
+Chaco,1971.0,soja_total,360,275
+Chaco,1971.0,trigo_total,49300,55700
+Chaco,1972.0,maiz_total,35600,44000
+Chaco,1972.0,soja_total,1000,600
+Chaco,1972.0,trigo_total,54800,23100
+Chaco,1973.0,maiz_total,27550,48400
+Chaco,1973.0,soja_total,2030,1533
+Chaco,1973.0,trigo_total,59600,34600
+Chaco,1974.0,maiz_total,19500,34500
+Chaco,1974.0,soja_total,2550,3050
+Chaco,1974.0,trigo_total,37300,59000
+Chaco,1975.0,maiz_total,17650,31000
+Chaco,1975.0,soja_total,2340,2600
+Chaco,1975.0,trigo_total,47250,55600
+Chaco,1976.0,maiz_total,12900,21360
+Chaco,1976.0,soja_total,2700,2650
+Chaco,1976.0,trigo_total,72600,92400
+Chaco,1977.0,maiz_total,10000,12000
+Chaco,1977.0,soja_total,2000,2000
+Chaco,1977.0,trigo_total,8100,4000
+Chaco,1978.0,maiz_total,30000,42000
+Chaco,1978.0,soja_total,2000,2400
+Chaco,1978.0,trigo_total,40000,20000
+Chaco,1979.0,maiz_total,26500,28000
+Chaco,1979.0,soja_total,2000,2400
+Chaco,1979.0,trigo_total,27700,6000
+Chaco,1980.0,maiz_total,36000,93000
+Chaco,1980.0,soja_total,3000,1500
+Chaco,1980.0,trigo_total,14200,13000
+Chaco,1981.0,maiz_total,40500,27600
+Chaco,1981.0,soja_total,70,0
+Chaco,1981.0,trigo_total,44600,8200
+Chaco,1982.0,maiz_total,35100,60000
+Chaco,1982.0,soja_total,750,900
+Chaco,1982.0,trigo_total,15000,18000
+Chaco,1983.0,maiz_total,30100,45900
+Chaco,1983.0,soja_total,2050,2000
+Chaco,1983.0,trigo_total,33400,30000
+Chaco,1984.0,maiz_total,23000,36000
+Chaco,1984.0,soja_total,3400,3800
+Chaco,1984.0,trigo_total,19300,19400
+Chaco,1985.0,maiz_total,28500,63600
+Chaco,1985.0,soja_total,5200,8870
+Chaco,1985.0,trigo_total,11350,11100
+Chaco,1986.0,maiz_total,26000,38000
+Chaco,1986.0,soja_total,8780,10800
+Chaco,1986.0,trigo_total,7350,14000
+Chaco,1987.0,maiz_total,30700,64700
+Chaco,1987.0,soja_total,11000,17000
+Chaco,1987.0,trigo_total,8300,7700
+Chaco,1988.0,maiz_total,33200,85000
+Chaco,1988.0,soja_total,14000,25000
+Chaco,1988.0,trigo_total,5200,6800
+Chaco,1989.0,maiz_total,33100,50000
+Chaco,1989.0,soja_total,60000,105000
+Chaco,1989.0,trigo_total,1900,1100
+Chaco,1990.0,maiz_total,30400,59000
+Chaco,1990.0,soja_total,68000,110000
+Chaco,1990.0,trigo_total,13400,22000
+Chaco,1991.0,maiz_total,30000,51300
+Chaco,1991.0,soja_total,50000,76700
+Chaco,1991.0,trigo_total,27000,33000
+Chaco,1992.0,maiz_total,54000,155600
+Chaco,1992.0,soja_total,70000,133100
+Chaco,1992.0,trigo_total,8500,15300
+Chaco,1993.0,maiz_total,81100,243300
+Chaco,1993.0,soja_total,128000,230500
+Chaco,1993.0,trigo_total,22000,49800
+Chaco,1994.0,maiz_total,84000,168000
+Chaco,1994.0,soja_total,149000,201600
+Chaco,1994.0,trigo_total,27000,11900
+Chaco,1995.0,maiz_total,75000,127800
+Chaco,1995.0,soja_total,137000,170300
+Chaco,1995.0,trigo_total,41000,40700
+Chaco,1996.0,maiz_total,130000,326300
+Chaco,1996.0,soja_total,70500,103600
+Chaco,1996.0,trigo_total,23000,25000
+Chaco,1997.0,maiz_total,141700,325900
+Chaco,1997.0,soja_total,123000,246000
+Chaco,1997.0,trigo_total,55300,69700
+Chaco,1998.0,maiz_total,90000,213000
+Chaco,1998.0,soja_total,130000,159600
+Chaco,1998.0,trigo_total,27450,27100
+Chaco,1999.0,maiz_total,105000,203300
+Chaco,1999.0,soja_total,215000,430000
+Chaco,1999.0,trigo_total,32800,65000
+Chaco,2000.0,maiz_total,136000,480200
+Chaco,2000.0,soja_total,350000,629200
+Chaco,2000.0,trigo_total,36400,49460
+Chaco,2001.0,maiz_total,95000,191200
+Chaco,2001.0,soja_1ra,329250,667433
+Chaco,2001.0,soja_2da,80750,163367
+Chaco,2001.0,soja_total,410000,830800
+Chaco,2001.0,trigo_total,85000,95000
+Chaco,2002.0,maiz_total,115000,369200
+Chaco,2002.0,soja_1ra,465462,912750
+Chaco,2002.0,soja_2da,121838,242228
+Chaco,2002.0,soja_total,587300,1154978
+Chaco,2002.0,trigo_total,130000,157190
+Chaco,2003.0,maiz_total,116000,332000
+Chaco,2003.0,soja_1ra,611012,1277462
+Chaco,2003.0,soja_2da,140388,295108
+Chaco,2003.0,soja_total,751400,1572570
+Chaco,2003.0,trigo_total,150000,298980
+Chaco,2004.0,maiz_total,120000,330050
+Chaco,2004.0,soja_1ra,617075,680026
+Chaco,2004.0,soja_2da,141425,144569
+Chaco,2004.0,soja_total,758500,824595
+Chaco,2004.0,trigo_total,150000,125390
+Chaco,2005.0,maiz_total,87000,221280
+Chaco,2005.0,soja_1ra,639338,843310
+Chaco,2005.0,soja_2da,13845,18888
+Chaco,2005.0,soja_total,653183,862198
+Chaco,2005.0,trigo_total,15990,16200
+Chaco,2006.0,maiz_total,135100,362990
+Chaco,2006.0,soja_1ra,559769,1226602
+Chaco,2006.0,soja_2da,57149,121778
+Chaco,2006.0,soja_total,616918,1348380
+Chaco,2006.0,trigo_total,63600,88340
+Chaco,2007.0,maiz_total,164400,477700
+Chaco,2007.0,soja_1ra,567115,1055138
+Chaco,2007.0,soja_2da,111935,199822
+Chaco,2007.0,soja_total,679050,1254960
+Chaco,2007.0,trigo_total,130000,140420
+Chaco,2008.0,maiz_total,130500,422050
+Chaco,2008.0,soja_1ra,695433,1611947
+Chaco,2008.0,soja_2da,15817,35932
+Chaco,2008.0,soja_total,711250,1647879
+Chaco,2008.0,trigo_total,18850,16370
+Chaco,2009.0,maiz_total,95300,95770
+Chaco,2009.0,soja_1ra,691863,644766
+Chaco,2009.0,soja_2da,664,631
+Chaco,2009.0,soja_total,692527,645397
+Chaco,2009.0,trigo_total,3040,3120
+Chaco,2010.0,maiz_total,113300,313740
+Chaco,2010.0,soja_1ra,665055,1545597
+Chaco,2010.0,soja_2da,665,916
+Chaco,2010.0,soja_total,665720,1546513
+Chaco,2010.0,trigo_total,700,700
+Chaco,2011.0,maiz_total,132800,482560
+Chaco,2011.0,soja_1ra,549459,1305542
+Chaco,2011.0,soja_2da,144461,336779
+Chaco,2011.0,soja_total,693920,1642321
+Chaco,2011.0,trigo_total,157700,317970
+Chaco,2012.0,maiz_total,135900,165160
+Chaco,2012.0,soja_1ra,521487,221257
+Chaco,2012.0,soja_2da,162273,70778
+Chaco,2012.0,soja_total,683760,292035
+Chaco,2012.0,trigo_total,173700,233860
+Chaco,2013.0,maiz_total,149350,218650
+Chaco,2013.0,soja_1ra,502488,507408
+Chaco,2013.0,soja_2da,45742,46386
+Chaco,2013.0,soja_total,548230,553794
+Chaco,2013.0,trigo_total,48270,33340
+Chaco,2014.0,maiz_total,213350,1079910
+Chaco,2014.0,soja_1ra,519461,1214595
+Chaco,2014.0,soja_2da,71839,169942
+Chaco,2014.0,soja_total,591300,1384537
+Chaco,2014.0,trigo_total,75620,21090
+Chaco,2015.0,maiz_total,128890,577060
+Chaco,2015.0,soja_1ra,512241,1030865
+Chaco,2015.0,soja_2da,84739,160475
+Chaco,2015.0,soja_total,596980,1191340
+Chaco,2015.0,trigo_total,90020,70650
+Chaco,2016.0,maiz_total,235710,1186959
+Chaco,2016.0,soja_1ra,466363,868871
+Chaco,2016.0,soja_2da,85577,151275
+Chaco,2016.0,soja_total,551940,1020146
+Chaco,2016.0,trigo_total,113980,150010
+Chaco,2017.0,maiz_total,325500,1999884
+Chaco,2017.0,soja_1ra,415136,1182716
+Chaco,2017.0,soja_2da,85932,231943
+Chaco,2017.0,soja_total,501068,1414659
+Chaco,2017.0,trigo_total,115800,109282
+Chaco,2018.0,maiz_total,344980,1604355
+Chaco,2018.0,soja_1ra,406028,844736
+Chaco,2018.0,soja_2da,108312,220184
+Chaco,2018.0,soja_total,514340,1064920
+Chaco,2018.0,trigo_total,142378,192866
+Chaco,2019.0,maiz_total,281867,1188223
+Chaco,2019.0,soja_1ra,370221,843307
+Chaco,2019.0,soja_2da,96773,195523
+Chaco,2019.0,soja_total,466994,1038828
+Chaco,2019.0,trigo_total,149750,281989
+Chaco,2020.0,maiz_total,279602,1306732
+Chaco,2020.0,soja_1ra,411573,1083683
+Chaco,2020.0,soja_2da,131400,320617
+Chaco,2020.0,soja_total,542973,1404299
+Chaco,2020.0,trigo_total,168098,337271
+Chaco,2021.0,maiz_total,228250,892515
+Chaco,2021.0,soja_1ra,493290,914151
+Chaco,2021.0,soja_2da,109730,174824
+Chaco,2021.0,soja_total,603020,1088975
+Chaco,2021.0,trigo_total,129930,62633
+Chaco,2022.0,maiz_total,306400,1200739
+Chaco,2022.0,soja_1ra,529000,1396597
+Chaco,2022.0,soja_2da,117350,252835
+Chaco,2022.0,soja_total,646350,1649432
+Chaco,2022.0,trigo_total,146000,153147
+Chaco,2023.0,maiz_total,300510,794349
+Chaco,2023.0,soja_1ra,491700,892414
+Chaco,2023.0,soja_2da,111424,164880
+Chaco,2023.0,soja_total,603124,1057294
+Chaco,2023.0,trigo_total,115250,101047
+Chaco,2024.0,maiz_total,287400,244280
+Chaco,2024.0,soja_1ra,561670,602935
+Chaco,2024.0,soja_2da,75800,60710
+Chaco,2024.0,soja_total,637470,663645
+Chaco,2024.0,trigo_total,87150,67797
+Chaco,2025.0,maiz_total,236600,226844
+Chaco,2025.0,soja_1ra,550950,357753
+Chaco,2025.0,soja_2da,88400,45584
+Chaco,2025.0,soja_total,639350,403337
+Chaco,2025.0,trigo_total,97980,107811
+Chubut,1970.0,trigo_total,640,0
+Chubut,1971.0,trigo_total,610,0
+Chubut,1972.0,trigo_total,610,0
+Chubut,1973.0,trigo_total,480,0
+Chubut,1974.0,trigo_total,450,0
+Chubut,1975.0,trigo_total,475,0
+Chubut,1976.0,trigo_total,480,0
+Chubut,1977.0,trigo_total,330,0
+Chubut,1978.0,trigo_total,350,0
+Chubut,1979.0,trigo_total,350,0
+Chubut,1980.0,maiz_total,100,100
+Chubut,1980.0,trigo_total,960,530
+Chubut,1981.0,maiz_total,100,130
+Chubut,1981.0,trigo_total,1160,600
+Chubut,1982.0,maiz_total,50,50
+Chubut,1982.0,trigo_total,1900,2000
+Chubut,1983.0,maiz_total,50,50
+Chubut,1983.0,trigo_total,400,450
+Chubut,1984.0,trigo_total,100,100
+Chubut,1985.0,trigo_total,130,110
+Chubut,1986.0,trigo_total,100,100
+Corrientes,1970.0,maiz_total,93200,96400
+Corrientes,1970.0,soja_total,600,630
+Corrientes,1970.0,trigo_total,1300,1150
+Corrientes,1971.0,maiz_total,88300,95200
+Corrientes,1971.0,soja_total,1570,2100
+Corrientes,1971.0,trigo_total,140,100
+Corrientes,1972.0,maiz_total,50800,8700
+Corrientes,1972.0,soja_total,5200,2240
+Corrientes,1972.0,trigo_total,400,420
+Corrientes,1973.0,maiz_total,46680,35500
+Corrientes,1973.0,soja_total,6425,7850
+Corrientes,1973.0,trigo_total,200,230
+Corrientes,1974.0,maiz_total,40100,33500
+Corrientes,1974.0,soja_total,16070,25000
+Corrientes,1974.0,trigo_total,300,340
+Corrientes,1975.0,maiz_total,41670,26300
+Corrientes,1975.0,soja_total,17900,25500
+Corrientes,1975.0,trigo_total,550,530
+Corrientes,1976.0,maiz_total,39400,25150
+Corrientes,1976.0,soja_total,18400,30100
+Corrientes,1976.0,trigo_total,405,460
+Corrientes,1977.0,maiz_total,33000,25000
+Corrientes,1977.0,soja_total,26000,40000
+Corrientes,1977.0,trigo_total,1410,1500
+Corrientes,1978.0,maiz_total,32000,30300
+Corrientes,1978.0,soja_total,48300,38000
+Corrientes,1978.0,trigo_total,800,800
+Corrientes,1979.0,maiz_total,29400,25000
+Corrientes,1979.0,soja_total,46000,35000
+Corrientes,1979.0,trigo_total,500,560
+Corrientes,1980.0,maiz_total,27200,18000
+Corrientes,1980.0,soja_total,48000,71000
+Corrientes,1981.0,maiz_total,35600,57700
+Corrientes,1981.0,soja_total,26100,38000
+Corrientes,1982.0,maiz_total,24300,37300
+Corrientes,1982.0,soja_total,28600,48200
+Corrientes,1983.0,maiz_total,14130,23900
+Corrientes,1983.0,soja_total,20000,37700
+Corrientes,1984.0,maiz_total,14000,18000
+Corrientes,1984.0,soja_total,26500,45000
+Corrientes,1985.0,maiz_total,15600,30000
+Corrientes,1985.0,soja_total,20000,29400
+Corrientes,1986.0,maiz_total,15000,7500
+Corrientes,1986.0,soja_total,25000,27000
+Corrientes,1987.0,maiz_total,12000,24000
+Corrientes,1987.0,soja_total,7300,14000
+Corrientes,1988.0,maiz_total,5000,11000
+Corrientes,1988.0,soja_total,9000,18000
+Corrientes,1989.0,maiz_total,1570,4500
+Corrientes,1989.0,soja_total,10000,20000
+Corrientes,1990.0,maiz_total,1750,5000
+Corrientes,1990.0,soja_total,15000,24000
+Corrientes,1991.0,maiz_total,1000,0
+Corrientes,1991.0,soja_total,7000,9800
+Corrientes,1992.0,maiz_total,2000,5600
+Corrientes,1993.0,maiz_total,6220,8000
+Corrientes,1993.0,soja_total,2300,3700
+Corrientes,1994.0,maiz_total,4500,9300
+Corrientes,1994.0,soja_total,2040,3800
+Corrientes,1995.0,maiz_total,4550,10528
+Corrientes,1995.0,soja_total,2240,4112
+Corrientes,1996.0,maiz_total,6700,8200
+Corrientes,1996.0,soja_total,2300,3300
+Corrientes,1997.0,maiz_total,7200,14500
+Corrientes,1997.0,soja_total,3400,5600
+Corrientes,1998.0,maiz_total,6200,9990
+Corrientes,1998.0,soja_total,4200,5050
+Corrientes,1999.0,maiz_total,6400,14800
+Corrientes,1999.0,soja_total,4400,8600
+Corrientes,2000.0,maiz_total,6300,12540
+Corrientes,2000.0,soja_total,3600,7900
+Corrientes,2001.0,maiz_total,5623,11597
+Corrientes,2001.0,soja_1ra,3570,5840
+Corrientes,2001.0,soja_total,3570,5840
+Corrientes,2002.0,maiz_total,5551,8910
+Corrientes,2002.0,soja_1ra,5298,4800
+Corrientes,2002.0,soja_total,5298,4800
+Corrientes,2003.0,maiz_total,7630,10789
+Corrientes,2003.0,soja_1ra,9760,18620
+Corrientes,2003.0,soja_total,9760,18620
+Corrientes,2004.0,maiz_total,8340,12168
+Corrientes,2004.0,soja_1ra,20055,21314
+Corrientes,2004.0,soja_total,20055,21314
+Corrientes,2005.0,maiz_total,6690,21630
+Corrientes,2005.0,soja_1ra,24468,32107
+Corrientes,2005.0,soja_total,24468,32107
+Corrientes,2006.0,maiz_total,12240,29028
+Corrientes,2006.0,soja_1ra,25135,34210
+Corrientes,2006.0,soja_total,25135,34210
+Corrientes,2006.0,trigo_total,3900,8900
+Corrientes,2007.0,maiz_total,14700,23100
+Corrientes,2007.0,soja_1ra,22000,33600
+Corrientes,2007.0,soja_total,22000,33600
+Corrientes,2007.0,trigo_total,2200,4400
+Corrientes,2008.0,maiz_total,15044,34446
+Corrientes,2008.0,soja_1ra,30410,45806
+Corrientes,2008.0,soja_total,30410,45806
+Corrientes,2008.0,trigo_total,5860,10359
+Corrientes,2009.0,maiz_total,14843,13055
+Corrientes,2009.0,soja_1ra,30090,24090
+Corrientes,2009.0,soja_total,30090,24090
+Corrientes,2009.0,trigo_total,5530,4840
+Corrientes,2010.0,maiz_total,13680,24676
+Corrientes,2010.0,soja_1ra,20668,34845
+Corrientes,2010.0,soja_total,20668,34845
+Corrientes,2010.0,trigo_total,5695,7865
+Corrientes,2011.0,maiz_total,12307,29540
+Corrientes,2011.0,soja_1ra,16795,29068
+Corrientes,2011.0,soja_total,16795,29068
+Corrientes,2011.0,trigo_total,7170,11766
+Corrientes,2012.0,maiz_total,12000,36000
+Corrientes,2012.0,soja_1ra,25000,25000
+Corrientes,2012.0,soja_total,25000,25000
+Corrientes,2012.0,trigo_total,1000,1100
+Corrientes,2013.0,maiz_total,12000,21000
+Corrientes,2013.0,soja_1ra,15000,18000
+Corrientes,2013.0,soja_total,15000,18000
+Corrientes,2013.0,trigo_total,1000,1000
+Corrientes,2014.0,maiz_total,14455,43365
+Corrientes,2014.0,soja_1ra,25000,50000
+Corrientes,2014.0,soja_total,25000,50000
+Corrientes,2015.0,maiz_total,13000,28000
+Corrientes,2015.0,soja_1ra,20000,40000
+Corrientes,2015.0,soja_total,20000,40000
+Corrientes,2016.0,maiz_total,13000,50000
+Corrientes,2016.0,soja_1ra,23000,41400
+Corrientes,2016.0,soja_total,23000,41400
+Corrientes,2017.0,maiz_total,14000,34020
+Corrientes,2017.0,soja_1ra,20000,40000
+Corrientes,2017.0,soja_total,20000,40000
+Corrientes,2018.0,maiz_total,10000,40000
+Corrientes,2018.0,soja_1ra,20000,40000
+Corrientes,2018.0,soja_total,20000,40000
+Corrientes,2019.0,maiz_total,10990,62313
+Corrientes,2019.0,soja_1ra,5190,13712
+Corrientes,2019.0,soja_total,5190,13712
+Corrientes,2019.0,trigo_total,2545,6860
+Corrientes,2020.0,maiz_total,12099,69301
+Corrientes,2020.0,soja_1ra,4490,11674
+Corrientes,2020.0,soja_2da,700,1400
+Corrientes,2020.0,soja_total,5190,13074
+Corrientes,2020.0,trigo_total,2500,3200
+Corrientes,2021.0,maiz_total,11000,60500
+Corrientes,2021.0,soja_1ra,4490,11674
+Corrientes,2021.0,soja_2da,700,1400
+Corrientes,2021.0,soja_total,5190,13074
+Corrientes,2021.0,trigo_total,1570,4396
+Corrientes,2022.0,maiz_total,11000,49500
+Corrientes,2022.0,soja_1ra,4490,6736
+Corrientes,2022.0,soja_2da,700,700
+Corrientes,2022.0,soja_total,5190,7436
+Corrientes,2022.0,trigo_total,1570,3140
+Corrientes,2023.0,maiz_total,11000,31275
+Corrientes,2023.0,soja_1ra,5000,7501
+Corrientes,2023.0,soja_2da,1000,1000
+Corrientes,2023.0,soja_total,6000,8501
+Corrientes,2023.0,trigo_total,2300,7360
+Corrientes,2024.0,maiz_total,11000,44000
+Corrientes,2024.0,soja_1ra,5000,13500
+Corrientes,2024.0,soja_2da,1000,2400
+Corrientes,2024.0,soja_total,6000,15900
+Corrientes,2024.0,trigo_total,3000,8700
+Corrientes,2025.0,maiz_total,9590,55380
+Corrientes,2025.0,soja_1ra,3100,2090
+Corrientes,2025.0,soja_2da,4000,5920
+Corrientes,2025.0,soja_total,7100,8010
+Corrientes,2025.0,trigo_total,4700,14100
+Córdoba,1970.0,maiz_total,855000,1320000
+Córdoba,1970.0,trigo_total,848200,638500
+Córdoba,1971.0,maiz_total,846400,1568000
+Córdoba,1971.0,trigo_total,373000,247700
+Córdoba,1972.0,maiz_total,694800,390000
+Córdoba,1972.0,soja_total,800,20
+Córdoba,1972.0,trigo_total,420000,400000
+Córdoba,1973.0,maiz_total,816500,1723000
+Córdoba,1973.0,soja_total,2000,2637
+Córdoba,1973.0,trigo_total,554700,557000
+Córdoba,1974.0,maiz_total,751000,1400000
+Córdoba,1974.0,soja_total,32900,40000
+Córdoba,1974.0,trigo_total,494600,845000
+Córdoba,1975.0,maiz_total,640000,1510000
+Córdoba,1975.0,soja_total,48000,64000
+Córdoba,1975.0,trigo_total,735000,870000
+Córdoba,1976.0,maiz_total,532000,636000
+Córdoba,1976.0,soja_total,74000,83500
+Córdoba,1976.0,trigo_total,773000,1470000
+Córdoba,1977.0,maiz_total,543000,1560000
+Córdoba,1977.0,soja_total,104000,165000
+Córdoba,1977.0,trigo_total,1044000,1670000
+Córdoba,1978.0,maiz_total,560000,1880000
+Córdoba,1978.0,soja_total,137900,300000
+Córdoba,1978.0,trigo_total,660000,700000
+Córdoba,1979.0,maiz_total,700000,1918000
+Córdoba,1979.0,soja_total,263000,656000
+Córdoba,1979.0,trigo_total,730000,970000
+Córdoba,1980.0,maiz_total,700000,1220000
+Córdoba,1980.0,soja_total,343000,450000
+Córdoba,1980.0,trigo_total,761000,1200000
+Córdoba,1981.0,maiz_total,855000,2723000
+Córdoba,1981.0,soja_total,359500,742000
+Córdoba,1981.0,trigo_total,1212000,770000
+Córdoba,1982.0,maiz_total,874800,1900000
+Córdoba,1982.0,soja_total,501600,978500
+Córdoba,1982.0,trigo_total,850000,740000
+Córdoba,1983.0,maiz_total,820000,2650000
+Córdoba,1983.0,soja_total,623000,1330000
+Córdoba,1983.0,trigo_total,920000,1410000
+Córdoba,1984.0,maiz_total,848000,2540000
+Córdoba,1984.0,soja_total,865000,2113500
+Córdoba,1984.0,trigo_total,870000,1470000
+Córdoba,1985.0,maiz_total,950000,3610000
+Córdoba,1985.0,soja_total,1000000,1800000
+Córdoba,1985.0,trigo_total,435000,1000000
+Córdoba,1986.0,maiz_total,1070000,3475000
+Córdoba,1986.0,soja_total,962000,1730000
+Córdoba,1986.0,trigo_total,390000,639000
+Córdoba,1987.0,maiz_total,874000,2500000
+Córdoba,1987.0,soja_total,1105000,1850000
+Córdoba,1987.0,trigo_total,380000,480000
+Córdoba,1988.0,maiz_total,610000,2076000
+Córdoba,1988.0,soja_total,1320000,2950000
+Córdoba,1988.0,trigo_total,576500,1067000
+Córdoba,1989.0,maiz_total,540000,519000
+Córdoba,1989.0,soja_total,1395000,1720000
+Córdoba,1989.0,trigo_total,440000,775000
+Córdoba,1990.0,maiz_total,423000,532300
+Córdoba,1990.0,soja_total,1410000,2650000
+Córdoba,1990.0,trigo_total,675500,705000
+Córdoba,1991.0,maiz_total,437700,1574100
+Córdoba,1991.0,soja_total,1250000,2642300
+Córdoba,1991.0,trigo_total,829300,1254500
+Córdoba,1992.0,maiz_total,515800,1899300
+Córdoba,1992.0,soja_total,1326200,2969100
+Córdoba,1992.0,trigo_total,671800,1478400
+Córdoba,1993.0,maiz_total,589000,2358400
+Córdoba,1993.0,soja_total,1380800,3183600
+Córdoba,1993.0,trigo_total,473500,1035100
+Córdoba,1994.0,maiz_total,685400,2847000
+Córdoba,1994.0,soja_total,1564200,3032900
+Córdoba,1994.0,trigo_total,647800,1232000
+Córdoba,1995.0,maiz_total,768300,2770700
+Córdoba,1995.0,soja_total,1596500,2658700
+Córdoba,1995.0,trigo_total,638200,1253700
+Córdoba,1996.0,maiz_total,881150,2027900
+Córdoba,1996.0,soja_total,1711500,3479400
+Córdoba,1996.0,trigo_total,498200,699875
+Córdoba,1997.0,maiz_total,1029500,2607100
+Córdoba,1997.0,soja_total,1901300,2906200
+Córdoba,1997.0,trigo_total,709200,1068200
+Córdoba,1998.0,maiz_total,919100,4422100
+Córdoba,1998.0,soja_total,2096800,5820700
+Córdoba,1998.0,trigo_total,450800,616300
+Córdoba,1999.0,maiz_total,734050,2799800
+Córdoba,1999.0,soja_total,2564600,5263300
+Córdoba,1999.0,trigo_total,625450,1332800
+Córdoba,2000.0,maiz_total,855400,4765800
+Córdoba,2000.0,soja_total,2726681,6928610
+Córdoba,2000.0,trigo_total,749000,1972000
+Córdoba,2001.0,maiz_total,862750,4201110
+Córdoba,2001.0,soja_1ra,2418600,6411082
+Córdoba,2001.0,soja_2da,732900,1743117
+Córdoba,2001.0,soja_total,3151500,8154199
+Córdoba,2001.0,trigo_total,867400,1933000
+Córdoba,2002.0,maiz_total,906950,5656070
+Córdoba,2002.0,soja_1ra,2541081,7709000
+Córdoba,2002.0,soja_2da,914820,1949300
+Córdoba,2002.0,soja_total,3455901,9658300
+Córdoba,2002.0,trigo_total,1086700,2333160
+Córdoba,2003.0,maiz_total,923570,6160140
+Córdoba,2003.0,soja_1ra,2726921,7706801
+Córdoba,2003.0,soja_2da,837430,2144300
+Córdoba,2003.0,soja_total,3564351,9851101
+Córdoba,2003.0,trigo_total,1004250,1740280
+Córdoba,2004.0,maiz_total,738830,3941200
+Córdoba,2004.0,soja_1ra,3270730,7102639
+Córdoba,2004.0,soja_2da,902210,1273562
+Córdoba,2004.0,soja_total,4172940,8376201
+Córdoba,2004.0,trigo_total,1063480,2087880
+Córdoba,2005.0,maiz_total,1027970,7061800
+Córdoba,2005.0,soja_1ra,3014727,9055276
+Córdoba,2005.0,soja_2da,966419,2135593
+Córdoba,2005.0,soja_total,3981146,11190869
+Córdoba,2005.0,trigo_total,1155525,2338230
+Córdoba,2006.0,maiz_total,1038180,5204450
+Córdoba,2006.0,soja_1ra,3547898,9307123
+Córdoba,2006.0,soja_2da,795820,1816042
+Córdoba,2006.0,soja_total,4343718,11123165
+Córdoba,2006.0,trigo_total,772750,1712790
+Córdoba,2007.0,maiz_total,1151650,8919130
+Córdoba,2007.0,soja_1ra,3628236,11810305
+Córdoba,2007.0,soja_2da,849646,2362725
+Córdoba,2007.0,soja_total,4477882,14173030
+Córdoba,2007.0,trigo_total,909700,1646190
+Córdoba,2008.0,maiz_total,1440000,8748610
+Córdoba,2008.0,soja_1ra,3554100,10678168
+Córdoba,2008.0,soja_2da,1150580,2085712
+Córdoba,2008.0,soja_total,4704680,12763880
+Córdoba,2008.0,trigo_total,1235700,3961210
+Córdoba,2009.0,maiz_total,1146200,6375310
+Córdoba,2009.0,soja_1ra,4408809,9764978
+Córdoba,2009.0,soja_2da,787940,1407308
+Córdoba,2009.0,soja_total,5195291,11168757
+Córdoba,2009.0,trigo_total,754180,1161070
+Córdoba,2010.0,maiz_total,998100,6760270
+Córdoba,2010.0,soja_1ra,4946690,12646410
+Córdoba,2010.0,soja_2da,182550,365395
+Córdoba,2010.0,soja_total,5129240,13011805
+Córdoba,2010.0,trigo_total,208590,296690
+Córdoba,2011.0,maiz_total,1142900,5925310
+Córdoba,2011.0,soja_1ra,4543631,11379793
+Córdoba,2011.0,soja_2da,510760,872472
+Córdoba,2011.0,soja_total,5047612,12230176
+Córdoba,2011.0,trigo_total,545550,1788740
+Córdoba,2012.0,maiz_total,1272000,4794540
+Córdoba,2012.0,soja_1ra,4528331,9067207
+Córdoba,2012.0,soja_2da,485920,716693
+Córdoba,2012.0,soja_total,5013251,9783900
+Córdoba,2012.0,trigo_total,514720,1429060
+Córdoba,2013.0,maiz_total,1907350,10789190
+Córdoba,2013.0,soja_1ra,4839862,12184064
+Córdoba,2013.0,soja_2da,509450,1058760
+Córdoba,2013.0,soja_total,5349312,13180784
+Córdoba,2013.0,trigo_total,487881,1378460
+Córdoba,2014.0,maiz_total,1917500,11839850
+Córdoba,2014.0,soja_1ra,4431900,13113340
+Córdoba,2014.0,soja_2da,620860,1804331
+Córdoba,2014.0,soja_total,5052760,14917671
+Córdoba,2014.0,trigo_total,724830,1028520
+Córdoba,2015.0,maiz_total,1879800,11667100
+Córdoba,2015.0,soja_1ra,4318220,15227227
+Córdoba,2015.0,soja_2da,1095110,3391840
+Córdoba,2015.0,soja_total,5413330,18619067
+Córdoba,2015.0,trigo_total,1141000,3027430
+Córdoba,2016.0,maiz_total,1935970,12255535
+Córdoba,2016.0,soja_1ra,4720211,15370220
+Córdoba,2016.0,soja_2da,859319,2552749
+Córdoba,2016.0,soja_total,5579530,17922969
+Córdoba,2016.0,trigo_total,1071240,2258520
+Córdoba,2017.0,maiz_total,2614910,16170280
+Córdoba,2017.0,soja_1ra,3756631,12728431
+Córdoba,2017.0,soja_2da,1114571,2931357
+Córdoba,2017.0,soja_total,4871202,15659788
+Córdoba,2017.0,trigo_total,1580050,4882795
+Córdoba,2018.0,maiz_total,2804452,13277346
+Córdoba,2018.0,soja_1ra,3524280,9430861
+Córdoba,2018.0,soja_2da,939330,1302026
+Córdoba,2018.0,soja_total,4463610,10732887
+Córdoba,2018.0,trigo_total,1236318,4195464
+Córdoba,2019.0,maiz_total,2827930,18996476
+Córdoba,2019.0,soja_1ra,3523938,12418596
+Córdoba,2019.0,soja_2da,930486,2936961
+Córdoba,2019.0,soja_total,4454424,15355555
+Córdoba,2019.0,trigo_total,1276181,3271488
+Córdoba,2020.0,maiz_total,2924573,19196764
+Córdoba,2020.0,soja_1ra,3340672,10219190
+Córdoba,2020.0,soja_2da,1184872,3248491
+Córdoba,2020.0,soja_total,4525544,13467681
+Córdoba,2020.0,trigo_total,1448787,4070031
+Córdoba,2021.0,maiz_total,3008944,21690343
+Córdoba,2021.0,soja_1ra,3449542,11312819
+Córdoba,2021.0,soja_2da,820235,2312333
+Córdoba,2021.0,soja_total,4269777,13625152
+Córdoba,2021.0,trigo,2384,5404
+Córdoba,2021.0,trigo_total,1025044,1602505
+Córdoba,2022.0,maiz_total,3147820,20459566
+Córdoba,2022.0,soja_1ra,3197262,9444933
+Córdoba,2022.0,soja_2da,1015272,2465592
+Córdoba,2022.0,soja_total,4212534,11910526
+Córdoba,2022.0,trigo,2621,8041
+Córdoba,2022.0,trigo_total,1131548,3750038
+Córdoba,2023.0,maiz_total,3064224,13521922
+Córdoba,2023.0,soja_1ra,3496576,5492419
+Córdoba,2023.0,soja_2da,701458,771594
+Córdoba,2023.0,soja_total,4198034,6264013
+Córdoba,2023.0,trigo,1898,4760
+Córdoba,2023.0,trigo_total,932438,1567065
+Córdoba,2024.0,maiz_total,3188920,20613843
+Córdoba,2024.0,soja_1ra,3525011,11158217
+Córdoba,2024.0,soja_2da,611542,1504155
+Córdoba,2024.0,soja_total,4136553,12662372
+Córdoba,2024.0,trigo,2625,6610
+Córdoba,2024.0,trigo_total,824609,1581580
+Córdoba,2025.0,maiz_total,2563297,17971562
+Córdoba,2025.0,soja_1ra,3796154,12332339
+Córdoba,2025.0,soja_2da,818580,2296258
+Córdoba,2025.0,soja_total,4614734,14628596
+Córdoba,2025.0,trigo,4674,11530
+Córdoba,2025.0,trigo_total,959999,2280460
+Entre Ríos,1970.0,maiz_total,567200,810000
+Entre Ríos,1970.0,trigo_total,361000,219600
+Entre Ríos,1971.0,maiz_total,564000,884000
+Entre Ríos,1971.0,trigo_total,285300,322000
+Entre Ríos,1972.0,maiz_total,502400,600000
+Entre Ríos,1972.0,trigo_total,264000,220000
+Entre Ríos,1973.0,maiz_total,339700,456000
+Entre Ríos,1973.0,trigo_total,225900,153000
+Entre Ríos,1974.0,maiz_total,352500,725000
+Entre Ríos,1974.0,soja_total,4200,5000
+Entre Ríos,1974.0,trigo_total,80500,116300
+Entre Ríos,1975.0,maiz_total,243500,314700
+Entre Ríos,1975.0,soja_total,2200,2800
+Entre Ríos,1975.0,trigo_total,91000,90000
+Entre Ríos,1976.0,maiz_total,260900,220200
+Entre Ríos,1976.0,soja_total,2300,3220
+Entre Ríos,1976.0,trigo_total,100100,160000
+Entre Ríos,1977.0,maiz_total,160000,240000
+Entre Ríos,1977.0,soja_total,9000,13000
+Entre Ríos,1977.0,trigo_total,251000,338000
+Entre Ríos,1978.0,maiz_total,136000,221000
+Entre Ríos,1978.0,soja_total,15900,34000
+Entre Ríos,1978.0,trigo_total,130000,130000
+Entre Ríos,1979.0,maiz_total,148000,126000
+Entre Ríos,1979.0,soja_total,35300,54000
+Entre Ríos,1979.0,trigo_total,115000,79000
+Entre Ríos,1980.0,maiz_total,135000,104000
+Entre Ríos,1980.0,soja_total,40000,53000
+Entre Ríos,1980.0,trigo_total,84400,70000
+Entre Ríos,1981.0,maiz_total,246900,570000
+Entre Ríos,1981.0,soja_total,21500,31000
+Entre Ríos,1981.0,trigo_total,75000,99000
+Entre Ríos,1982.0,maiz_total,169100,299000
+Entre Ríos,1982.0,soja_total,10700,14600
+Entre Ríos,1982.0,trigo_total,102000,98000
+Entre Ríos,1983.0,maiz_total,195500,232600
+Entre Ríos,1983.0,soja_total,13100,20600
+Entre Ríos,1983.0,trigo_total,120200,205000
+Entre Ríos,1984.0,maiz_total,121000,127000
+Entre Ríos,1984.0,soja_total,22000,36200
+Entre Ríos,1984.0,trigo_total,130000,217000
+Entre Ríos,1985.0,maiz_total,121000,197000
+Entre Ríos,1985.0,soja_total,20000,26000
+Entre Ríos,1985.0,trigo_total,150000,300000
+Entre Ríos,1986.0,maiz_total,99000,264000
+Entre Ríos,1986.0,soja_total,27200,53700
+Entre Ríos,1986.0,trigo_total,119000,170000
+Entre Ríos,1987.0,maiz_total,115000,233300
+Entre Ríos,1987.0,soja_total,34700,54800
+Entre Ríos,1987.0,trigo_total,95600,128000
+Entre Ríos,1988.0,maiz_total,110000,399900
+Entre Ríos,1988.0,soja_total,48300,87000
+Entre Ríos,1988.0,trigo_total,73600,147000
+Entre Ríos,1989.0,maiz_total,100000,65000
+Entre Ríos,1989.0,soja_total,48000,54000
+Entre Ríos,1989.0,trigo_total,111000,200000
+Entre Ríos,1990.0,maiz_total,77000,230000
+Entre Ríos,1990.0,soja_total,51000,115000
+Entre Ríos,1990.0,trigo_total,120000,210000
+Entre Ríos,1991.0,maiz_total,81500,266300
+Entre Ríos,1991.0,soja_total,54800,81800
+Entre Ríos,1991.0,trigo_total,132500,210800
+Entre Ríos,1992.0,maiz_total,114400,456600
+Entre Ríos,1992.0,soja_total,54600,108700
+Entre Ríos,1992.0,trigo_total,81500,128000
+Entre Ríos,1993.0,maiz_total,129500,593000
+Entre Ríos,1993.0,soja_total,75050,152300
+Entre Ríos,1993.0,trigo_total,101400,250300
+Entre Ríos,1994.0,maiz_total,95000,304900
+Entre Ríos,1994.0,soja_total,94100,183800
+Entre Ríos,1994.0,trigo_total,127500,217200
+Entre Ríos,1995.0,maiz_total,119000,631700
+Entre Ríos,1995.0,soja_total,127000,305750
+Entre Ríos,1995.0,trigo_total,147000,267600
+Entre Ríos,1996.0,maiz_total,164800,579200
+Entre Ríos,1996.0,soja_total,149000,308220
+Entre Ríos,1996.0,trigo_total,137300,235200
+Entre Ríos,1997.0,maiz_total,209900,892200
+Entre Ríos,1997.0,soja_total,219300,281450
+Entre Ríos,1997.0,trigo_total,288000,666400
+Entre Ríos,1998.0,maiz_total,190500,1176000
+Entre Ríos,1998.0,soja_total,272000,727200
+Entre Ríos,1998.0,trigo_total,271000,583500
+Entre Ríos,1999.0,maiz_total,181000,1020200
+Entre Ríos,1999.0,soja_total,389800,764500
+Entre Ríos,1999.0,trigo_total,243500,631100
+Entre Ríos,2000.0,maiz_total,222800,630900
+Entre Ríos,2000.0,soja_total,364100,535000
+Entre Ríos,2000.0,trigo_total,303200,582200
+Entre Ríos,2001.0,maiz_total,231000,1275580
+Entre Ríos,2001.0,soja_1ra,273500,886000
+Entre Ríos,2001.0,soja_2da,306000,772000
+Entre Ríos,2001.0,soja_total,579500,1658000
+Entre Ríos,2001.0,trigo_total,319600,601860
+Entre Ríos,2002.0,maiz_total,175400,911750
+Entre Ríos,2002.0,soja_1ra,428000,996000
+Entre Ríos,2002.0,soja_2da,386900,918900
+Entre Ríos,2002.0,soja_total,814900,1914900
+Entre Ríos,2002.0,trigo_total,409850,525400
+Entre Ríos,2003.0,maiz_total,196300,1182410
+Entre Ríos,2003.0,soja_1ra,764000,2123000
+Entre Ríos,2003.0,soja_2da,291000,686000
+Entre Ríos,2003.0,soja_total,1055000,2809000
+Entre Ríos,2003.0,trigo_total,252700,465133
+Entre Ríos,2004.0,maiz_total,207500,1451330
+Entre Ríos,2004.0,soja_1ra,944700,1849170
+Entre Ríos,2004.0,soja_2da,252000,458200
+Entre Ríos,2004.0,soja_total,1196700,2307370
+Entre Ríos,2004.0,trigo_total,235000,655180
+Entre Ríos,2005.0,maiz_total,251000,1625600
+Entre Ríos,2005.0,soja_1ra,945211,2341762
+Entre Ríos,2005.0,soja_2da,297601,712106
+Entre Ríos,2005.0,soja_total,1242812,3053868
+Entre Ríos,2005.0,trigo_total,285600,803365
+Entre Ríos,2006.0,maiz_total,196750,951190
+Entre Ríos,2006.0,soja_1ra,1058000,2355939
+Entre Ríos,2006.0,soja_2da,244700,445785
+Entre Ríos,2006.0,soja_total,1302700,2801724
+Entre Ríos,2006.0,trigo_total,219500,711650
+Entre Ríos,2007.0,maiz_total,185600,1367240
+Entre Ríos,2007.0,soja_1ra,1151500,3248525
+Entre Ríos,2007.0,soja_2da,284100,678951
+Entre Ríos,2007.0,soja_total,1435600,3927476
+Entre Ríos,2007.0,trigo_total,285050,889230
+Entre Ríos,2008.0,maiz_total,222400,1128630
+Entre Ríos,2008.0,soja_1ra,1123000,2708105
+Entre Ríos,2008.0,soja_2da,300000,580960
+Entre Ríos,2008.0,soja_total,1423000,3289065
+Entre Ríos,2008.0,trigo_total,310800,954798
+Entre Ríos,2009.0,maiz_total,164600,223330
+Entre Ríos,2009.0,soja_1ra,1069000,1022956
+Entre Ríos,2009.0,soja_2da,172400,164319
+Entre Ríos,2009.0,soja_total,1241400,1143899
+Entre Ríos,2009.0,trigo_total,247600,464125
+Entre Ríos,2010.0,maiz_total,154800,1211910
+Entre Ríos,2010.0,soja_1ra,1189500,3531870
+Entre Ríos,2010.0,soja_2da,278500,506335
+Entre Ríos,2010.0,soja_total,1468000,4038205
+Entre Ríos,2010.0,trigo_total,342720,1477860
+Entre Ríos,2011.0,maiz_total,191300,937640
+Entre Ríos,2011.0,soja_1ra,1212500,3167565
+Entre Ríos,2011.0,soja_2da,255500,429745
+Entre Ríos,2011.0,soja_total,1468000,3597310
+Entre Ríos,2011.0,trigo_total,279400,1129757
+Entre Ríos,2012.0,maiz_total,217700,1169460
+Entre Ríos,2012.0,soja_1ra,1045000,2547125
+Entre Ríos,2012.0,soja_2da,286700,552388
+Entre Ríos,2012.0,soja_total,1331700,3099513
+Entre Ríos,2012.0,trigo_total,296300,1081613
+Entre Ríos,2013.0,maiz_total,248500,1663060
+Entre Ríos,2013.0,soja_1ra,1166000,2969685
+Entre Ríos,2013.0,soja_2da,252600,559170
+Entre Ríos,2013.0,soja_total,1418600,3528855
+Entre Ríos,2013.0,trigo_total,218290,586958
+Entre Ríos,2014.0,maiz_total,268200,1403880
+Entre Ríos,2014.0,soja_1ra,1204400,3238551
+Entre Ríos,2014.0,soja_2da,300500,736052
+Entre Ríos,2014.0,soja_total,1504900,3974603
+Entre Ríos,2014.0,trigo_total,284940,830348
+Entre Ríos,2015.0,maiz_total,239200,1540300
+Entre Ríos,2015.0,soja_1ra,1215480,3581794
+Entre Ríos,2015.0,soja_2da,349510,743101
+Entre Ríos,2015.0,soja_total,1564990,4324895
+Entre Ríos,2015.0,trigo_total,318000,830205
+Entre Ríos,2016.0,maiz_total,257900,1562611
+Entre Ríos,2016.0,soja_1ra,1222000,2136350
+Entre Ríos,2016.0,soja_2da,244000,424800
+Entre Ríos,2016.0,soja_total,1466000,2561150
+Entre Ríos,2016.0,trigo_total,234050,707051
+Entre Ríos,2017.0,maiz_total,382500,2298225
+Entre Ríos,2017.0,soja_1ra,982700,2889810
+Entre Ríos,2017.0,soja_2da,343700,811779
+Entre Ríos,2017.0,soja_total,1326400,3701589
+Entre Ríos,2017.0,trigo_total,375800,1121848
+Entre Ríos,2018.0,maiz_total,415000,1723710
+Entre Ríos,2018.0,soja_1ra,966500,1096000
+Entre Ríos,2018.0,soja_2da,353400,272200
+Entre Ríos,2018.0,soja_total,1319900,1368200
+Entre Ríos,2018.0,trigo_total,417530,1110361
+Entre Ríos,2019.0,maiz_total,437000,2763953
+Entre Ríos,2019.0,soja_1ra,742900,2267898
+Entre Ríos,2019.0,soja_2da,434800,984378
+Entre Ríos,2019.0,soja_total,1177700,3252276
+Entre Ríos,2019.0,trigo_total,502000,1821420
+Entre Ríos,2020.0,maiz_total,488300,2872233
+Entre Ríos,2020.0,soja_1ra,713000,1650685
+Entre Ríos,2020.0,soja_2da,451550,838635
+Entre Ríos,2020.0,soja_total,1164550,2489320
+Entre Ríos,2020.0,trigo_total,475000,1303940
+Entre Ríos,2021.0,maiz_total,445700,2152710
+Entre Ríos,2021.0,soja_1ra,602000,1209570
+Entre Ríos,2021.0,soja_2da,510620,764948
+Entre Ríos,2021.0,soja_total,1112620,1974518
+Entre Ríos,2021.0,trigo,175,438
+Entre Ríos,2021.0,trigo_total,549875,1420068
+Entre Ríos,2022.0,maiz_total,517100,1865620
+Entre Ríos,2022.0,soja_1ra,566400,1438995
+Entre Ríos,2022.0,soja_2da,517700,1126760
+Entre Ríos,2022.0,soja_total,1084100,2565755
+Entre Ríos,2022.0,trigo_total,560000,1878980
+Entre Ríos,2023.0,maiz_total,489280,818365
+Entre Ríos,2023.0,soja_1ra,508400,351942
+Entre Ríos,2023.0,soja_2da,465100,283010
+Entre Ríos,2023.0,soja_total,973500,634952
+Entre Ríos,2023.0,trigo_total,623100,1942199
+Entre Ríos,2024.0,maiz_total,568200,2566155
+Entre Ríos,2024.0,soja_1ra,530200,1510670
+Entre Ríos,2024.0,soja_2da,561200,1201475
+Entre Ríos,2024.0,soja_total,1091400,2712145
+Entre Ríos,2024.0,trigo_total,690400,2210910
+Entre Ríos,2025.0,maiz_total,359700,2254760
+Entre Ríos,2025.0,soja_1ra,608100,1723930
+Entre Ríos,2025.0,soja_2da,643350,1648285
+Entre Ríos,2025.0,soja_total,1251450,3372215
+Entre Ríos,2025.0,trigo_total,712200,2217630
+Formosa,1970.0,maiz_total,16500,15000
+Formosa,1970.0,soja_total,195,160
+Formosa,1970.0,trigo_total,850,590
+Formosa,1971.0,maiz_total,17200,29000
+Formosa,1971.0,trigo_total,1350,1800
+Formosa,1972.0,maiz_total,15300,26350
+Formosa,1972.0,soja_total,150,120
+Formosa,1972.0,trigo_total,3400,4550
+Formosa,1973.0,maiz_total,15600,20600
+Formosa,1973.0,soja_total,1270,1374
+Formosa,1973.0,trigo_total,5550,3700
+Formosa,1974.0,maiz_total,18200,20000
+Formosa,1974.0,soja_total,940,880
+Formosa,1974.0,trigo_total,6400,8600
+Formosa,1975.0,maiz_total,24500,35300
+Formosa,1975.0,soja_total,700,730
+Formosa,1975.0,trigo_total,6000,8200
+Formosa,1976.0,maiz_total,15700,22400
+Formosa,1976.0,soja_total,500,450
+Formosa,1976.0,trigo_total,14740,21000
+Formosa,1977.0,maiz_total,14000,20000
+Formosa,1977.0,soja_total,500,500
+Formosa,1977.0,trigo_total,7960,8500
+Formosa,1978.0,maiz_total,15000,25000
+Formosa,1978.0,soja_total,1000,200
+Formosa,1978.0,trigo_total,3000,4000
+Formosa,1979.0,maiz_total,17500,25000
+Formosa,1979.0,soja_total,150,100
+Formosa,1979.0,trigo_total,2300,800
+Formosa,1980.0,maiz_total,21100,50000
+Formosa,1980.0,soja_total,600,800
+Formosa,1980.0,trigo_total,1700,1600
+Formosa,1981.0,maiz_total,23000,30000
+Formosa,1981.0,soja_total,400,100
+Formosa,1981.0,trigo_total,1050,1250
+Formosa,1982.0,maiz_total,17800,45200
+Formosa,1982.0,soja_total,1100,2700
+Formosa,1982.0,trigo_total,2000,2700
+Formosa,1983.0,maiz_total,18300,37450
+Formosa,1983.0,soja_total,850,0
+Formosa,1983.0,trigo_total,5600,3000
+Formosa,1984.0,maiz_total,16800,32000
+Formosa,1984.0,soja_total,5500,11000
+Formosa,1984.0,trigo_total,400,140
+Formosa,1985.0,maiz_total,21000,43400
+Formosa,1985.0,soja_total,1400,3100
+Formosa,1985.0,trigo_total,800,500
+Formosa,1986.0,maiz_total,17000,35700
+Formosa,1986.0,soja_total,4200,9180
+Formosa,1986.0,trigo_total,800,160
+Formosa,1987.0,maiz_total,20140,29300
+Formosa,1987.0,soja_total,5500,9900
+Formosa,1987.0,trigo_total,900,600
+Formosa,1988.0,maiz_total,22000,20000
+Formosa,1988.0,soja_total,7000,10500
+Formosa,1988.0,trigo_total,500,500
+Formosa,1989.0,maiz_total,14300,7500
+Formosa,1989.0,soja_total,10000,15000
+Formosa,1989.0,trigo_total,1000,800
+Formosa,1990.0,maiz_total,10000,28000
+Formosa,1990.0,soja_total,6000,6000
+Formosa,1990.0,trigo_total,1300,1400
+Formosa,1991.0,maiz_total,8000,24000
+Formosa,1991.0,soja_total,1200,1500
+Formosa,1991.0,trigo_total,1200,500
+Formosa,1992.0,maiz_total,15000,45000
+Formosa,1992.0,soja_total,1600,1400
+Formosa,1992.0,trigo_total,200,200
+Formosa,1993.0,maiz_total,18000,48600
+Formosa,1993.0,soja_total,1760,1200
+Formosa,1993.0,trigo_total,100,100
+Formosa,1994.0,maiz_total,18000,50000
+Formosa,1994.0,soja_total,1020,1800
+Formosa,1994.0,trigo_total,200,200
+Formosa,1995.0,maiz_total,18000,52800
+Formosa,1995.0,soja_total,1500,3200
+Formosa,1995.0,trigo_total,200,100
+Formosa,1996.0,maiz_total,15500,43400
+Formosa,1996.0,soja_total,1000,2000
+Formosa,1997.0,maiz_total,18000,61100
+Formosa,1997.0,soja_total,1000,1000
+Formosa,1998.0,maiz_total,15000,25000
+Formosa,1998.0,soja_total,1400,1200
+Formosa,1998.0,trigo_total,150,30
+Formosa,1999.0,maiz_total,29000,63800
+Formosa,1999.0,soja_total,1900,5700
+Formosa,1999.0,trigo_total,200,300
+Formosa,2000.0,maiz_total,12000,19000
+Formosa,2000.0,soja_total,1100,1300
+Formosa,2001.0,maiz_total,19500,62400
+Formosa,2001.0,soja_1ra,1100,1200
+Formosa,2001.0,soja_total,1100,1200
+Formosa,2002.0,maiz_total,21164,74090
+Formosa,2002.0,soja_1ra,7331,18400
+Formosa,2002.0,soja_total,7331,18400
+Formosa,2003.0,maiz_total,18164,54390
+Formosa,2003.0,soja_1ra,8530,15100
+Formosa,2003.0,soja_total,8530,15100
+Formosa,2003.0,trigo_total,860,1700
+Formosa,2004.0,maiz_total,17645,61950
+Formosa,2004.0,soja_1ra,11287,20172
+Formosa,2004.0,soja_2da,551,1396
+Formosa,2004.0,soja_total,11838,21568
+Formosa,2004.0,trigo_total,580,1330
+Formosa,2005.0,maiz_total,24170,61800
+Formosa,2005.0,soja_1ra,13438,40673
+Formosa,2005.0,soja_2da,295,667
+Formosa,2005.0,soja_total,13733,41340
+Formosa,2005.0,trigo_total,705,1885
+Formosa,2006.0,maiz_total,25000,66700
+Formosa,2006.0,soja_1ra,11683,24786
+Formosa,2006.0,soja_2da,257,406
+Formosa,2006.0,soja_total,11940,25192
+Formosa,2006.0,trigo_total,640,900
+Formosa,2007.0,maiz_total,19035,54627
+Formosa,2007.0,soja_1ra,22199,47641
+Formosa,2007.0,soja_2da,399,678
+Formosa,2007.0,soja_total,22598,48319
+Formosa,2007.0,trigo_total,420,880
+Formosa,2008.0,maiz_total,18120,68570
+Formosa,2008.0,soja_1ra,5402,10815
+Formosa,2008.0,soja_2da,693,1317
+Formosa,2008.0,soja_total,6095,12132
+Formosa,2008.0,trigo_total,1240,2214
+Formosa,2009.0,maiz_total,10355,28480
+Formosa,2009.0,soja_1ra,6100,4650
+Formosa,2009.0,soja_total,6100,4650
+Formosa,2009.0,trigo_total,4180,4920
+Formosa,2010.0,maiz_total,10000,35000
+Formosa,2010.0,soja_1ra,6100,4650
+Formosa,2010.0,soja_total,6100,4650
+Formosa,2010.0,trigo_total,2000,2100
+Formosa,2011.0,maiz_total,10000,41400
+Formosa,2011.0,soja_1ra,3250,2477
+Formosa,2011.0,soja_2da,2850,2173
+Formosa,2011.0,soja_total,6100,4650
+Formosa,2011.0,trigo_total,3000,4800
+Formosa,2012.0,maiz_total,10000,30000
+Formosa,2012.0,soja_1ra,11050,10498
+Formosa,2012.0,soja_2da,950,902
+Formosa,2012.0,soja_total,12000,11400
+Formosa,2012.0,trigo_total,1000,1000
+Formosa,2013.0,maiz_total,10000,17500
+Formosa,2013.0,soja_1ra,9050,10860
+Formosa,2013.0,soja_2da,950,1140
+Formosa,2013.0,soja_total,10000,12000
+Formosa,2013.0,trigo_total,1000,1000
+Formosa,2014.0,maiz_total,8000,24000
+Formosa,2014.0,soja_1ra,15000,30000
+Formosa,2014.0,soja_total,15000,30000
+Formosa,2015.0,maiz_total,34000,76000
+Formosa,2015.0,soja_1ra,17900,35800
+Formosa,2015.0,soja_total,17900,35800
+Formosa,2016.0,maiz_total,35000,135000
+Formosa,2016.0,soja_1ra,17900,35800
+Formosa,2016.0,soja_total,17900,35800
+Formosa,2017.0,maiz_total,40000,153000
+Formosa,2017.0,soja_1ra,18500,45125
+Formosa,2017.0,soja_total,18500,45125
+Formosa,2018.0,maiz_total,70000,298549
+Formosa,2018.0,soja_1ra,25000,61250
+Formosa,2018.0,soja_total,25000,61250
+Formosa,2019.0,maiz_total,69000,119475
+Formosa,2019.0,soja_1ra,25000,60500
+Formosa,2019.0,soja_total,25000,60500
+Formosa,2020.0,maiz_total,45000,61650
+Formosa,2020.0,soja_1ra,12000,8500
+Formosa,2020.0,soja_2da,13000,9000
+Formosa,2020.0,soja_total,25000,17500
+Formosa,2021.0,maiz_total,38000,66000
+Formosa,2021.0,soja_1ra,9738,8490
+Formosa,2021.0,soja_total,9738,8490
+Formosa,2022.0,maiz_total,40444,39523
+Formosa,2022.0,soja_1ra,17834,26132
+Formosa,2022.0,soja_2da,2345,2580
+Formosa,2022.0,soja_total,20179,28712
+Formosa,2022.0,trigo,905,1240
+Formosa,2022.0,trigo_total,2345,3112
+Formosa,2023.0,maiz_total,44100,60143
+Formosa,2023.0,soja_1ra,14420,28840
+Formosa,2023.0,soja_2da,1100,1210
+Formosa,2023.0,soja_total,15520,30050
+Formosa,2023.0,trigo,400,520
+Formosa,2023.0,trigo_total,1500,1840
+Formosa,2024.0,maiz_total,46062,45785
+Formosa,2024.0,soja_1ra,14176,14176
+Formosa,2024.0,soja_2da,2337,2337
+Formosa,2024.0,soja_total,16513,16513
+Formosa,2024.0,trigo_total,1750,1750
+Formosa,2025.0,maiz_total,37060,45673
+Formosa,2025.0,soja_1ra,18000,32400
+Formosa,2025.0,soja_2da,4000,6400
+Formosa,2025.0,soja_total,22000,38800
+Formosa,2025.0,trigo_total,5174,8930
+Jujuy,1970.0,maiz_total,3155,2600
+Jujuy,1970.0,trigo_total,950,878
+Jujuy,1971.0,maiz_total,4700,3700
+Jujuy,1971.0,trigo_total,950,865
+Jujuy,1972.0,maiz_total,4600,3246
+Jujuy,1972.0,trigo_total,780,320
+Jujuy,1973.0,maiz_total,4600,3950
+Jujuy,1973.0,soja_total,185,158
+Jujuy,1973.0,trigo_total,655,389
+Jujuy,1974.0,maiz_total,4260,2470
+Jujuy,1974.0,soja_total,250,280
+Jujuy,1974.0,trigo_total,580,406
+Jujuy,1975.0,maiz_total,4010,2860
+Jujuy,1975.0,trigo_total,610,141
+Jujuy,1976.0,maiz_total,3660,2700
+Jujuy,1976.0,trigo_total,512,140
+Jujuy,1977.0,maiz_total,3100,2252
+Jujuy,1977.0,trigo_total,450,130
+Jujuy,1978.0,maiz_total,3000,3250
+Jujuy,1978.0,trigo_total,550,155
+Jujuy,1979.0,maiz_total,2950,1680
+Jujuy,1979.0,soja_total,2450,3000
+Jujuy,1979.0,trigo_total,510,100
+Jujuy,1980.0,maiz_total,3650,3500
+Jujuy,1980.0,soja_total,850,1400
+Jujuy,1980.0,trigo_total,500,100
+Jujuy,1981.0,maiz_total,3550,8150
+Jujuy,1981.0,soja_total,250,400
+Jujuy,1981.0,trigo_total,830,820
+Jujuy,1982.0,maiz_total,4100,10285
+Jujuy,1982.0,soja_total,200,400
+Jujuy,1982.0,trigo_total,810,1110
+Jujuy,1983.0,maiz_total,5400,10800
+Jujuy,1983.0,soja_total,300,460
+Jujuy,1983.0,trigo_total,820,1050
+Jujuy,1984.0,maiz_total,6600,19390
+Jujuy,1984.0,soja_total,400,500
+Jujuy,1984.0,trigo_total,660,1320
+Jujuy,1985.0,maiz_total,7400,20030
+Jujuy,1985.0,soja_total,1800,3000
+Jujuy,1985.0,trigo_total,1400,2500
+Jujuy,1986.0,maiz_total,6800,17000
+Jujuy,1986.0,soja_total,1600,2880
+Jujuy,1986.0,trigo_total,2570,5500
+Jujuy,1987.0,maiz_total,4880,9630
+Jujuy,1987.0,soja_total,700,1200
+Jujuy,1987.0,trigo_total,3000,2400
+Jujuy,1988.0,maiz_total,4100,12300
+Jujuy,1988.0,soja_total,5000,10000
+Jujuy,1988.0,trigo_total,1600,700
+Jujuy,1989.0,maiz_total,4800,8620
+Jujuy,1989.0,soja_total,5000,3400
+Jujuy,1989.0,trigo_total,600,850
+Jujuy,1990.0,maiz_total,4820,13580
+Jujuy,1990.0,soja_total,4000,10000
+Jujuy,1990.0,trigo_total,2000,2400
+Jujuy,1991.0,maiz_total,4400,11400
+Jujuy,1991.0,soja_total,4000,9000
+Jujuy,1991.0,trigo_total,2000,3400
+Jujuy,1992.0,maiz_total,3500,9400
+Jujuy,1992.0,soja_total,5500,11400
+Jujuy,1992.0,trigo_total,1350,1800
+Jujuy,1993.0,maiz_total,4000,11400
+Jujuy,1993.0,soja_total,6750,9800
+Jujuy,1993.0,trigo_total,400,400
+Jujuy,1994.0,maiz_total,4200,12400
+Jujuy,1994.0,soja_total,1200,1500
+Jujuy,1994.0,trigo_total,200,200
+Jujuy,1995.0,maiz_total,4500,15900
+Jujuy,1995.0,soja_total,1000,1200
+Jujuy,1995.0,trigo_total,550,570
+Jujuy,1996.0,maiz_total,4800,15940
+Jujuy,1996.0,soja_total,1000,0
+Jujuy,1996.0,trigo_total,600,1200
+Jujuy,1997.0,maiz_total,5800,19000
+Jujuy,1997.0,trigo_total,600,1500
+Jujuy,1998.0,maiz_total,6000,19200
+Jujuy,1998.0,trigo_total,300,600
+Jujuy,1999.0,maiz_total,5800,18900
+Jujuy,1999.0,soja_total,8000,20000
+Jujuy,1999.0,trigo_total,350,900
+Jujuy,2000.0,maiz_total,6000,20300
+Jujuy,2000.0,trigo_total,3000,5300
+Jujuy,2001.0,maiz_total,9000,23850
+Jujuy,2001.0,trigo_total,1600,1200
+Jujuy,2002.0,maiz_total,8000,28000
+Jujuy,2002.0,soja_1ra,773,1800
+Jujuy,2002.0,soja_total,773,1800
+Jujuy,2002.0,trigo_total,1000,2000
+Jujuy,2003.0,maiz_total,8000,28000
+Jujuy,2003.0,soja_1ra,1000,1950
+Jujuy,2003.0,soja_total,1000,1950
+Jujuy,2003.0,trigo_total,600,900
+Jujuy,2004.0,maiz_total,5200,15620
+Jujuy,2004.0,soja_1ra,8400,17800
+Jujuy,2004.0,soja_2da,600,1200
+Jujuy,2004.0,soja_total,9000,19000
+Jujuy,2004.0,trigo_total,600,2100
+Jujuy,2005.0,maiz_total,5200,15500
+Jujuy,2005.0,soja_1ra,4545,9232
+Jujuy,2005.0,soja_2da,505,1026
+Jujuy,2005.0,soja_total,5050,10258
+Jujuy,2005.0,trigo_total,2000,6000
+Jujuy,2006.0,maiz_total,5200,21300
+Jujuy,2006.0,soja_1ra,3500,9080
+Jujuy,2006.0,soja_total,3500,9080
+Jujuy,2006.0,trigo_total,2000,6000
+Jujuy,2007.0,maiz_total,5200,21450
+Jujuy,2007.0,soja_1ra,6000,16150
+Jujuy,2007.0,soja_total,6000,16150
+Jujuy,2007.0,trigo_total,600,1560
+Jujuy,2008.0,maiz_total,5200,21780
+Jujuy,2008.0,soja_1ra,5910,16257
+Jujuy,2008.0,soja_2da,90,243
+Jujuy,2008.0,soja_total,6000,16500
+Jujuy,2008.0,trigo_total,930,2320
+Jujuy,2009.0,maiz_total,4620,18130
+Jujuy,2009.0,soja_1ra,7560,18092
+Jujuy,2009.0,soja_2da,690,1623
+Jujuy,2009.0,soja_total,8250,19715
+Jujuy,2009.0,trigo_total,1320,3250
+Jujuy,2010.0,maiz_total,4620,19900
+Jujuy,2010.0,soja_1ra,8730,23605
+Jujuy,2010.0,soja_2da,1930,5273
+Jujuy,2010.0,soja_total,10660,28878
+Jujuy,2010.0,trigo_total,2470,5960
+Jujuy,2011.0,maiz_total,5010,23150
+Jujuy,2011.0,soja_1ra,9190,26145
+Jujuy,2011.0,soja_2da,2960,8490
+Jujuy,2011.0,soja_total,12150,34635
+Jujuy,2011.0,trigo_total,3170,8070
+Jujuy,2012.0,maiz_total,5010,26200
+Jujuy,2012.0,soja_1ra,9130,23053
+Jujuy,2012.0,soja_2da,3020,7617
+Jujuy,2012.0,soja_total,12150,30670
+Jujuy,2012.0,trigo_total,3230,8000
+Jujuy,2013.0,maiz_total,5010,8740
+Jujuy,2013.0,soja_1ra,6415,7119
+Jujuy,2013.0,soja_2da,2805,4445
+Jujuy,2013.0,soja_total,9220,11564
+Jujuy,2013.0,trigo_total,2835,6630
+Jujuy,2014.0,maiz_total,7850,42300
+Jujuy,2014.0,soja_1ra,6480,16381
+Jujuy,2014.0,soja_2da,220,516
+Jujuy,2014.0,soja_total,6700,16897
+Jujuy,2014.0,trigo_total,240,560
+Jujuy,2015.0,maiz_total,6630,36190
+Jujuy,2015.0,soja_1ra,4365,13905
+Jujuy,2015.0,soja_2da,2475,4572
+Jujuy,2015.0,soja_total,6840,18476
+Jujuy,2015.0,trigo_total,2835,4730
+Jujuy,2016.0,maiz_total,6630,27864
+Jujuy,2016.0,soja_1ra,3765,7509
+Jujuy,2016.0,soja_2da,3075,7042
+Jujuy,2016.0,soja_total,6840,14551
+Jujuy,2016.0,trigo_total,3435,6980
+Jujuy,2017.0,maiz_total,5244,15012
+Jujuy,2017.0,soja_1ra,4135,6752
+Jujuy,2017.0,soja_2da,3103,5266
+Jujuy,2017.0,soja_total,7238,12018
+Jujuy,2017.0,trigo_total,3265,6788
+Jujuy,2018.0,maiz_total,5240,18680
+Jujuy,2018.0,soja_1ra,4135,8254
+Jujuy,2018.0,soja_2da,3105,6500
+Jujuy,2018.0,soja_total,7240,14753
+Jujuy,2018.0,trigo_total,3265,3613
+Jujuy,2019.0,maiz_total,5244,18720
+Jujuy,2019.0,soja_1ra,4390,12292
+Jujuy,2019.0,soja_2da,2850,7980
+Jujuy,2019.0,soja_total,7240,20272
+Jujuy,2019.0,trigo_total,4580,4580
+Jujuy,2020.0,maiz_total,5244,28464
+Jujuy,2020.0,soja_1ra,3310,8275
+Jujuy,2020.0,soja_2da,3420,8550
+Jujuy,2020.0,soja_total,6730,16825
+Jujuy,2020.0,trigo_total,4580,6412
+Jujuy,2021.0,maiz_total,7551,39265
+Jujuy,2021.0,soja_1ra,5088,17809
+Jujuy,2021.0,soja_2da,5679,19877
+Jujuy,2021.0,soja_total,10767,37685
+Jujuy,2021.0,trigo_total,3770,6032
+Jujuy,2022.0,maiz_total,9612,25487
+Jujuy,2022.0,soja_1ra,4388,9623
+Jujuy,2022.0,soja_2da,5193,13502
+Jujuy,2022.0,soja_total,9581,23125
+Jujuy,2022.0,trigo_total,4207,9674
+Jujuy,2023.0,maiz_total,11010,35230
+Jujuy,2023.0,soja_1ra,3700,5552
+Jujuy,2023.0,soja_2da,4100,6150
+Jujuy,2023.0,soja_total,7800,11699
+Jujuy,2023.0,trigo_total,3800,6840
+Jujuy,2024.0,maiz_total,13388,50160
+Jujuy,2024.0,soja_1ra,5112,11414
+Jujuy,2024.0,soja_2da,5096,11492
+Jujuy,2024.0,soja_total,10209,22905
+Jujuy,2024.0,trigo_total,2345,4925
+Jujuy,2025.0,maiz_total,7598,26412
+Jujuy,2025.0,soja_1ra,3053,6039
+Jujuy,2025.0,soja_2da,4206,8357
+Jujuy,2025.0,soja_total,7259,14396
+Jujuy,2025.0,trigo_total,2945,4152
+La Pampa,1970.0,maiz_total,262800,165000
+La Pampa,1970.0,trigo_total,818000,599700
+La Pampa,1971.0,maiz_total,272700,43300
+La Pampa,1971.0,trigo_total,261300,86000
+La Pampa,1972.0,maiz_total,137700,23400
+La Pampa,1972.0,trigo_total,485700,248700
+La Pampa,1973.0,maiz_total,252900,207000
+La Pampa,1973.0,trigo_total,690000,640000
+La Pampa,1974.0,maiz_total,292700,217000
+La Pampa,1974.0,trigo_total,471200,603500
+La Pampa,1975.0,maiz_total,264800,163000
+La Pampa,1975.0,trigo_total,690000,540000
+La Pampa,1976.0,maiz_total,156700,54000
+La Pampa,1976.0,trigo_total,815000,810000
+La Pampa,1977.0,maiz_total,160000,92000
+La Pampa,1977.0,trigo_total,930000,1100000
+La Pampa,1978.0,maiz_total,230000,226000
+La Pampa,1978.0,trigo_total,510000,290000
+La Pampa,1979.0,maiz_total,220000,310000
+La Pampa,1979.0,trigo_total,480000,515000
+La Pampa,1980.0,maiz_total,300000,221000
+La Pampa,1980.0,soja_total,7850,7400
+La Pampa,1980.0,trigo_total,340700,430000
+La Pampa,1981.0,maiz_total,338000,259000
+La Pampa,1981.0,soja_total,2200,1400
+La Pampa,1981.0,trigo_total,572000,203000
+La Pampa,1982.0,maiz_total,290800,185000
+La Pampa,1982.0,soja_total,250,400
+La Pampa,1982.0,trigo_total,529000,384000
+La Pampa,1983.0,maiz_total,280000,180000
+La Pampa,1983.0,soja_total,150,60
+La Pampa,1983.0,trigo_total,695000,1100000
+La Pampa,1984.0,maiz_total,276000,270000
+La Pampa,1984.0,soja_total,2500,4000
+La Pampa,1984.0,trigo_total,598000,700000
+La Pampa,1985.0,maiz_total,294000,360000
+La Pampa,1985.0,soja_total,1000,1600
+La Pampa,1985.0,trigo_total,564100,1028000
+La Pampa,1986.0,maiz_total,354500,520000
+La Pampa,1986.0,soja_total,1400,2100
+La Pampa,1986.0,trigo_total,466000,560000
+La Pampa,1987.0,maiz_total,358000,441000
+La Pampa,1987.0,soja_total,6500,10200
+La Pampa,1987.0,trigo_total,426200,533000
+La Pampa,1988.0,maiz_total,390000,391500
+La Pampa,1988.0,soja_total,18100,22400
+La Pampa,1988.0,trigo_total,436400,700000
+La Pampa,1989.0,maiz_total,390000,200000
+La Pampa,1989.0,soja_total,36500,50000
+La Pampa,1989.0,trigo_total,400000,554000
+La Pampa,1990.0,maiz_total,290000,148500
+La Pampa,1990.0,soja_total,42000,70000
+La Pampa,1990.0,trigo_total,557000,872000
+La Pampa,1991.0,maiz_total,297500,319200
+La Pampa,1991.0,soja_total,30000,21800
+La Pampa,1991.0,trigo_total,728000,858700
+La Pampa,1992.0,maiz_total,350000,700700
+La Pampa,1992.0,soja_total,21000,25600
+La Pampa,1992.0,trigo_total,499300,917300
+La Pampa,1993.0,maiz_total,378100,475000
+La Pampa,1993.0,soja_total,18300,38200
+La Pampa,1993.0,trigo_total,493800,502100
+La Pampa,1994.0,maiz_total,339000,342600
+La Pampa,1994.0,soja_total,20200,28100
+La Pampa,1994.0,trigo_total,500000,770500
+La Pampa,1995.0,maiz_total,325400,232300
+La Pampa,1995.0,soja_total,17900,26700
+La Pampa,1995.0,trigo_total,507200,707100
+La Pampa,1996.0,maiz_total,355100,132500
+La Pampa,1996.0,soja_total,4500,6620
+La Pampa,1996.0,trigo,500,300
+La Pampa,1996.0,trigo_total,467600,583700
+La Pampa,1997.0,maiz_total,345000,251600
+La Pampa,1997.0,soja_total,4600,6840
+La Pampa,1997.0,trigo,650,793
+La Pampa,1997.0,trigo_total,645350,791493
+La Pampa,1998.0,maiz_total,364500,376000
+La Pampa,1998.0,soja_total,11710,27465
+La Pampa,1998.0,trigo,315,570
+La Pampa,1998.0,trigo_total,573915,1292370
+La Pampa,1999.0,maiz_total,328800,251700
+La Pampa,1999.0,soja_total,15100,28940
+La Pampa,1999.0,trigo_total,452200,767600
+La Pampa,2000.0,maiz_total,363100,482300
+La Pampa,2000.0,soja_total,38200,78800
+La Pampa,2000.0,trigo_total,405000,805800
+La Pampa,2001.0,maiz_total,423000,616540
+La Pampa,2001.0,soja_1ra,111300,212645
+La Pampa,2001.0,soja_2da,37200,41300
+La Pampa,2001.0,soja_total,148500,253945
+La Pampa,2001.0,trigo_total,411400,884670
+La Pampa,2002.0,maiz_total,402900,539210
+La Pampa,2002.0,soja_1ra,68100,136500
+La Pampa,2002.0,soja_2da,7500,11200
+La Pampa,2002.0,soja_total,75600,147700
+La Pampa,2002.0,trigo,300,540
+La Pampa,2002.0,trigo_total,438900,785320
+La Pampa,2003.0,maiz_total,432550,380740
+La Pampa,2003.0,soja_1ra,93800,194000
+La Pampa,2003.0,soja_2da,9550,12000
+La Pampa,2003.0,soja_total,103350,206000
+La Pampa,2003.0,trigo,300,570
+La Pampa,2003.0,trigo_total,370750,740830
+La Pampa,2004.0,maiz_total,399100,591340
+La Pampa,2004.0,soja_1ra,139100,262400
+La Pampa,2004.0,soja_2da,21200,33500
+La Pampa,2004.0,soja_total,160300,295900
+La Pampa,2004.0,trigo,300,270
+La Pampa,2004.0,trigo_total,284000,268195
+La Pampa,2005.0,maiz_total,370700,1250040
+La Pampa,2005.0,soja_1ra,142085,387853
+La Pampa,2005.0,soja_2da,45544,88629
+La Pampa,2005.0,soja_total,187629,476482
+La Pampa,2005.0,trigo,300,390
+La Pampa,2005.0,trigo_total,344300,672490
+La Pampa,2006.0,maiz_total,338500,583570
+La Pampa,2006.0,soja_1ra,155100,303033
+La Pampa,2006.0,soja_2da,68500,90536
+La Pampa,2006.0,soja_total,223600,393569
+La Pampa,2006.0,trigo,50,40
+La Pampa,2006.0,trigo_total,207550,234560
+La Pampa,2007.0,maiz_total,431200,945800
+La Pampa,2007.0,soja_1ra,194000,430074
+La Pampa,2007.0,soja_2da,49500,80025
+La Pampa,2007.0,soja_total,243500,510099
+La Pampa,2007.0,trigo_total,95000,111750
+La Pampa,2008.0,maiz_total,433500,782950
+La Pampa,2008.0,soja_1ra,190776,395050
+La Pampa,2008.0,soja_2da,41124,40950
+La Pampa,2008.0,soja_total,231900,436000
+La Pampa,2008.0,trigo_total,240000,617920
+La Pampa,2009.0,maiz_total,340200,263750
+La Pampa,2009.0,soja_1ra,242996,221239
+La Pampa,2009.0,soja_2da,56904,42826
+La Pampa,2009.0,soja_total,300000,264065
+La Pampa,2009.0,trigo,300,360
+La Pampa,2009.0,trigo_total,264600,250970
+La Pampa,2010.0,maiz_total,352500,448700
+La Pampa,2010.0,soja_1ra,322701,710811
+La Pampa,2010.0,soja_2da,57899,75545
+La Pampa,2010.0,soja_total,380600,786356
+La Pampa,2010.0,trigo_total,97140,71740
+La Pampa,2011.0,maiz_total,374700,520710
+La Pampa,2011.0,soja_1ra,337100,530590
+La Pampa,2011.0,soja_2da,65200,69310
+La Pampa,2011.0,soja_total,402300,599900
+La Pampa,2011.0,trigo_total,105800,208576
+La Pampa,2012.0,maiz_total,309500,461120
+La Pampa,2012.0,soja_1ra,368650,986269
+La Pampa,2012.0,soja_2da,28225,44395
+La Pampa,2012.0,soja_total,396875,1030664
+La Pampa,2012.0,trigo_total,204900,499930
+La Pampa,2013.0,maiz_total,271500,473700
+La Pampa,2013.0,soja_1ra,405600,755730
+La Pampa,2013.0,soja_2da,41800,56920
+La Pampa,2013.0,soja_total,447400,812650
+La Pampa,2013.0,trigo_total,191910,504600
+La Pampa,2014.0,maiz_total,423000,795830
+La Pampa,2014.0,soja_1ra,459500,920310
+La Pampa,2014.0,soja_2da,61600,102060
+La Pampa,2014.0,soja_total,521100,1022370
+La Pampa,2014.0,trigo_total,196500,302120
+La Pampa,2015.0,maiz_total,370400,862700
+La Pampa,2015.0,soja_1ra,406400,1115620
+La Pampa,2015.0,soja_2da,78500,156150
+La Pampa,2015.0,soja_total,484900,1271770
+La Pampa,2015.0,trigo_total,330000,794665
+La Pampa,2016.0,maiz_total,614900,2148470
+La Pampa,2016.0,soja_1ra,506700,1696580
+La Pampa,2016.0,soja_2da,46525,110711
+La Pampa,2016.0,soja_total,553225,1807291
+La Pampa,2016.0,trigo_total,272820,547362
+La Pampa,2017.0,maiz_total,479000,1096620
+La Pampa,2017.0,soja_1ra,436900,1146350
+La Pampa,2017.0,soja_2da,59100,125520
+La Pampa,2017.0,soja_total,496000,1271870
+La Pampa,2017.0,trigo_total,381900,971433
+La Pampa,2018.0,maiz_total,458400,1331562
+La Pampa,2018.0,soja_1ra,401000,1068180
+La Pampa,2018.0,soja_2da,30400,52840
+La Pampa,2018.0,soja_total,431400,1121020
+La Pampa,2018.0,trigo_total,295060,641571
+La Pampa,2019.0,maiz_total,487250,1978798
+La Pampa,2019.0,soja_1ra,412800,1397501
+La Pampa,2019.0,soja_2da,71800,185750
+La Pampa,2019.0,soja_total,484600,1583251
+La Pampa,2019.0,trigo_total,363300,871280
+La Pampa,2020.0,maiz_total,529500,2364777
+La Pampa,2020.0,soja_1ra,422900,1377720
+La Pampa,2020.0,soja_2da,83800,241910
+La Pampa,2020.0,soja_total,506700,1619630
+La Pampa,2020.0,trigo_total,335700,380970
+La Pampa,2021.0,maiz_total,588900,2537318
+La Pampa,2021.0,soja_1ra,403436,953556
+La Pampa,2021.0,soja_2da,90081,170178
+La Pampa,2021.0,soja_total,493517,1123733
+La Pampa,2021.0,trigo_total,352200,753140
+La Pampa,2022.0,maiz_total,718500,3698601
+La Pampa,2022.0,soja_1ra,310100,1034900
+La Pampa,2022.0,soja_2da,83400,105810
+La Pampa,2022.0,soja_total,393500,1140710
+La Pampa,2022.0,trigo_total,296040,725488
+La Pampa,2023.0,maiz_total,680400,3088464
+La Pampa,2023.0,soja_1ra,377550,692870
+La Pampa,2023.0,soja_2da,53500,66550
+La Pampa,2023.0,soja_total,431050,759420
+La Pampa,2023.0,trigo_total,206700,436220
+La Pampa,2024.0,maiz_total,779100,3760630
+La Pampa,2024.0,soja_1ra,484600,1477970
+La Pampa,2024.0,soja_2da,56700,137800
+La Pampa,2024.0,soja_total,541300,1615770
+La Pampa,2024.0,trigo_total,271800,563170
+La Pampa,2025.0,maiz_total,706000,2831135
+La Pampa,2025.0,soja_1ra,364750,933199
+La Pampa,2025.0,soja_2da,42150,75743
+La Pampa,2025.0,soja_total,406900,1008942
+La Pampa,2025.0,trigo,1130,2260
+La Pampa,2025.0,trigo_total,268200,459370
+La Rioja,1970.0,maiz_total,440,192
+La Rioja,1970.0,trigo_total,270,224
+La Rioja,1971.0,maiz_total,290,134
+La Rioja,1971.0,trigo_total,65,42
+La Rioja,1972.0,maiz_total,250,72
+La Rioja,1972.0,trigo_total,157,40
+La Rioja,1973.0,maiz_total,165,78
+La Rioja,1973.0,trigo_total,192,38
+La Rioja,1988.0,maiz_total,94,190
+Mendoza,1970.0,maiz_total,7230,11680
+Mendoza,1970.0,soja_total,35,0
+Mendoza,1971.0,maiz_total,6800,11000
+Mendoza,1972.0,maiz_total,5800,10500
+Mendoza,1973.0,maiz_total,6245,11170
+Mendoza,1974.0,maiz_total,5700,8600
+Mendoza,1975.0,maiz_total,4050,4300
+Mendoza,1976.0,maiz_total,3600,3800
+Mendoza,1977.0,maiz_total,2000,2000
+Mendoza,1978.0,maiz_total,800,1200
+Mendoza,1979.0,maiz_total,1500,1000
+Mendoza,1980.0,maiz_total,850,1300
+Mendoza,1981.0,maiz_total,2140,1440
+Mendoza,1982.0,maiz_total,2500,1800
+Mendoza,1983.0,maiz_total,4060,4100
+Mendoza,1984.0,maiz_total,8800,30000
+Mendoza,1985.0,maiz_total,7110,25600
+Mendoza,1986.0,maiz_total,7000,21000
+Mendoza,1988.0,maiz_total,2200,7500
+Mendoza,1989.0,maiz_total,2800,9200
+Mendoza,1990.0,maiz_total,4600,15660
+Misiones,1970.0,maiz_total,36725,34200
+Misiones,1970.0,soja_total,13300,11900
+Misiones,1971.0,maiz_total,37800,32900
+Misiones,1971.0,soja_total,16100,28700
+Misiones,1972.0,maiz_total,32700,8300
+Misiones,1972.0,soja_total,25200,27900
+Misiones,1973.0,maiz_total,32170,28600
+Misiones,1973.0,soja_total,36530,40495
+Misiones,1974.0,maiz_total,30900,27600
+Misiones,1974.0,soja_total,44000,60700
+Misiones,1975.0,maiz_total,30900,27300
+Misiones,1975.0,soja_total,26100,38000
+Misiones,1976.0,maiz_total,28900,26400
+Misiones,1976.0,soja_total,25600,34000
+Misiones,1977.0,maiz_total,27000,22000
+Misiones,1977.0,soja_total,35000,57000
+Misiones,1978.0,maiz_total,24000,16000
+Misiones,1978.0,soja_total,32300,30000
+Misiones,1978.0,trigo_total,50,40
+Misiones,1979.0,maiz_total,25000,18000
+Misiones,1979.0,soja_total,32800,31000
+Misiones,1979.0,trigo_total,50,40
+Misiones,1980.0,maiz_total,28000,37600
+Misiones,1980.0,soja_total,32000,54000
+Misiones,1981.0,maiz_total,31000,42300
+Misiones,1981.0,soja_total,26000,30300
+Misiones,1982.0,maiz_total,31000,34000
+Misiones,1982.0,soja_total,28400,32100
+Misiones,1983.0,maiz_total,31000,39140
+Misiones,1983.0,soja_total,30300,13160
+Misiones,1984.0,maiz_total,29000,32000
+Misiones,1984.0,soja_total,35000,58900
+Misiones,1985.0,maiz_total,30000,35930
+Misiones,1985.0,soja_total,18000,22290
+Misiones,1986.0,maiz_total,20300,6000
+Misiones,1986.0,soja_total,15000,16600
+Misiones,1987.0,maiz_total,18000,32400
+Misiones,1987.0,soja_total,13000,16400
+Misiones,1988.0,maiz_total,24000,30000
+Misiones,1988.0,soja_total,9550,19000
+Misiones,1989.0,maiz_total,35200,77000
+Misiones,1989.0,soja_total,24000,55000
+Misiones,1990.0,maiz_total,10000,25000
+Misiones,1990.0,soja_total,30000,30000
+Misiones,1991.0,maiz_total,15000,1200
+Misiones,1991.0,soja_total,3000,1100
+Misiones,1992.0,maiz_total,13000,7000
+Misiones,1992.0,soja_total,300,100
+Misiones,1993.0,maiz_total,23000,0
+Misiones,1993.0,soja_total,1500,600
+Misiones,1994.0,maiz_total,25750,23900
+Misiones,1994.0,soja_total,2300,3000
+Misiones,1995.0,maiz_total,25750,23913
+Misiones,1995.0,soja_total,2300,3041
+Misiones,1996.0,maiz_total,28400,17220
+Misiones,1996.0,soja_total,1500,160
+Misiones,1997.0,maiz_total,23600,15300
+Misiones,1997.0,soja_total,1300,2100
+Misiones,1998.0,maiz_total,26600,3665
+Misiones,1998.0,soja_total,2770,0
+Misiones,1999.0,maiz_total,29100,14200
+Misiones,1999.0,soja_total,3600,3300
+Misiones,2000.0,maiz_total,27900,24450
+Misiones,2000.0,soja_total,4000,8800
+Misiones,2001.0,maiz_total,27000,19550
+Misiones,2001.0,soja_1ra,4000,8400
+Misiones,2001.0,soja_total,4000,8400
+Misiones,2002.0,maiz_total,26050,8800
+Misiones,2002.0,soja_1ra,3120,5616
+Misiones,2002.0,soja_total,3120,5616
+Misiones,2003.0,maiz_total,23270,6320
+Misiones,2003.0,soja_1ra,2200,1420
+Misiones,2003.0,soja_total,2200,1420
+Misiones,2004.0,maiz_total,26505,49710
+Misiones,2004.0,soja_1ra,2250,5000
+Misiones,2004.0,soja_total,2250,5000
+Misiones,2005.0,maiz_total,29555,8242
+Misiones,2005.0,soja_1ra,2929,287
+Misiones,2005.0,soja_total,2929,287
+Misiones,2006.0,maiz_total,31105,39680
+Misiones,2006.0,soja_1ra,1384,1235
+Misiones,2006.0,soja_total,1384,1235
+Misiones,2007.0,maiz_total,32205,18178
+Misiones,2007.0,soja_1ra,950,1810
+Misiones,2007.0,soja_total,950,1810
+Misiones,2008.0,maiz_total,32205,15537
+Misiones,2008.0,soja_1ra,1180,1716
+Misiones,2008.0,soja_total,1180,1716
+Misiones,2009.0,maiz_total,32100,901
+Misiones,2009.0,soja_1ra,656,222
+Misiones,2009.0,soja_total,656,222
+Misiones,2010.0,maiz_total,33040,68360
+Misiones,2010.0,soja_1ra,880,2212
+Misiones,2010.0,soja_total,880,2212
+Misiones,2011.0,maiz_total,34440,76260
+Misiones,2011.0,soja_1ra,1810,4496
+Misiones,2011.0,soja_total,1810,4496
+Misiones,2012.0,maiz_total,35200,10047
+Misiones,2012.0,soja_1ra,880,564
+Misiones,2012.0,soja_total,880,564
+Misiones,2013.0,maiz_total,35200,78170
+Misiones,2013.0,soja_1ra,1095,2842
+Misiones,2013.0,soja_total,1095,2842
+Misiones,2014.0,maiz_total,30820,88830
+Misiones,2014.0,soja_1ra,1300,3294
+Misiones,2014.0,soja_total,1300,3294
+Misiones,2015.0,maiz_total,30820,86390
+Misiones,2015.0,soja_1ra,1300,3683
+Misiones,2015.0,soja_total,1300,3683
+Misiones,2016.0,maiz_total,23520,65799
+Misiones,2016.0,soja_1ra,1550,4542
+Misiones,2016.0,soja_total,1550,4542
+Misiones,2017.0,maiz_total,27040,78724
+Misiones,2017.0,soja_1ra,2550,5545
+Misiones,2017.0,soja_total,2550,5545
+Misiones,2018.0,maiz_total,28060,87016
+Misiones,2018.0,soja_1ra,2830,7873
+Misiones,2018.0,soja_total,2830,7873
+Misiones,2019.0,maiz_total,31400,151809
+Misiones,2019.0,soja_1ra,3750,10844
+Misiones,2019.0,soja_total,3750,10844
+Misiones,2020.0,maiz_total,31150,149809
+Misiones,2020.0,soja_1ra,3750,9740
+Misiones,2020.0,soja_total,3750,9740
+Misiones,2021.0,maiz_total,31150,33676
+Misiones,2021.0,soja_1ra,3750,11769
+Misiones,2021.0,soja_total,3750,11769
+Misiones,2022.0,maiz_total,29191,52640
+Misiones,2022.0,soja_1ra,3501,3063
+Misiones,2022.0,soja_total,3501,3063
+Misiones,2023.0,maiz_total,34304,115186
+Misiones,2023.0,soja_1ra,3989,9172
+Misiones,2023.0,soja_total,3989,9172
+Misiones,2024.0,maiz_total,36500,96884
+Misiones,2024.0,soja_1ra,4309,17236
+Misiones,2024.0,soja_total,4309,17236
+Misiones,2025.0,maiz_total,31510,133318
+Misiones,2025.0,soja_1ra,4324,15135
+Misiones,2025.0,soja_total,4324,15135
+Neuquén,1970.0,maiz_total,885,950
+Neuquén,1970.0,trigo_total,1160,865
+Neuquén,1971.0,maiz_total,1000,800
+Neuquén,1971.0,trigo_total,1080,880
+Neuquén,1972.0,maiz_total,1096,820
+Neuquén,1972.0,trigo_total,1220,780
+Neuquén,1973.0,maiz_total,1310,1276
+Neuquén,1973.0,trigo_total,820,610
+Neuquén,1974.0,maiz_total,1470,1600
+Neuquén,1974.0,trigo_total,890,670
+Neuquén,1975.0,maiz_total,1400,1100
+Neuquén,1975.0,trigo_total,1040,640
+Neuquén,1976.0,maiz_total,1530,1770
+Neuquén,1976.0,trigo_total,960,580
+Neuquén,1977.0,maiz_total,2000,2000
+Neuquén,1977.0,trigo_total,980,700
+Neuquén,1978.0,maiz_total,1300,1500
+Neuquén,1978.0,trigo_total,900,500
+Neuquén,1979.0,maiz_total,1200,1300
+Neuquén,1979.0,trigo_total,800,500
+Neuquén,1980.0,maiz_total,1200,1400
+Neuquén,1980.0,trigo_total,700,300
+Neuquén,1981.0,maiz_total,1110,1650
+Neuquén,1981.0,trigo_total,630,360
+Neuquén,1982.0,maiz_total,780,630
+Neuquén,1982.0,trigo_total,400,200
+Neuquén,1983.0,maiz_total,560,560
+Neuquén,1983.0,trigo_total,430,250
+Neuquén,1984.0,maiz_total,560,600
+Neuquén,1984.0,trigo_total,320,270
+Neuquén,1985.0,maiz_total,250,350
+Neuquén,1985.0,trigo_total,145,90
+Neuquén,1986.0,maiz_total,200,300
+Neuquén,1986.0,trigo_total,170,165
+Neuquén,1987.0,maiz_total,260,250
+Neuquén,1987.0,trigo_total,190,65
+Neuquén,1988.0,maiz_total,200,400
+Neuquén,1988.0,trigo_total,145,160
+Neuquén,1989.0,maiz_total,230,280
+Neuquén,1989.0,trigo_total,200,150
+Neuquén,1990.0,maiz_total,250,300
+Neuquén,1990.0,trigo_total,200,150
+Río Negro,1970.0,maiz_total,2180,2800
+Río Negro,1970.0,trigo_total,760,691
+Río Negro,1971.0,maiz_total,2520,3360
+Río Negro,1971.0,trigo_total,800,470
+Río Negro,1972.0,maiz_total,2780,3490
+Río Negro,1972.0,trigo_total,2240,1350
+Río Negro,1973.0,maiz_total,2630,3476
+Río Negro,1973.0,trigo_total,770,600
+Río Negro,1974.0,maiz_total,2630,4100
+Río Negro,1974.0,trigo_total,14940,12500
+Río Negro,1975.0,maiz_total,2490,3560
+Río Negro,1975.0,trigo_total,9400,5500
+Río Negro,1976.0,maiz_total,2710,3600
+Río Negro,1976.0,trigo_total,14900,12000
+Río Negro,1977.0,maiz_total,2000,3000
+Río Negro,1977.0,trigo_total,17800,23000
+Río Negro,1978.0,maiz_total,2800,1900
+Río Negro,1978.0,trigo_total,16000,20000
+Río Negro,1979.0,maiz_total,3000,3000
+Río Negro,1979.0,trigo_total,17000,16000
+Río Negro,1980.0,maiz_total,2850,2900
+Río Negro,1980.0,trigo_total,13800,13600
+Río Negro,1981.0,maiz_total,2550,3700
+Río Negro,1981.0,trigo_total,14200,3700
+Río Negro,1982.0,maiz_total,2220,2700
+Río Negro,1982.0,trigo_total,14000,12000
+Río Negro,1983.0,maiz_total,2170,3750
+Río Negro,1983.0,trigo_total,2600,5700
+Río Negro,1984.0,maiz_total,2100,3500
+Río Negro,1984.0,trigo_total,2900,8800
+Río Negro,1985.0,maiz_total,1640,5720
+Río Negro,1985.0,trigo_total,570,1900
+Río Negro,1986.0,maiz_total,2000,7000
+Río Negro,1986.0,trigo_total,630,2105
+Río Negro,1987.0,maiz_total,2200,7250
+Río Negro,1987.0,trigo_total,610,1400
+Río Negro,1988.0,maiz_total,2000,5900
+Río Negro,1988.0,trigo_total,415,1040
+Río Negro,1989.0,maiz_total,2300,6600
+Río Negro,1989.0,trigo_total,400,1100
+Río Negro,1990.0,maiz_total,2500,6840
+Río Negro,1990.0,trigo_total,500,1100
+Salta,1970.0,maiz_total,40710,49200
+Salta,1970.0,soja_total,370,500
+Salta,1970.0,trigo_total,9540,12747
+Salta,1971.0,maiz_total,41630,66900
+Salta,1971.0,soja_total,370,425
+Salta,1971.0,trigo_total,11280,11300
+Salta,1972.0,maiz_total,37020,43900
+Salta,1972.0,soja_total,370,300
+Salta,1972.0,trigo_total,9210,14100
+Salta,1973.0,maiz_total,32900,62600
+Salta,1973.0,soja_total,735,722
+Salta,1973.0,trigo_total,12000,13000
+Salta,1974.0,maiz_total,25300,29700
+Salta,1974.0,soja_total,2680,3050
+Salta,1974.0,trigo_total,4000,3870
+Salta,1975.0,maiz_total,17500,18000
+Salta,1975.0,soja_total,350,370
+Salta,1975.0,trigo_total,7100,9100
+Salta,1976.0,maiz_total,15260,17100
+Salta,1976.0,soja_total,60,80
+Salta,1976.0,trigo_total,4360,4400
+Salta,1977.0,maiz_total,21000,32000
+Salta,1977.0,soja_total,3000,6000
+Salta,1977.0,trigo_total,4550,7800
+Salta,1978.0,maiz_total,23000,44000
+Salta,1978.0,soja_total,12200,23700
+Salta,1978.0,trigo_total,5200,8400
+Salta,1979.0,maiz_total,26400,57000
+Salta,1979.0,soja_total,25000,40000
+Salta,1979.0,trigo_total,2150,2100
+Salta,1980.0,maiz_total,37300,70000
+Salta,1980.0,soja_total,24000,35600
+Salta,1980.0,trigo_total,1250,1600
+Salta,1981.0,maiz_total,40000,98400
+Salta,1981.0,soja_total,9200,16300
+Salta,1981.0,trigo_total,1400,2200
+Salta,1982.0,maiz_total,64500,160000
+Salta,1982.0,soja_total,11900,23800
+Salta,1982.0,trigo_total,2800,4000
+Salta,1983.0,maiz_total,70400,129700
+Salta,1983.0,soja_total,16900,32800
+Salta,1983.0,trigo_total,3800,7500
+Salta,1984.0,maiz_total,74500,200000
+Salta,1984.0,soja_total,45000,95000
+Salta,1984.0,trigo_total,6000,11700
+Salta,1985.0,maiz_total,85000,238600
+Salta,1985.0,soja_total,47000,97100
+Salta,1985.0,trigo_total,8000,15000
+Salta,1986.0,maiz_total,75000,145000
+Salta,1986.0,soja_total,40000,64460
+Salta,1986.0,trigo_total,15000,23000
+Salta,1987.0,maiz_total,69000,128900
+Salta,1987.0,soja_total,50000,70000
+Salta,1987.0,trigo_total,6000,5900
+Salta,1988.0,maiz_total,55000,191100
+Salta,1988.0,soja_total,95000,235500
+Salta,1988.0,trigo_total,3500,2100
+Salta,1989.0,maiz_total,40000,46000
+Salta,1989.0,soja_total,80000,62000
+Salta,1989.0,trigo_total,5000,7700
+Salta,1990.0,maiz_total,50000,142500
+Salta,1990.0,soja_total,111000,280000
+Salta,1990.0,trigo_total,8000,13000
+Salta,1991.0,maiz_total,23000,58700
+Salta,1991.0,soja_total,95500,216600
+Salta,1991.0,trigo_total,13400,21900
+Salta,1992.0,maiz_total,37000,99900
+Salta,1992.0,soja_total,135000,270000
+Salta,1992.0,trigo_total,9800,13400
+Salta,1993.0,maiz_total,37000,109300
+Salta,1993.0,soja_total,193000,318200
+Salta,1993.0,trigo_total,19400,18700
+Salta,1994.0,maiz_total,45000,146600
+Salta,1994.0,soja_total,210500,301600
+Salta,1994.0,trigo_total,10900,6500
+Salta,1995.0,maiz_total,50000,159600
+Salta,1995.0,soja_total,179400,333700
+Salta,1995.0,trigo_total,9000,6300
+Salta,1996.0,maiz_total,65000,207500
+Salta,1996.0,soja_total,120000,148900
+Salta,1996.0,trigo_total,13000,18200
+Salta,1997.0,maiz_total,85000,278300
+Salta,1997.0,soja_total,165500,343100
+Salta,1997.0,trigo_total,23500,45800
+Salta,1998.0,maiz_total,80000,231300
+Salta,1998.0,soja_total,165000,237100
+Salta,1998.0,trigo_total,22100,42700
+Salta,1999.0,maiz_total,76500,263500
+Salta,1999.0,soja_total,260000,660000
+Salta,1999.0,trigo_total,11400,29000
+Salta,2000.0,maiz_total,70000,245100
+Salta,2000.0,soja_total,210000,535700
+Salta,2000.0,trigo_total,42000,87500
+Salta,2001.0,maiz_total,61000,165550
+Salta,2001.0,soja_1ra,243950,546002
+Salta,2001.0,soja_2da,56050,125198
+Salta,2001.0,soja_total,300000,671200
+Salta,2001.0,trigo_total,60400,65000
+Salta,2002.0,maiz_total,38000,144000
+Salta,2002.0,soja_1ra,243150,551803
+Salta,2002.0,soja_2da,86830,198197
+Salta,2002.0,soja_total,329980,750000
+Salta,2002.0,trigo_total,95000,126280
+Salta,2003.0,maiz_total,38000,124000
+Salta,2003.0,soja_1ra,220750,500372
+Salta,2003.0,soja_2da,99750,242628
+Salta,2003.0,soja_total,320500,743000
+Salta,2003.0,trigo_total,110000,105400
+Salta,2004.0,maiz_total,43000,141500
+Salta,2004.0,soja_1ra,344850,668244
+Salta,2004.0,soja_2da,92150,152956
+Salta,2004.0,soja_total,437000,821200
+Salta,2004.0,trigo_total,100000,109250
+Salta,2005.0,maiz_total,43000,120000
+Salta,2005.0,soja_1ra,350173,551942
+Salta,2005.0,soja_2da,116375,181808
+Salta,2005.0,soja_total,466548,733750
+Salta,2005.0,trigo_total,125000,139450
+Salta,2006.0,maiz_total,43000,179850
+Salta,2006.0,soja_1ra,392925,1121473
+Salta,2006.0,soja_2da,84075,245865
+Salta,2006.0,soja_total,477000,1367338
+Salta,2006.0,trigo_total,90000,56150
+Salta,2007.0,maiz_total,48000,225100
+Salta,2007.0,soja_1ra,363760,1028481
+Salta,2007.0,soja_2da,113240,332519
+Salta,2007.0,soja_total,477000,1361000
+Salta,2007.0,trigo_total,125000,191660
+Salta,2008.0,maiz_total,48000,216000
+Salta,2008.0,soja_1ra,358060,1077197
+Salta,2008.0,soja_2da,118940,372803
+Salta,2008.0,soja_total,477000,1450000
+Salta,2008.0,trigo_total,130000,182480
+Salta,2009.0,maiz_total,46600,187440
+Salta,2009.0,soja_1ra,422953,943429
+Salta,2009.0,soja_2da,152347,367867
+Salta,2009.0,soja_total,575300,1311296
+Salta,2009.0,trigo_total,162450,225820
+Salta,2010.0,maiz_total,71350,352300
+Salta,2010.0,soja_1ra,432988,1221069
+Salta,2010.0,soja_2da,153397,441844
+Salta,2010.0,soja_total,586385,1662913
+Salta,2010.0,trigo_total,163400,156220
+Salta,2011.0,maiz_total,148185,754520
+Salta,2011.0,soja_1ra,417359,1230231
+Salta,2011.0,soja_2da,182156,545258
+Salta,2011.0,soja_total,599515,1775489
+Salta,2011.0,trigo_total,193260,241200
+Salta,2012.0,maiz_total,156025,788310
+Salta,2012.0,soja_1ra,417859,475917
+Salta,2012.0,soja_2da,182156,192118
+Salta,2012.0,soja_total,600015,668035
+Salta,2012.0,trigo_total,193260,248280
+Salta,2013.0,maiz_total,161955,144650
+Salta,2013.0,soja_1ra,404882,205288
+Salta,2013.0,soja_2da,152878,62319
+Salta,2013.0,soja_total,557760,267607
+Salta,2013.0,trigo_total,161464,139750
+Salta,2014.0,maiz_total,188020,957210
+Salta,2014.0,soja_1ra,479463,846355
+Salta,2014.0,soja_2da,12942,22654
+Salta,2014.0,soja_total,492405,869009
+Salta,2014.0,trigo_total,13695,28400
+Salta,2015.0,maiz_total,252910,1337020
+Salta,2015.0,soja_1ra,411504,1071740
+Salta,2015.0,soja_2da,28484,74196
+Salta,2015.0,soja_total,439988,1145936
+Salta,2015.0,trigo_total,30125,17880
+Salta,2016.0,maiz_total,313750,1655739
+Salta,2016.0,soja_1ra,336272,688752
+Salta,2016.0,soja_2da,87485,183727
+Salta,2016.0,soja_total,423757,872479
+Salta,2016.0,trigo_total,92442,131110
+Salta,2017.0,maiz_total,262150,1521555
+Salta,2017.0,soja_1ra,392930,942135
+Salta,2017.0,soja_2da,70870,172200
+Salta,2017.0,soja_total,463800,1114335
+Salta,2017.0,trigo_total,75900,89181
+Salta,2018.0,maiz_total,273200,1508597
+Salta,2018.0,soja_1ra,356767,796237
+Salta,2018.0,soja_2da,109553,245468
+Salta,2018.0,soja_total,466320,1041705
+Salta,2018.0,trigo_total,116620,123566
+Salta,2019.0,maiz_total,287333,1827097
+Salta,2019.0,soja_1ra,385276,1040247
+Salta,2019.0,soja_2da,54236,146437
+Salta,2019.0,soja_total,439512,1186684
+Salta,2019.0,trigo_total,82403,78103
+Salta,2020.0,maiz_total,303655,1878683
+Salta,2020.0,soja_1ra,347656,857733
+Salta,2020.0,soja_2da,42753,98024
+Salta,2020.0,soja_total,390409,955757
+Salta,2020.0,trigo,4630,17131
+Salta,2020.0,trigo_total,87028,129701
+Salta,2021.0,maiz_total,309437,1929840
+Salta,2021.0,soja_1ra,296478,803311
+Salta,2021.0,soja_2da,38239,92263
+Salta,2021.0,soja_total,334717,895575
+Salta,2021.0,trigo,5885,17007
+Salta,2021.0,trigo_total,78180,89512
+Salta,2022.0,maiz_total,322160,1886963
+Salta,2022.0,soja_1ra,249590,437258
+Salta,2022.0,soja_2da,68053,100779
+Salta,2022.0,soja_total,317643,538034
+Salta,2022.0,trigo,5386,20992
+Salta,2022.0,trigo_total,87986,95629
+Salta,2023.0,maiz_total,378550,2028790
+Salta,2023.0,soja_1ra,248990,430417
+Salta,2023.0,soja_2da,60671,92259
+Salta,2023.0,soja_total,309661,522675
+Salta,2023.0,trigo,5200,17782
+Salta,2023.0,trigo_total,60010,69973
+Salta,2024.0,maiz_total,409000,1614972
+Salta,2024.0,soja_1ra,286935,648733
+Salta,2024.0,soja_2da,23105,51527
+Salta,2024.0,soja_total,310040,700259
+Salta,2024.0,trigo,4580,11779
+Salta,2024.0,trigo_total,50248,52393
+Salta,2025.0,maiz_total,284391,1570901
+Salta,2025.0,soja_1ra,282120,678163
+Salta,2025.0,soja_2da,26103,62648
+Salta,2025.0,soja_total,308223,740812
+Salta,2025.0,trigo,8133,10423
+Salta,2025.0,trigo_total,57903,78665
+San Juan,1970.0,maiz_total,885,300
+San Juan,1970.0,trigo_total,900,1170
+San Juan,1971.0,maiz_total,800,0
+San Juan,1971.0,trigo_total,900,800
+San Juan,1972.0,maiz_total,716,200
+San Juan,1972.0,trigo_total,780,900
+San Juan,1973.0,maiz_total,1265,310
+San Juan,1973.0,trigo_total,650,1200
+San Juan,1974.0,maiz_total,1300,300
+San Juan,1974.0,trigo_total,650,1290
+San Juan,1975.0,maiz_total,1500,400
+San Juan,1975.0,trigo_total,695,1380
+San Juan,1976.0,maiz_total,1190,280
+San Juan,1976.0,trigo_total,694,1380
+San Juan,1977.0,maiz_total,1000,1000
+San Juan,1977.0,trigo_total,690,1370
+San Juan,1978.0,maiz_total,2000,500
+San Juan,1978.0,trigo_total,500,700
+San Juan,1979.0,maiz_total,2000,500
+San Juan,1979.0,trigo_total,400,800
+San Juan,1980.0,maiz_total,2000,500
+San Juan,1980.0,trigo_total,380,730
+San Juan,1981.0,maiz_total,1900,380
+San Juan,1981.0,trigo_total,170,260
+San Juan,1982.0,maiz_total,1500,360
+San Juan,1982.0,trigo_total,300,460
+San Juan,1983.0,maiz_total,1500,1610
+San Juan,1983.0,trigo_total,500,650
+San Juan,1984.0,maiz_total,3000,3500
+San Juan,1984.0,trigo_total,700,1110
+San Juan,1985.0,maiz_total,2000,3000
+San Juan,1985.0,trigo_total,685,1000
+San Juan,1986.0,trigo_total,520,820
+San Juan,1988.0,maiz_total,1100,5600
+San Juan,1989.0,maiz_total,1200,5700
+San Juan,1990.0,maiz_total,500,1400
+San Luis,1970.0,maiz_total,255500,222100
+San Luis,1970.0,trigo_total,8800,2970
+San Luis,1971.0,maiz_total,277500,173300
+San Luis,1971.0,trigo_total,8800,1050
+San Luis,1972.0,maiz_total,244600,60000
+San Luis,1972.0,trigo_total,7400,0
+San Luis,1973.0,maiz_total,263600,310000
+San Luis,1973.0,trigo_total,6600,1700
+San Luis,1974.0,maiz_total,266900,280000
+San Luis,1974.0,soja_total,1500,1640
+San Luis,1974.0,trigo_total,8250,8970
+San Luis,1975.0,maiz_total,262000,184000
+San Luis,1975.0,soja_total,980,530
+San Luis,1975.0,trigo_total,15400,20400
+San Luis,1976.0,maiz_total,262000,81500
+San Luis,1976.0,trigo_total,18600,33000
+San Luis,1977.0,maiz_total,220000,310000
+San Luis,1977.0,trigo_total,17900,22800
+San Luis,1978.0,maiz_total,137000,160000
+San Luis,1978.0,trigo_total,5800,0
+San Luis,1979.0,maiz_total,149000,276000
+San Luis,1979.0,trigo_total,3000,0
+San Luis,1980.0,maiz_total,211000,356000
+San Luis,1980.0,trigo_total,13000,9000
+San Luis,1981.0,maiz_total,259400,378000
+San Luis,1981.0,soja_total,380,500
+San Luis,1981.0,trigo_total,6300,500
+San Luis,1982.0,maiz_total,275800,520000
+San Luis,1982.0,trigo_total,4000,1600
+San Luis,1983.0,maiz_total,280000,533500
+San Luis,1983.0,soja_total,550,720
+San Luis,1983.0,trigo_total,5600,6200
+San Luis,1984.0,maiz_total,320000,640000
+San Luis,1984.0,soja_total,1100,1500
+San Luis,1984.0,trigo_total,5500,7000
+San Luis,1985.0,maiz_total,243000,637000
+San Luis,1985.0,soja_total,450,740
+San Luis,1985.0,trigo_total,8700,15000
+San Luis,1986.0,maiz_total,280000,348000
+San Luis,1986.0,soja_total,400,690
+San Luis,1986.0,trigo_total,9460,16400
+San Luis,1987.0,maiz_total,200000,190000
+San Luis,1987.0,trigo_total,3000,2400
+San Luis,1988.0,maiz_total,156700,286900
+San Luis,1988.0,soja_total,150,200
+San Luis,1988.0,trigo_total,2500,2300
+San Luis,1989.0,maiz_total,110000,51100
+San Luis,1989.0,trigo_total,4800,3000
+San Luis,1990.0,maiz_total,85000,86700
+San Luis,1990.0,soja_total,500,400
+San Luis,1990.0,trigo_total,8500,5200
+San Luis,1991.0,maiz_total,64000,109400
+San Luis,1991.0,soja_total,200,400
+San Luis,1991.0,trigo_total,8800,5000
+San Luis,1992.0,maiz_total,70000,73500
+San Luis,1992.0,trigo_total,7000,11600
+San Luis,1993.0,maiz_total,50000,90000
+San Luis,1994.0,maiz_total,60000,79800
+San Luis,1995.0,maiz_total,78000,46200
+San Luis,1995.0,trigo_total,1200,1200
+San Luis,1996.0,maiz_total,78000,46900
+San Luis,1996.0,trigo_total,1200,400
+San Luis,1997.0,maiz_total,78000,35100
+San Luis,1997.0,trigo_total,2800,2300
+San Luis,1998.0,maiz_total,50000,101900
+San Luis,1998.0,trigo_total,1500,700
+San Luis,1999.0,maiz_total,50000,101600
+San Luis,1999.0,soja_total,3500,4200
+San Luis,1999.0,trigo_total,1400,1800
+San Luis,2000.0,maiz_total,57000,210900
+San Luis,2000.0,soja_total,8000,12800
+San Luis,2000.0,trigo_total,4200,5300
+San Luis,2001.0,maiz_total,57000,179550
+San Luis,2001.0,soja_1ra,10000,10800
+San Luis,2001.0,soja_total,10000,10800
+San Luis,2001.0,trigo_total,4000,5600
+San Luis,2002.0,maiz_total,57000,296400
+San Luis,2002.0,soja_1ra,14000,40600
+San Luis,2002.0,soja_total,14000,40600
+San Luis,2002.0,trigo_total,5200,7300
+San Luis,2003.0,maiz_total,57000,199500
+San Luis,2003.0,soja_1ra,25000,45000
+San Luis,2003.0,soja_total,25000,45000
+San Luis,2003.0,trigo_total,5500,5500
+San Luis,2004.0,maiz_total,100000,260000
+San Luis,2004.0,soja_1ra,35000,57750
+San Luis,2004.0,soja_total,35000,57750
+San Luis,2004.0,trigo_total,5000,1000
+San Luis,2005.0,maiz_total,80000,392000
+San Luis,2005.0,soja_1ra,25246,51290
+San Luis,2005.0,soja_total,25246,51290
+San Luis,2005.0,trigo_total,5000,10000
+San Luis,2006.0,maiz_total,57000,126000
+San Luis,2006.0,soja_1ra,50000,48781
+San Luis,2006.0,soja_total,50000,48781
+San Luis,2006.0,trigo_total,4800,7680
+San Luis,2007.0,maiz_total,65200,193300
+San Luis,2007.0,soja_1ra,83000,176020
+San Luis,2007.0,soja_total,83000,176020
+San Luis,2007.0,trigo_total,4130,5640
+San Luis,2008.0,maiz_total,113600,253760
+San Luis,2008.0,soja_1ra,105000,257950
+San Luis,2008.0,soja_total,105000,257950
+San Luis,2008.0,trigo,200,460
+San Luis,2008.0,trigo_total,4200,8470
+San Luis,2009.0,maiz_total,86200,326000
+San Luis,2009.0,soja_1ra,125000,295900
+San Luis,2009.0,soja_total,125000,295900
+San Luis,2009.0,trigo_total,7600,17330
+San Luis,2010.0,maiz_total,82300,329430
+San Luis,2010.0,soja_1ra,155000,268300
+San Luis,2010.0,soja_total,155000,268300
+San Luis,2010.0,trigo,600,1440
+San Luis,2010.0,trigo_total,2850,6180
+San Luis,2011.0,maiz_total,140000,618610
+San Luis,2011.0,soja_1ra,165050,393420
+San Luis,2011.0,soja_2da,6800,10120
+San Luis,2011.0,soja_total,171400,402420
+San Luis,2011.0,trigo,1000,4900
+San Luis,2011.0,trigo_total,5850,14550
+San Luis,2012.0,maiz_total,155000,485590
+San Luis,2012.0,soja_1ra,167800,291650
+San Luis,2012.0,soja_2da,2900,5240
+San Luis,2012.0,soja_total,170700,296890
+San Luis,2012.0,trigo,800,2880
+San Luis,2012.0,trigo_total,4600,13590
+San Luis,2013.0,maiz_total,348480,1437600
+San Luis,2013.0,soja_1ra,392960,668992
+San Luis,2013.0,soja_2da,5830,9452
+San Luis,2013.0,soja_total,398790,678444
+San Luis,2013.0,trigo,600,2100
+San Luis,2013.0,trigo_total,2790,7740
+San Luis,2014.0,maiz_total,209950,848760
+San Luis,2014.0,soja_1ra,352700,845110
+San Luis,2014.0,soja_2da,2030,3705
+San Luis,2014.0,soja_total,354730,848815
+San Luis,2014.0,trigo,500,2600
+San Luis,2014.0,trigo_total,4180,10940
+San Luis,2015.0,maiz_total,281000,1600020
+San Luis,2015.0,soja_1ra,343300,962530
+San Luis,2015.0,soja_2da,200,340
+San Luis,2015.0,soja_total,343500,962870
+San Luis,2015.0,trigo,400,1160
+San Luis,2015.0,trigo_total,8450,16660
+San Luis,2016.0,maiz_total,300300,1812937
+San Luis,2016.0,soja_1ra,390318,1214040
+San Luis,2016.0,soja_2da,6608,14293
+San Luis,2016.0,soja_total,396926,1228333
+San Luis,2016.0,trigo,300,1140
+San Luis,2016.0,trigo_total,18380,38130
+San Luis,2017.0,maiz_total,377800,2500970
+San Luis,2017.0,soja_1ra,302190,828448
+San Luis,2017.0,soja_2da,5150,9015
+San Luis,2017.0,soja_total,307340,837463
+San Luis,2017.0,trigo,500,1800
+San Luis,2017.0,trigo_total,24200,56160
+San Luis,2018.0,maiz_total,378050,1382626
+San Luis,2018.0,soja_1ra,322100,697100
+San Luis,2018.0,soja_2da,3650,4380
+San Luis,2018.0,soja_total,325750,701480
+San Luis,2018.0,trigo,600,2460
+San Luis,2018.0,trigo_total,29590,72273
+San Luis,2019.0,maiz_total,399800,1879100
+San Luis,2019.0,soja_1ra,305000,663970
+San Luis,2019.0,soja_2da,3500,4690
+San Luis,2019.0,soja_total,308500,668660
+San Luis,2019.0,trigo,800,2800
+San Luis,2019.0,trigo_total,17950,23690
+San Luis,2020.0,maiz_total,375500,1327270
+San Luis,2020.0,soja_1ra,292200,375700
+San Luis,2020.0,soja_2da,4100,3545
+San Luis,2020.0,soja_total,296300,379245
+San Luis,2020.0,trigo,800,2800
+San Luis,2020.0,trigo_total,19250,37150
+San Luis,2021.0,maiz_total,405900,2254390
+San Luis,2021.0,soja_1ra,196300,467320
+San Luis,2021.0,soja_2da,1700,3960
+San Luis,2021.0,soja_total,198000,471280
+San Luis,2021.0,trigo,600,2040
+San Luis,2021.0,trigo_total,15625,17440
+San Luis,2022.0,maiz_total,440100,1877200
+San Luis,2022.0,soja_1ra,212800,477010
+San Luis,2022.0,soja_2da,5400,10240
+San Luis,2022.0,soja_total,218200,487250
+San Luis,2022.0,trigo,4000,15800
+San Luis,2022.0,trigo_total,19800,43020
+San Luis,2023.0,maiz_total,400700,1153995
+San Luis,2023.0,soja_1ra,219700,309040
+San Luis,2023.0,soja_2da,2700,5080
+San Luis,2023.0,soja_total,222400,314120
+San Luis,2023.0,trigo,2900,7060
+San Luis,2023.0,trigo_total,10200,14250
+San Luis,2024.0,maiz_total,497800,2024685
+San Luis,2024.0,soja_1ra,228200,407385
+San Luis,2024.0,soja_2da,1600,2720
+San Luis,2024.0,soja_total,229800,410105
+San Luis,2024.0,trigo,2900,11580
+San Luis,2024.0,trigo_total,9450,22585
+San Luis,2025.0,maiz_total,463850,2243830
+San Luis,2025.0,soja_1ra,214050,407621
+San Luis,2025.0,soja_2da,1800,2470
+San Luis,2025.0,soja_total,215850,410091
+San Luis,2025.0,trigo,4600,19150
+San Luis,2025.0,trigo_total,13350,39525
+Santa Cruz,1970.0,trigo_total,150,150
+Santa Cruz,1971.0,trigo_total,200,0
+Santa Cruz,1972.0,trigo_total,140,0
+Santa Cruz,1973.0,trigo_total,140,0
+Santa Cruz,1974.0,trigo_total,150,0
+Santa Cruz,1975.0,trigo_total,160,0
+Santa Cruz,1976.0,trigo_total,169,0
+Santa Cruz,1977.0,trigo_total,190,0
+Santa Cruz,1978.0,trigo_total,200,0
+Santa Cruz,1979.0,trigo_total,200,0
+Santa Cruz,1980.0,trigo_total,110,0
+Santa Fe,1970.0,maiz_total,1005000,2760000
+Santa Fe,1970.0,soja_total,8800,7200
+Santa Fe,1970.0,trigo_total,629000,598600
+Santa Fe,1971.0,maiz_total,1090000,3040000
+Santa Fe,1971.0,soja_total,10500,17000
+Santa Fe,1971.0,trigo_total,586000,882000
+Santa Fe,1972.0,maiz_total,1175000,2070000
+Santa Fe,1972.0,soja_total,37000,40300
+Santa Fe,1972.0,trigo_total,740000,970000
+Santa Fe,1973.0,maiz_total,991000,2910000
+Santa Fe,1973.0,soja_total,100000,190000
+Santa Fe,1973.0,trigo_total,875000,1210000
+Santa Fe,1974.0,maiz_total,872000,2700000
+Santa Fe,1974.0,soja_total,190000,225000
+Santa Fe,1974.0,trigo_total,637500,1060000
+Santa Fe,1975.0,maiz_total,828000,2253000
+Santa Fe,1975.0,soja_total,216000,285000
+Santa Fe,1975.0,trigo_total,672000,876000
+Santa Fe,1976.0,maiz_total,860000,1382000
+Santa Fe,1976.0,soja_total,250000,434000
+Santa Fe,1976.0,trigo_total,759000,1615000
+Santa Fe,1977.0,maiz_total,470000,1850000
+Santa Fe,1977.0,soja_total,435000,970000
+Santa Fe,1977.0,trigo_total,960000,1780000
+Santa Fe,1978.0,maiz_total,470000,2200000
+Santa Fe,1978.0,soja_total,736500,1640000
+Santa Fe,1978.0,trigo_total,710000,1050000
+Santa Fe,1979.0,maiz_total,519000,2100000
+Santa Fe,1979.0,soja_total,879000,2180000
+Santa Fe,1979.0,trigo_total,760000,1350000
+Santa Fe,1980.0,maiz_total,460000,1515000
+Santa Fe,1980.0,soja_total,1000000,1720000
+Santa Fe,1980.0,trigo_total,842000,1700000
+Santa Fe,1981.0,maiz_total,541000,2505000
+Santa Fe,1981.0,soja_total,920900,1808000
+Santa Fe,1981.0,trigo_total,960000,1594000
+Santa Fe,1982.0,maiz_total,530000,2000000
+Santa Fe,1982.0,soja_total,898000,1952000
+Santa Fe,1982.0,trigo_total,1073000,1900000
+Santa Fe,1983.0,maiz_total,523000,1630000
+Santa Fe,1983.0,soja_total,905000,1420000
+Santa Fe,1983.0,trigo_total,1140000,2390000
+Santa Fe,1984.0,maiz_total,465000,1270000
+Santa Fe,1984.0,soja_total,1070000,2697000
+Santa Fe,1984.0,trigo_total,1030000,2060000
+Santa Fe,1985.0,maiz_total,441000,1780000
+Santa Fe,1985.0,soja_total,1260000,2700000
+Santa Fe,1985.0,trigo_total,853000,2050000
+Santa Fe,1986.0,maiz_total,467000,2170000
+Santa Fe,1986.0,soja_total,1297000,3001000
+Santa Fe,1986.0,trigo_total,846000,1410000
+Santa Fe,1987.0,maiz_total,486000,1823000
+Santa Fe,1987.0,soja_total,1420000,2706000
+Santa Fe,1987.0,trigo_total,736000,1330000
+Santa Fe,1988.0,maiz_total,330000,1403000
+Santa Fe,1988.0,soja_total,1700000,4000000
+Santa Fe,1988.0,trigo_total,805000,1810000
+Santa Fe,1989.0,maiz_total,300000,500000
+Santa Fe,1989.0,soja_total,1780000,2230000
+Santa Fe,1989.0,trigo_total,850000,1650000
+Santa Fe,1990.0,maiz_total,201000,503000
+Santa Fe,1990.0,soja_total,1940000,4300000
+Santa Fe,1990.0,trigo_total,822000,1430000
+Santa Fe,1991.0,maiz_total,238600,1089000
+Santa Fe,1991.0,soja_total,1987000,4643800
+Santa Fe,1991.0,trigo_total,935200,1936300
+Santa Fe,1992.0,maiz_total,327700,1790400
+Santa Fe,1992.0,soja_total,1991000,4840800
+Santa Fe,1992.0,trigo_total,666000,1545400
+Santa Fe,1993.0,maiz_total,392200,2161000
+Santa Fe,1993.0,soja_total,1931700,4398500
+Santa Fe,1993.0,trigo_total,713200,1909400
+Santa Fe,1994.0,maiz_total,363300,1966400
+Santa Fe,1994.0,soja_total,2192300,5163600
+Santa Fe,1994.0,trigo_total,870500,1723900
+Santa Fe,1995.0,maiz_total,364900,2043300
+Santa Fe,1995.0,soja_total,2360650,5650097
+Santa Fe,1995.0,trigo_total,863000,1832000
+Santa Fe,1996.0,maiz_total,442800,2293100
+Santa Fe,1996.0,soja_total,2441300,5705900
+Santa Fe,1996.0,trigo_total,761100,1435100
+Santa Fe,1997.0,maiz_total,558900,2326800
+Santa Fe,1997.0,soja_total,2543200,4163900
+Santa Fe,1997.0,trigo_total,1098700,2388700
+Santa Fe,1998.0,maiz_total,479300,3133600
+Santa Fe,1998.0,soja_total,2608500,7310500
+Santa Fe,1998.0,trigo_total,855700,1509200
+Santa Fe,1999.0,maiz_total,446800,2556200
+Santa Fe,1999.0,soja_total,2753800,7300000
+Santa Fe,1999.0,trigo_total,755000,1927400
+Santa Fe,2000.0,maiz_total,492500,2521860
+Santa Fe,2000.0,soja_total,2873550,6637500
+Santa Fe,2000.0,trigo_total,930400,2754000
+Santa Fe,2001.0,maiz_total,433000,2531270
+Santa Fe,2001.0,soja_1ra,2174050,6388353
+Santa Fe,2001.0,soja_2da,943100,2269347
+Santa Fe,2001.0,soja_total,3117150,8657700
+Santa Fe,2001.0,trigo_total,1005100,2233850
+Santa Fe,2002.0,maiz_total,359800,2083370
+Santa Fe,2002.0,soja_1ra,2232400,6212299
+Santa Fe,2002.0,soja_2da,979900,2138001
+Santa Fe,2002.0,soja_total,3212300,8350300
+Santa Fe,2002.0,trigo_total,1098000,2138330
+Santa Fe,2003.0,maiz_total,369500,1909140
+Santa Fe,2003.0,soja_1ra,2577000,8181050
+Santa Fe,2003.0,soja_2da,742000,2042450
+Santa Fe,2003.0,soja_total,3319000,10223500
+Santa Fe,2003.0,trigo_total,836000,1651300
+Santa Fe,2004.0,maiz_total,390550,2558860
+Santa Fe,2004.0,soja_1ra,2932200,8008481
+Santa Fe,2004.0,soja_2da,625800,1133469
+Santa Fe,2004.0,soja_total,3558000,9141950
+Santa Fe,2004.0,trigo_total,685200,1897970
+Santa Fe,2005.0,maiz_total,422900,3006660
+Santa Fe,2005.0,soja_1ra,2856300,8902068
+Santa Fe,2005.0,soja_2da,674799,1546128
+Santa Fe,2005.0,soja_total,3531099,10448196
+Santa Fe,2005.0,trigo_total,678985,1752580
+Santa Fe,2006.0,maiz_total,372045,1984720
+Santa Fe,2006.0,soja_1ra,2970600,8891380
+Santa Fe,2006.0,soja_2da,582690,1384036
+Santa Fe,2006.0,soja_total,3553290,10275416
+Santa Fe,2006.0,trigo_total,589450,1847240
+Santa Fe,2007.0,maiz_total,375370,2635120
+Santa Fe,2007.0,soja_1ra,2847950,9571015
+Santa Fe,2007.0,soja_2da,626650,1724720
+Santa Fe,2007.0,soja_total,3474600,11295735
+Santa Fe,2007.0,trigo_total,707700,1995600
+Santa Fe,2008.0,maiz_total,453600,2538680
+Santa Fe,2008.0,soja_1ra,2728850,9739292
+Santa Fe,2008.0,soja_2da,763350,1740707
+Santa Fe,2008.0,soja_total,3492200,11479999
+Santa Fe,2008.0,trigo_total,753920,2653620
+Santa Fe,2009.0,maiz_total,365300,1601660
+Santa Fe,2009.0,soja_1ra,3086733,7472801
+Santa Fe,2009.0,soja_2da,354130,781071
+Santa Fe,2009.0,soja_total,3440863,8061892
+Santa Fe,2009.0,trigo_total,351280,519850
+Santa Fe,2010.0,maiz_total,491850,4006170
+Santa Fe,2010.0,soja_1ra,3200359,11215080
+Santa Fe,2010.0,soja_2da,313920,817470
+Santa Fe,2010.0,soja_total,3514279,12032550
+Santa Fe,2010.0,trigo_total,317160,993980
+Santa Fe,2011.0,maiz_total,567423,3656820
+Santa Fe,2011.0,soja_1ra,2630800,8880786
+Santa Fe,2011.0,soja_2da,476937,860563
+Santa Fe,2011.0,soja_total,3107737,9741349
+Santa Fe,2011.0,trigo_total,444280,1826500
+Santa Fe,2012.0,maiz_total,648400,3830970
+Santa Fe,2012.0,soja_1ra,2657600,7388758
+Santa Fe,2012.0,soja_2da,450200,787872
+Santa Fe,2012.0,soja_total,3107800,8176630
+Santa Fe,2012.0,trigo_total,433200,1533870
+Santa Fe,2013.0,maiz_total,699200,5463970
+Santa Fe,2013.0,soja_1ra,2534070,8977336
+Santa Fe,2013.0,soja_2da,554130,1406581
+Santa Fe,2013.0,soja_total,3128500,10383917
+Santa Fe,2013.0,trigo_total,502864,1369100
+Santa Fe,2014.0,maiz_total,541900,3708460
+Santa Fe,2014.0,soja_1ra,2558754,7916597
+Santa Fe,2014.0,soja_2da,696014,2042237
+Santa Fe,2014.0,soja_total,3254768,9958834
+Santa Fe,2014.0,trigo_total,643950,1332640
+Santa Fe,2015.0,maiz_total,685850,4370455
+Santa Fe,2015.0,soja_1ra,2424630,9180527
+Santa Fe,2015.0,soja_2da,799920,2623604
+Santa Fe,2015.0,soja_total,3224550,11804131
+Santa Fe,2015.0,trigo_total,925000,2519010
+Santa Fe,2016.0,maiz_total,629170,3942387
+Santa Fe,2016.0,soja_1ra,2833977,6975964
+Santa Fe,2016.0,soja_2da,634935,1341253
+Santa Fe,2016.0,soja_total,3468912,8317217
+Santa Fe,2016.0,trigo_total,647130,1872210
+Santa Fe,2017.0,maiz_total,890800,5802581
+Santa Fe,2017.0,soja_1ra,2199970,7693391
+Santa Fe,2017.0,soja_2da,757393,2068889
+Santa Fe,2017.0,soja_total,2957363,9762280
+Santa Fe,2017.0,trigo_total,943900,2911327
+Santa Fe,2018.0,maiz_total,1074413,5179679
+Santa Fe,2018.0,soja_1ra,2115540,5708807
+Santa Fe,2018.0,soja_2da,896180,1143597
+Santa Fe,2018.0,soja_total,3011720,6852404
+Santa Fe,2018.0,trigo_total,978535,3266141
+Santa Fe,2019.0,maiz_total,923800,5910470
+Santa Fe,2019.0,soja_1ra,1899759,7493377
+Santa Fe,2019.0,soja_2da,938443,3026715
+Santa Fe,2019.0,soja_total,2838202,10520091
+Santa Fe,2019.0,trigo_total,1111924,3304693
+Santa Fe,2020.0,maiz_total,1120960,7370856
+Santa Fe,2020.0,soja_1ra,1779107,6455671
+Santa Fe,2020.0,soja_2da,1228253,2944296
+Santa Fe,2020.0,soja_total,3007360,9399967
+Santa Fe,2020.0,trigo_total,1300500,4186876
+Santa Fe,2021.0,maiz_total,1097830,7122440
+Santa Fe,2021.0,soja_1ra,1804416,5970396
+Santa Fe,2021.0,soja_2da,1233918,3309637
+Santa Fe,2021.0,soja_total,3038334,9280032
+Santa Fe,2021.0,trigo,520,856
+Santa Fe,2021.0,trigo_total,1326620,2658120
+Santa Fe,2022.0,maiz_total,1289094,5774668
+Santa Fe,2022.0,soja_1ra,1699779,5313926
+Santa Fe,2022.0,soja_2da,1177872,2958394
+Santa Fe,2022.0,soja_total,2877651,8272320
+Santa Fe,2022.0,trigo,150,480
+Santa Fe,2022.0,trigo_total,1297269,5030544
+Santa Fe,2023.0,maiz_total,1261512,2777749
+Santa Fe,2023.0,soja_1ra,2077332,3320489
+Santa Fe,2023.0,soja_2da,795875,509181
+Santa Fe,2023.0,soja_total,2873207,3829670
+Santa Fe,2023.0,trigo_total,953175,1954134
+Santa Fe,2024.0,maiz_total,1239380,6755795
+Santa Fe,2024.0,soja_1ra,2160904,8054826
+Santa Fe,2024.0,soja_2da,899831,2741904
+Santa Fe,2024.0,soja_total,3060735,10796728
+Santa Fe,2024.0,trigo,50,110
+Santa Fe,2024.0,trigo_total,1117257,2781780
+Santa Fe,2025.0,maiz_total,781643,5219638
+Santa Fe,2025.0,soja_1ra,2166545,7955089
+Santa Fe,2025.0,soja_2da,1222678,3508764
+Santa Fe,2025.0,soja_total,3389223,11463852
+Santa Fe,2025.0,trigo,1200,720
+Santa Fe,2025.0,trigo_total,1263491,3494812
+Santiago del Estero,1970.0,maiz_total,91800,71600
+Santiago del Estero,1970.0,trigo_total,40070,31726
+Santiago del Estero,1971.0,maiz_total,101950,114300
+Santiago del Estero,1971.0,trigo_total,43100,49200
+Santiago del Estero,1972.0,maiz_total,108900,34800
+Santiago del Estero,1972.0,trigo_total,50000,51900
+Santiago del Estero,1973.0,maiz_total,82100,44300
+Santiago del Estero,1973.0,trigo_total,39100,11600
+Santiago del Estero,1974.0,maiz_total,82200,35800
+Santiago del Estero,1974.0,soja_total,800,280
+Santiago del Estero,1974.0,trigo_total,38000,36000
+Santiago del Estero,1975.0,maiz_total,73600,50000
+Santiago del Estero,1975.0,soja_total,530,570
+Santiago del Estero,1975.0,trigo_total,33200,44800
+Santiago del Estero,1976.0,maiz_total,77700,78900
+Santiago del Estero,1976.0,soja_total,290,200
+Santiago del Estero,1976.0,trigo_total,35700,33200
+Santiago del Estero,1977.0,maiz_total,74000,95000
+Santiago del Estero,1977.0,soja_total,7000,12000
+Santiago del Estero,1977.0,trigo_total,44000,23000
+Santiago del Estero,1978.0,maiz_total,78000,110000
+Santiago del Estero,1978.0,soja_total,7600,13000
+Santiago del Estero,1978.0,trigo_total,28000,40000
+Santiago del Estero,1979.0,maiz_total,77000,98000
+Santiago del Estero,1979.0,soja_total,16500,29000
+Santiago del Estero,1979.0,trigo_total,37000,50000
+Santiago del Estero,1980.0,maiz_total,68700,115000
+Santiago del Estero,1980.0,soja_total,43700,86000
+Santiago del Estero,1980.0,trigo_total,34200,41000
+Santiago del Estero,1981.0,maiz_total,38000,31300
+Santiago del Estero,1981.0,soja_total,20000,34000
+Santiago del Estero,1981.0,trigo_total,27700,27600
+Santiago del Estero,1982.0,maiz_total,34860,63000
+Santiago del Estero,1982.0,soja_total,21000,42000
+Santiago del Estero,1982.0,trigo_total,12000,18390
+Santiago del Estero,1983.0,maiz_total,33800,61440
+Santiago del Estero,1983.0,soja_total,21700,34800
+Santiago del Estero,1983.0,trigo_total,13300,18500
+Santiago del Estero,1984.0,maiz_total,33840,45000
+Santiago del Estero,1984.0,soja_total,32000,66100
+Santiago del Estero,1984.0,trigo_total,12700,18000
+Santiago del Estero,1985.0,maiz_total,30000,52500
+Santiago del Estero,1985.0,soja_total,19400,40100
+Santiago del Estero,1985.0,trigo_total,13700,17000
+Santiago del Estero,1986.0,maiz_total,50000,90000
+Santiago del Estero,1986.0,soja_total,19400,36000
+Santiago del Estero,1986.0,trigo_total,15500,25500
+Santiago del Estero,1987.0,maiz_total,65000,100000
+Santiago del Estero,1987.0,soja_total,100000,100000
+Santiago del Estero,1987.0,trigo_total,4000,4800
+Santiago del Estero,1988.0,maiz_total,35800,96400
+Santiago del Estero,1988.0,soja_total,108000,193000
+Santiago del Estero,1988.0,trigo_total,11140,17000
+Santiago del Estero,1989.0,maiz_total,18000,21000
+Santiago del Estero,1989.0,soja_total,45500,41600
+Santiago del Estero,1989.0,trigo_total,4600,3000
+Santiago del Estero,1990.0,maiz_total,30000,50000
+Santiago del Estero,1990.0,soja_total,70000,122400
+Santiago del Estero,1990.0,trigo_total,8000,12000
+Santiago del Estero,1991.0,maiz_total,31600,86400
+Santiago del Estero,1991.0,soja_total,72500,125400
+Santiago del Estero,1991.0,trigo_total,11000,14300
+Santiago del Estero,1992.0,maiz_total,32900,106900
+Santiago del Estero,1992.0,soja_total,82800,184400
+Santiago del Estero,1992.0,trigo_total,4500,6500
+Santiago del Estero,1993.0,maiz_total,45500,157200
+Santiago del Estero,1993.0,soja_total,80300,159100
+Santiago del Estero,1993.0,trigo_total,5800,11200
+Santiago del Estero,1994.0,maiz_total,61000,191600
+Santiago del Estero,1994.0,soja_total,98100,171700
+Santiago del Estero,1994.0,trigo_total,9700,6800
+Santiago del Estero,1995.0,maiz_total,66500,180300
+Santiago del Estero,1995.0,soja_total,105050,181800
+Santiago del Estero,1995.0,trigo_total,19800,26340
+Santiago del Estero,1996.0,maiz_total,81500,223430
+Santiago del Estero,1996.0,soja_total,94500,155700
+Santiago del Estero,1996.0,trigo_total,11600,7200
+Santiago del Estero,1997.0,maiz_total,97500,271400
+Santiago del Estero,1997.0,soja_total,130000,280500
+Santiago del Estero,1997.0,trigo_total,40000,52700
+Santiago del Estero,1998.0,maiz_total,97700,334400
+Santiago del Estero,1998.0,soja_total,154600,279900
+Santiago del Estero,1998.0,trigo_total,21250,17800
+Santiago del Estero,1999.0,maiz_total,114500,241900
+Santiago del Estero,1999.0,soja_total,280000,520000
+Santiago del Estero,1999.0,trigo_total,43100,95800
+Santiago del Estero,2000.0,maiz_total,125500,467060
+Santiago del Estero,2000.0,soja_total,261500,631400
+Santiago del Estero,2000.0,trigo_total,68000,151000
+Santiago del Estero,2001.0,maiz_total,113000,234060
+Santiago del Estero,2001.0,soja_1ra,485300,735987
+Santiago del Estero,2001.0,soja_2da,100700,158813
+Santiago del Estero,2001.0,soja_total,586000,894800
+Santiago del Estero,2001.0,trigo_total,101500,132000
+Santiago del Estero,2002.0,maiz_total,83000,252000
+Santiago del Estero,2002.0,soja_1ra,659229,1380000
+Santiago del Estero,2002.0,soja_total,659229,1380000
+Santiago del Estero,2002.0,trigo_total,166800,300000
+Santiago del Estero,2003.0,maiz_total,72200,247340
+Santiago del Estero,2003.0,soja_1ra,654500,1473600
+Santiago del Estero,2003.0,soja_total,654500,1473600
+Santiago del Estero,2003.0,trigo_total,165000,280500
+Santiago del Estero,2004.0,maiz_total,75200,276200
+Santiago del Estero,2004.0,soja_1ra,504580,868750
+Santiago del Estero,2004.0,soja_2da,174420,351150
+Santiago del Estero,2004.0,soja_total,679000,1219900
+Santiago del Estero,2004.0,trigo_total,184000,282350
+Santiago del Estero,2005.0,maiz_total,81280,210280
+Santiago del Estero,2005.0,soja_1ra,507120,584907
+Santiago del Estero,2005.0,soja_2da,123595,129013
+Santiago del Estero,2005.0,soja_total,630715,713920
+Santiago del Estero,2005.0,trigo_total,130000,74230
+Santiago del Estero,2006.0,maiz_total,76750,426400
+Santiago del Estero,2006.0,soja_1ra,571190,1246161
+Santiago del Estero,2006.0,soja_2da,148390,326120
+Santiago del Estero,2006.0,soja_total,719580,1572281
+Santiago del Estero,2006.0,trigo_total,159900,175260
+Santiago del Estero,2007.0,maiz_total,120300,496710
+Santiago del Estero,2007.0,soja_1ra,624875,1531543
+Santiago del Estero,2007.0,soja_2da,178505,443257
+Santiago del Estero,2007.0,soja_total,803380,1974800
+Santiago del Estero,2007.0,trigo_total,191400,203870
+Santiago del Estero,2008.0,maiz_total,130230,482800
+Santiago del Estero,2008.0,soja_1ra,753339,1411331
+Santiago del Estero,2008.0,soja_2da,72561,138667
+Santiago del Estero,2008.0,soja_total,825900,1549998
+Santiago del Estero,2008.0,trigo_total,76780,63930
+Santiago del Estero,2009.0,maiz_total,104640,87210
+Santiago del Estero,2009.0,soja_1ra,565181,287010
+Santiago del Estero,2009.0,soja_2da,63479,107072
+Santiago del Estero,2009.0,soja_total,628660,394082
+Santiago del Estero,2009.0,trigo_total,67840,46910
+Santiago del Estero,2010.0,maiz_total,149740,625970
+Santiago del Estero,2010.0,soja_1ra,757227,2753352
+Santiago del Estero,2010.0,soja_2da,54273,196284
+Santiago del Estero,2010.0,soja_total,811500,2949636
+Santiago del Estero,2010.0,trigo_total,58080,53170
+Santiago del Estero,2011.0,maiz_total,303000,1747630
+Santiago del Estero,2011.0,soja_1ra,1100000,2467800
+Santiago del Estero,2011.0,soja_total,1100000,2467800
+Santiago del Estero,2011.0,trigo_total,350000,807300
+Santiago del Estero,2012.0,maiz_total,395000,1561380
+Santiago del Estero,2012.0,soja_1ra,728150,579181
+Santiago del Estero,2012.0,soja_2da,344850,293829
+Santiago del Estero,2012.0,soja_total,1073000,873010
+Santiago del Estero,2012.0,trigo_total,363000,683450
+Santiago del Estero,2013.0,maiz_total,616500,1699670
+Santiago del Estero,2013.0,soja_1ra,946366,1475361
+Santiago del Estero,2013.0,soja_2da,201844,292818
+Santiago del Estero,2013.0,soja_total,1148210,1768179
+Santiago del Estero,2013.0,trigo_total,189750,236900
+Santiago del Estero,2014.0,maiz_total,728430,4634110
+Santiago del Estero,2014.0,soja_1ra,923353,2606977
+Santiago del Estero,2014.0,soja_2da,46997,130968
+Santiago del Estero,2014.0,soja_total,970350,2737945
+Santiago del Estero,2014.0,trigo_total,51050,12700
+Santiago del Estero,2015.0,maiz_total,490200,2407550
+Santiago del Estero,2015.0,soja_1ra,720325,1575210
+Santiago del Estero,2015.0,soja_2da,148675,340100
+Santiago del Estero,2015.0,soja_total,869000,1915310
+Santiago del Estero,2015.0,trigo_total,150000,113080
+Santiago del Estero,2016.0,maiz_total,672320,4262476
+Santiago del Estero,2016.0,soja_1ra,744356,1893857
+Santiago del Estero,2016.0,soja_2da,236216,604277
+Santiago del Estero,2016.0,soja_total,980572,2498134
+Santiago del Estero,2016.0,trigo_total,245550,439420
+Santiago del Estero,2017.0,maiz_total,684500,4483905
+Santiago del Estero,2017.0,soja_1ra,586304,2119781
+Santiago del Estero,2017.0,soja_2da,285536,1040081
+Santiago del Estero,2017.0,soja_total,871840,3159862
+Santiago del Estero,2017.0,trigo_total,328900,545022
+Santiago del Estero,2018.0,maiz_total,731890,3661765
+Santiago del Estero,2018.0,soja_1ra,395864,1023177
+Santiago del Estero,2018.0,soja_2da,498426,1330619
+Santiago del Estero,2018.0,soja_total,894290,2353796
+Santiago del Estero,2018.0,trigo_total,533860,1115157
+Santiago del Estero,2019.0,maiz_total,747900,4405979
+Santiago del Estero,2019.0,soja_1ra,768872,2440435
+Santiago del Estero,2019.0,soja_2da,259900,702108
+Santiago del Estero,2019.0,soja_total,1028772,3142543
+Santiago del Estero,2019.0,trigo_total,327932,709340
+Santiago del Estero,2020.0,maiz_total,811060,5653025
+Santiago del Estero,2020.0,soja_1ra,578200,1888602
+Santiago del Estero,2020.0,soja_2da,479080,1489365
+Santiago del Estero,2020.0,soja_total,1057280,3377967
+Santiago del Estero,2020.0,trigo_total,500300,1380730
+Santiago del Estero,2021.0,maiz_total,744900,5138847
+Santiago del Estero,2021.0,soja_1ra,677700,2285170
+Santiago del Estero,2021.0,soja_2da,400450,1318060
+Santiago del Estero,2021.0,soja_total,1078150,3603230
+Santiago del Estero,2021.0,trigo,2674,4011
+Santiago del Estero,2021.0,trigo_total,395974,468401
+Santiago del Estero,2022.0,maiz_total,777100,5386950
+Santiago del Estero,2022.0,soja_1ra,683500,2159880
+Santiago del Estero,2022.0,soja_2da,394620,1181105
+Santiago del Estero,2022.0,soja_total,1078120,3340985
+Santiago del Estero,2022.0,trigo,4400,5800
+Santiago del Estero,2022.0,trigo_total,506780,694135
+Santiago del Estero,2023.0,maiz_total,822100,4549312
+Santiago del Estero,2023.0,soja_1ra,842500,2177220
+Santiago del Estero,2023.0,soja_2da,287000,646212
+Santiago del Estero,2023.0,soja_total,1129500,2823432
+Santiago del Estero,2023.0,trigo,2900,3500
+Santiago del Estero,2023.0,trigo_total,264370,253363
+Santiago del Estero,2024.0,maiz_total,827700,1551073
+Santiago del Estero,2024.0,soja_1ra,809680,2141318
+Santiago del Estero,2024.0,soja_2da,313500,889658
+Santiago del Estero,2024.0,soja_total,1123180,3030974
+Santiago del Estero,2024.0,trigo,3200,5650
+Santiago del Estero,2024.0,trigo_total,339480,474562
+Santiago del Estero,2025.0,maiz_total,550700,1612241
+Santiago del Estero,2025.0,soja_1ra,1072995,2067079
+Santiago del Estero,2025.0,soja_2da,342050,828156
+Santiago del Estero,2025.0,soja_total,1415045,2895235
+Santiago del Estero,2025.0,trigo,3200,3316
+Santiago del Estero,2025.0,trigo_total,441340,433058
+Tucumán,1970.0,maiz_total,42150,26650
+Tucumán,1970.0,soja_total,5750,4700
+Tucumán,1970.0,trigo_total,8500,2565
+Tucumán,1971.0,maiz_total,47000,48800
+Tucumán,1971.0,soja_total,7400,8900
+Tucumán,1971.0,trigo_total,5700,4500
+Tucumán,1972.0,maiz_total,48600,20800
+Tucumán,1972.0,soja_total,8500,4500
+Tucumán,1972.0,trigo_total,4000,3600
+Tucumán,1973.0,maiz_total,46700,55900
+Tucumán,1973.0,soja_total,15000,20850
+Tucumán,1973.0,trigo_total,4350,2200
+Tucumán,1974.0,maiz_total,15200,16900
+Tucumán,1974.0,soja_total,23610,46000
+Tucumán,1974.0,trigo_total,5440,9470
+Tucumán,1975.0,maiz_total,15220,14000
+Tucumán,1975.0,soja_total,24000,27900
+Tucumán,1975.0,trigo_total,6900,7700
+Tucumán,1976.0,maiz_total,16200,35500
+Tucumán,1976.0,soja_total,24900,44300
+Tucumán,1976.0,trigo_total,8120,16100
+Tucumán,1977.0,maiz_total,14000,28000
+Tucumán,1977.0,soja_total,36000,60000
+Tucumán,1977.0,trigo_total,18000,18900
+Tucumán,1978.0,maiz_total,17200,32600
+Tucumán,1978.0,soja_total,54500,98000
+Tucumán,1978.0,trigo_total,18000,35000
+Tucumán,1979.0,maiz_total,18000,37200
+Tucumán,1979.0,soja_total,75000,149000
+Tucumán,1979.0,trigo_total,12400,8700
+Tucumán,1980.0,maiz_total,29500,66000
+Tucumán,1980.0,soja_total,85000,134000
+Tucumán,1980.0,trigo_total,10400,18100
+Tucumán,1981.0,maiz_total,36400,83600
+Tucumán,1981.0,soja_total,80400,165000
+Tucumán,1981.0,trigo_total,16200,15000
+Tucumán,1982.0,maiz_total,48400,110800
+Tucumán,1982.0,soja_total,73200,127300
+Tucumán,1982.0,trigo_total,18000,17000
+Tucumán,1983.0,maiz_total,42550,106800
+Tucumán,1983.0,soja_total,77000,156200
+Tucumán,1983.0,trigo_total,20500,30250
+Tucumán,1984.0,maiz_total,33900,73400
+Tucumán,1984.0,soja_total,95500,196000
+Tucumán,1984.0,trigo_total,21400,33000
+Tucumán,1985.0,maiz_total,44400,100000
+Tucumán,1985.0,soja_total,74750,166000
+Tucumán,1985.0,trigo_total,35920,56000
+Tucumán,1986.0,maiz_total,36000,108000
+Tucumán,1986.0,soja_total,85630,156000
+Tucumán,1986.0,trigo_total,65400,96000
+Tucumán,1987.0,maiz_total,42700,48500
+Tucumán,1987.0,soja_total,78300,85500
+Tucumán,1987.0,trigo_total,32200,48400
+Tucumán,1988.0,maiz_total,40500,100000
+Tucumán,1988.0,soja_total,84000,167000
+Tucumán,1988.0,trigo_total,20000,14000
+Tucumán,1989.0,maiz_total,11300,4500
+Tucumán,1989.0,soja_total,40000,40000
+Tucumán,1989.0,trigo_total,37000,40000
+Tucumán,1990.0,maiz_total,32000,84800
+Tucumán,1990.0,soja_total,81500,162200
+Tucumán,1990.0,trigo_total,30000,23000
+Tucumán,1991.0,maiz_total,30500,109500
+Tucumán,1991.0,soja_total,83000,198400
+Tucumán,1991.0,trigo_total,33000,49500
+Tucumán,1992.0,maiz_total,30000,104500
+Tucumán,1992.0,soja_total,85700,193700
+Tucumán,1992.0,trigo_total,28000,43200
+Tucumán,1993.0,maiz_total,35400,132300
+Tucumán,1993.0,soja_total,92000,192600
+Tucumán,1993.0,trigo_total,31500,61700
+Tucumán,1994.0,maiz_total,40000,156400
+Tucumán,1994.0,soja_total,90000,173200
+Tucumán,1994.0,trigo_total,23900,21900
+Tucumán,1995.0,maiz_total,40100,157100
+Tucumán,1995.0,soja_total,90300,156800
+Tucumán,1995.0,trigo_total,23900,14600
+Tucumán,1996.0,maiz_total,27000,66520
+Tucumán,1996.0,soja_total,85000,141000
+Tucumán,1996.0,trigo_total,25000,18300
+Tucumán,1997.0,maiz_total,40100,185500
+Tucumán,1997.0,soja_total,90000,201900
+Tucumán,1997.0,trigo_total,52000,46400
+Tucumán,1998.0,maiz_total,44930,238200
+Tucumán,1998.0,soja_total,111270,261777
+Tucumán,1998.0,trigo_total,35000,44700
+Tucumán,1999.0,maiz_total,45000,213900
+Tucumán,1999.0,soja_total,150000,360000
+Tucumán,1999.0,trigo_total,34800,68000
+Tucumán,2000.0,maiz_total,58000,268840
+Tucumán,2000.0,soja_total,125000,312100
+Tucumán,2000.0,trigo_total,55000,108000
+Tucumán,2001.0,maiz_total,53000,281000
+Tucumán,2001.0,soja_1ra,123000,225090
+Tucumán,2001.0,soja_2da,57000,104310
+Tucumán,2001.0,soja_total,180000,329400
+Tucumán,2001.0,trigo_total,60000,70000
+Tucumán,2002.0,maiz_total,53000,252000
+Tucumán,2002.0,soja_1ra,153639,424028
+Tucumán,2002.0,soja_2da,85500,235972
+Tucumán,2002.0,soja_total,239139,660000
+Tucumán,2002.0,trigo_total,90000,200000
+Tucumán,2003.0,maiz_total,27000,59500
+Tucumán,2003.0,soja_1ra,160250,351317
+Tucumán,2003.0,soja_2da,99750,218683
+Tucumán,2003.0,soja_total,260000,570000
+Tucumán,2003.0,trigo_total,105000,160000
+Tucumán,2004.0,maiz_total,26000,110000
+Tucumán,2004.0,soja_1ra,230000,489100
+Tucumán,2004.0,soja_total,230000,489100
+Tucumán,2004.0,trigo_total,160000,87300
+Tucumán,2005.0,maiz_total,31910,189360
+Tucumán,2005.0,soja_1ra,98130,218551
+Tucumán,2005.0,soja_2da,161500,359687
+Tucumán,2005.0,soja_total,259630,578238
+Tucumán,2005.0,trigo_total,170000,252750
+Tucumán,2006.0,maiz_total,28270,133710
+Tucumán,2006.0,soja_1ra,86643,256243
+Tucumán,2006.0,soja_2da,196875,579660
+Tucumán,2006.0,soja_total,283518,835903
+Tucumán,2006.0,trigo_total,207350,259350
+Tucumán,2007.0,maiz_total,36770,251160
+Tucumán,2007.0,soja_1ra,72444,225958
+Tucumán,2007.0,soja_2da,209006,650050
+Tucumán,2007.0,soja_total,281450,876008
+Tucumán,2007.0,trigo_total,220010,298060
+Tucumán,2008.0,maiz_total,39060,195730
+Tucumán,2008.0,soja_1ra,84641,233427
+Tucumán,2008.0,soja_2da,205429,570498
+Tucumán,2008.0,soja_total,290070,803925
+Tucumán,2008.0,trigo_total,216280,185220
+Tucumán,2009.0,maiz_total,39170,250000
+Tucumán,2009.0,soja_1ra,112808,293481
+Tucumán,2009.0,soja_2da,180412,469565
+Tucumán,2009.0,soja_total,293220,763046
+Tucumán,2009.0,trigo_total,189910,120240
+Tucumán,2010.0,maiz_total,52580,297820
+Tucumán,2010.0,soja_1ra,106239,290055
+Tucumán,2010.0,soja_2da,167461,454373
+Tucumán,2010.0,soja_total,273700,744428
+Tucumán,2010.0,trigo_total,176280,132820
+Tucumán,2011.0,maiz_total,60930,429620
+Tucumán,2011.0,soja_1ra,94473,268193
+Tucumán,2011.0,soja_2da,160397,466469
+Tucumán,2011.0,soja_total,254870,734662
+Tucumán,2011.0,trigo_total,168840,247710
+Tucumán,2012.0,maiz_total,50300,167500
+Tucumán,2012.0,soja_1ra,85558,132560
+Tucumán,2012.0,soja_2da,145102,210351
+Tucumán,2012.0,soja_total,230660,342911
+Tucumán,2012.0,trigo,10200,13160
+Tucumán,2012.0,trigo_total,142540,182940
+Tucumán,2013.0,maiz_total,59150,233390
+Tucumán,2013.0,soja_1ra,111327,152909
+Tucumán,2013.0,soja_2da,88673,119581
+Tucumán,2013.0,soja_total,200000,272490
+Tucumán,2013.0,trigo,7300,5390
+Tucumán,2013.0,trigo_total,86040,77710
+Tucumán,2014.0,maiz_total,67350,410150
+Tucumán,2014.0,soja_1ra,195866,390296
+Tucumán,2014.0,soja_2da,13034,25705
+Tucumán,2014.0,soja_total,208900,416001
+Tucumán,2014.0,trigo,850,140
+Tucumán,2014.0,trigo_total,12870,3250
+Tucumán,2015.0,maiz_total,51800,286270
+Tucumán,2015.0,soja_1ra,134368,278980
+Tucumán,2015.0,soja_2da,63982,134769
+Tucumán,2015.0,soja_total,198350,413749
+Tucumán,2015.0,trigo,4200,7160
+Tucumán,2015.0,trigo_total,63190,53430
+Tucumán,2016.0,maiz_total,66960,446206
+Tucumán,2016.0,soja_1ra,78091,243127
+Tucumán,2016.0,soja_2da,134119,414500
+Tucumán,2016.0,soja_total,212210,657627
+Tucumán,2016.0,trigo,4550,5670
+Tucumán,2016.0,trigo_total,134330,150070
+Tucumán,2017.0,maiz_total,65750,329991
+Tucumán,2017.0,soja_1ra,76765,184737
+Tucumán,2017.0,soja_2da,127135,306637
+Tucumán,2017.0,soja_total,203900,491374
+Tucumán,2017.0,trigo,7650,10478
+Tucumán,2017.0,trigo_total,145400,115620
+Tucumán,2018.0,maiz_total,79850,492935
+Tucumán,2018.0,soja_1ra,58213,150522
+Tucumán,2018.0,soja_2da,130587,341440
+Tucumán,2018.0,soja_total,188800,491962
+Tucumán,2018.0,trigo,8950,8280
+Tucumán,2018.0,trigo_total,145590,147576
+Tucumán,2019.0,maiz_total,91080,644726
+Tucumán,2019.0,soja_1ra,129500,427352
+Tucumán,2019.0,soja_2da,56400,180474
+Tucumán,2019.0,soja_total,185900,607826
+Tucumán,2019.0,trigo,2900,1770
+Tucumán,2019.0,trigo_total,89200,58312
+Tucumán,2020.0,maiz_total,89110,429564
+Tucumán,2020.0,soja_1ra,85800,191063
+Tucumán,2020.0,soja_2da,88400,184833
+Tucumán,2020.0,soja_total,174200,375896
+Tucumán,2020.0,trigo,2900,1770
+Tucumán,2020.0,trigo_total,98150,99045
+Tucumán,2021.0,maiz_total,93110,437765
+Tucumán,2021.0,soja_1ra,91465,244941
+Tucumán,2021.0,soja_2da,74900,200313
+Tucumán,2021.0,soja_total,166365,445254
+Tucumán,2021.0,trigo,4100,2895
+Tucumán,2021.0,trigo_total,82100,60839
+Tucumán,2022.0,maiz_total,92100,454459
+Tucumán,2022.0,soja_1ra,88980,159201
+Tucumán,2022.0,soja_2da,64250,112768
+Tucumán,2022.0,soja_total,153230,271969
+Tucumán,2022.0,trigo,4380,2898
+Tucumán,2022.0,trigo_total,75340,52295
+Tucumán,2023.0,maiz_total,88370,385888
+Tucumán,2023.0,soja_1ra,98580,135462
+Tucumán,2023.0,soja_2da,66350,89751
+Tucumán,2023.0,soja_total,164880,225108
+Tucumán,2023.0,trigo,3580,2489
+Tucumán,2023.0,trigo_total,73930,51445
+Tucumán,2024.0,maiz_total,88820,237290
+Tucumán,2024.0,soja_1ra,97000,289615
+Tucumán,2024.0,soja_2da,75820,225406
+Tucumán,2024.0,soja_total,172820,515021
+Tucumán,2024.0,trigo,4950,6210
+Tucumán,2024.0,trigo_total,83930,102160
+Tucumán,2025.0,maiz_total,62930,265954
+Tucumán,2025.0,soja_1ra,106800,272456
+Tucumán,2025.0,soja_2da,78220,200601
+Tucumán,2025.0,soja_total,185020,473056
+Tucumán,2025.0,trigo,4950,5442
+Tucumán,2025.0,trigo_total,82370,86636

@@ -1,0 +1,3862 @@
+provincia,year,cultivo,area_ha,prod_t
+Buenos Aires,1970.0,girasol,865600,743300
+Buenos Aires,1970.0,maiz,1339800,3729800
+Buenos Aires,1970.0,soja,1270,1600
+Buenos Aires,1970.0,sorgo,415900,880000
+Buenos Aires,1970.0,trigo,3449000,4882600
+Buenos Aires,1971.0,girasol,899600,448000
+Buenos Aires,1971.0,maiz,1541900,3769500
+Buenos Aires,1971.0,soja,1400,1600
+Buenos Aires,1971.0,sorgo,591600,925000
+Buenos Aires,1971.0,trigo,2837600,3255000
+Buenos Aires,1972.0,girasol,786650,502100
+Buenos Aires,1972.0,maiz,1337500,2509500
+Buenos Aires,1972.0,soja,1580,2020
+Buenos Aires,1972.0,sorgo,482250,615000
+Buenos Aires,1972.0,trigo,2940450,3500000
+Buenos Aires,1973.0,girasol,856700,475000
+Buenos Aires,1973.0,maiz,1284500,3775500
+Buenos Aires,1973.0,soja,5185,6285
+Buenos Aires,1973.0,sorgo,521500,881000
+Buenos Aires,1973.0,trigo,3148400,5266920
+Buenos Aires,1974.0,girasol,731070,577000
+Buenos Aires,1974.0,maiz,1348300,4359400
+Buenos Aires,1974.0,soja,57100,85000
+Buenos Aires,1974.0,sorgo,694200,2000000
+Buenos Aires,1974.0,trigo,2450400,3794000
+Buenos Aires,1975.0,girasol,653900,358300
+Buenos Aires,1975.0,maiz,1395800,3059400
+Buenos Aires,1975.0,soja,30400,37000
+Buenos Aires,1975.0,sorgo,529500,990000
+Buenos Aires,1975.0,trigo,2866000,3440000
+Buenos Aires,1976.0,girasol,725400,595000
+Buenos Aires,1976.0,maiz,1402300,3239750
+Buenos Aires,1976.0,soja,43500,62300
+Buenos Aires,1976.0,sorgo,578650,1611000
+Buenos Aires,1976.0,trigo,3133000,4300000
+Buenos Aires,1977.0,girasol,800000,490000
+Buenos Aires,1977.0,maiz,1219800,3999300
+Buenos Aires,1977.0,soja,52000,74000
+Buenos Aires,1977.0,sorgo,600000,1510000
+Buenos Aires,1977.0,trigo,3884000,6000000
+Buenos Aires,1978.0,girasol,1195000,980000
+Buenos Aires,1978.0,maiz,1333800,4699300
+Buenos Aires,1978.0,soja,151100,320000
+Buenos Aires,1978.0,sorgo,670000,2000000
+Buenos Aires,1978.0,trigo,2470000,3000000
+Buenos Aires,1979.0,girasol,981000,900000
+Buenos Aires,1979.0,maiz,1329800,3669400
+Buenos Aires,1979.0,soja,262000,520000
+Buenos Aires,1979.0,sorgo,586000,1300000
+Buenos Aires,1979.0,trigo,3040000,5100000
+Buenos Aires,1980.0,girasol,1060000,882000
+Buenos Aires,1980.0,maiz,1241900,2519720
+Buenos Aires,1980.0,soja,470000,883000
+Buenos Aires,1980.0,sorgo,365000,437000
+Buenos Aires,1980.0,trigo,2880000,4600000
+Buenos Aires,1981.0,girasol,811000,860000
+Buenos Aires,1981.0,maiz,1500000,6073000
+Buenos Aires,1981.0,soja,456000,900000
+Buenos Aires,1981.0,sorgo,435400,1760000
+Buenos Aires,1981.0,trigo,3262000,5053000
+Buenos Aires,1982.0,girasol,1090000,1352000
+Buenos Aires,1982.0,maiz,1281500,4160000
+Buenos Aires,1982.0,soja,462300,924500
+Buenos Aires,1982.0,sorgo,447000,1410000
+Buenos Aires,1982.0,trigo,3940000,5100000
+Buenos Aires,1983.0,girasol,1120000,1510000
+Buenos Aires,1983.0,maiz,1075000,3280000
+Buenos Aires,1983.0,soja,650000,950000
+Buenos Aires,1983.0,sorgo,418000,1451000
+Buenos Aires,1983.0,trigo,4446000,9790000
+Buenos Aires,1984.0,girasol,1392000,1450000
+Buenos Aires,1984.0,maiz,1195000,4130000
+Buenos Aires,1984.0,soja,715000,1670000
+Buenos Aires,1984.0,sorgo,368800,1400000
+Buenos Aires,1984.0,trigo,4500000,8450000
+Buenos Aires,1985.0,girasol,1450000,2140000
+Buenos Aires,1985.0,maiz,1290000,4680000
+Buenos Aires,1985.0,soja,830000,1600000
+Buenos Aires,1985.0,sorgo,300000,980000
+Buenos Aires,1985.0,trigo,3915000,9100000
+Buenos Aires,1986.0,girasol,1815000,2414000
+Buenos Aires,1986.0,maiz,1274000,4800000
+Buenos Aires,1986.0,soja,851500,1988000
+Buenos Aires,1986.0,sorgo,229300,730400
+Buenos Aires,1986.0,trigo,3760000,5735000
+Buenos Aires,1987.0,girasol,1118200,1260000
+Buenos Aires,1987.0,maiz,1327000,3595000
+Buenos Aires,1987.0,soja,844000,1726400
+Buenos Aires,1987.0,sorgo,234200,460000
+Buenos Aires,1987.0,trigo,3300000,6150000
+Buenos Aires,1988.0,girasol,1230000,1670000
+Buenos Aires,1988.0,maiz,985000,4023000
+Buenos Aires,1988.0,soja,987000,2150000
+Buenos Aires,1988.0,sorgo,180000,540000
+Buenos Aires,1988.0,trigo,2910000,5230000
+Buenos Aires,1989.0,girasol,1380000,2072400
+Buenos Aires,1989.0,maiz,1075000,3319000
+Buenos Aires,1989.0,soja,1130000,2100000
+Buenos Aires,1989.0,sorgo,95000,252000
+Buenos Aires,1989.0,trigo,2890000,5300000
+Buenos Aires,1990.0,girasol,1550000,2400000
+Buenos Aires,1990.0,maiz,800000,3430000
+Buenos Aires,1990.0,soja,1260000,2800000
+Buenos Aires,1990.0,sorgo,35000,100000
+Buenos Aires,1990.0,trigo,3250000,6700000
+Buenos Aires,1991.0,girasol,1326450,2350900
+Buenos Aires,1991.0,maiz,881900,3929300
+Buenos Aires,1991.0,soja,1313000,2799000
+Buenos Aires,1991.0,sorgo,39100,150800
+Buenos Aires,1991.0,trigo,3453000,6599900
+Buenos Aires,1992.0,girasol,1517675,2059900
+Buenos Aires,1992.0,maiz,1099700,5171300
+Buenos Aires,1992.0,soja,1213300,2533100
+Buenos Aires,1992.0,sorgo,40300,148700
+Buenos Aires,1992.0,trigo,2768900,5715300
+Buenos Aires,1993.0,girasol,1170700,1718200
+Buenos Aires,1993.0,maiz,1156800,4448000
+Buenos Aires,1993.0,soja,1399950,2341100
+Buenos Aires,1993.0,sorgo,41600,163100
+Buenos Aires,1993.0,trigo,2683600,6029600
+Buenos Aires,1994.0,girasol,1273800,2404500
+Buenos Aires,1994.0,maiz,942430,4006300
+Buenos Aires,1994.0,soja,1382530,2429300
+Buenos Aires,1994.0,sorgo,35880,128400
+Buenos Aires,1994.0,trigo,2682200,5659000
+Buenos Aires,1995.0,girasol,1672300,3496700
+Buenos Aires,1995.0,maiz,1007200,4910400
+Buenos Aires,1995.0,soja,1376400,2608200
+Buenos Aires,1995.0,sorgo,35110,126900
+Buenos Aires,1995.0,trigo,3043800,7148800
+Buenos Aires,1996.0,girasol,1904220,3514040
+Buenos Aires,1996.0,maiz,1124600,4493520
+Buenos Aires,1996.0,soja,1308055,2377800
+Buenos Aires,1996.0,sorgo,49500,156820
+Buenos Aires,1996.0,trigo,3145200,6416040
+Buenos Aires,1997.0,girasol,1788850,3318465
+Buenos Aires,1997.0,maiz,1504000,8216320
+Buenos Aires,1997.0,soja,1471900,2531800
+Buenos Aires,1997.0,sorgo,70850,287600
+Buenos Aires,1997.0,trigo,4447900,10774607
+Buenos Aires,1998.0,girasol,1961500,3258500
+Buenos Aires,1998.0,maiz,1371800,9031300
+Buenos Aires,1998.0,soja,1604000,3859680
+Buenos Aires,1998.0,sorgo,86750,376540
+Buenos Aires,1998.0,trigo,3658600,10663930
+Buenos Aires,1999.0,girasol,2373200,3771940
+Buenos Aires,1999.0,maiz,1109100,5702700
+Buenos Aires,1999.0,soja,1732300,4579260
+Buenos Aires,1999.0,sorgo,77700,330390
+Buenos Aires,1999.0,trigo,3250950,7517600
+Buenos Aires,2000.0,girasol,1911950,3286715
+Buenos Aires,2000.0,maiz,1210400,6590900
+Buenos Aires,2000.0,soja,1808450,3777100
+Buenos Aires,2000.0,sorgo,71600,274413
+Buenos Aires,2000.0,trigo,3688800,8751000
+Buenos Aires,2001.0,girasol,960420,1455943
+Buenos Aires,2001.0,maiz,1095650,5525640
+Buenos Aires,2001.0,soja,2413010,5725568
+Buenos Aires,2001.0,sorgo,50850,202500
+Buenos Aires,2001.0,trigo,3550600,9853172
+Buenos Aires,2002.0,girasol,1074920,1842157
+Buenos Aires,2002.0,maiz,800846,4047780
+Buenos Aires,2002.0,soja,2188090,5776800
+Buenos Aires,2002.0,sorgo,35100,136480
+Buenos Aires,2002.0,trigo,3565450,8654680
+Buenos Aires,2003.0,girasol,1103860,1619600
+Buenos Aires,2003.0,maiz,762190,4267450
+Buenos Aires,2003.0,soja,2475653,7142260
+Buenos Aires,2003.0,sorgo,25125,98610
+Buenos Aires,2003.0,trigo,3291550,6833319
+Buenos Aires,2004.0,girasol,970143,1646429
+Buenos Aires,2004.0,maiz,795530,4998610
+Buenos Aires,2004.0,soja,3205523,7852000
+Buenos Aires,2004.0,sorgo,21350,87350
+Buenos Aires,2004.0,trigo,3165997,9033010
+Buenos Aires,2005.0,girasol,1102519,2125541
+Buenos Aires,2005.0,maiz,933462,6266880
+Buenos Aires,2005.0,soja,3326048,10004030
+Buenos Aires,2005.0,sorgo,17100,76340
+Buenos Aires,2005.0,trigo,3322260,9817845
+Buenos Aires,2006.0,girasol,1111850,1904142
+Buenos Aires,2006.0,maiz,822300,4304450
+Buenos Aires,2006.0,soja,3709800,10526712
+Buenos Aires,2006.0,sorgo,27550,122640
+Buenos Aires,2006.0,trigo,2885045,7450976
+Buenos Aires,2007.0,girasol,1180288,1676308
+Buenos Aires,2007.0,maiz,919605,6095250
+Buenos Aires,2007.0,soja,4057028,11653275
+Buenos Aires,2007.0,sorgo,40940,124965
+Buenos Aires,2007.0,trigo,2989765,9019700
+Buenos Aires,2008.0,girasol,1358150,2407689
+Buenos Aires,2008.0,maiz,1146870,7077260
+Buenos Aires,2008.0,soja,4217200,12245801
+Buenos Aires,2008.0,sorgo,62425,160090
+Buenos Aires,2008.0,trigo,2938017,7670480
+Buenos Aires,2009.0,girasol,932270,1419815
+Buenos Aires,2009.0,maiz,1041200,3623400
+Buenos Aires,2009.0,soja,5393538,6733393
+Buenos Aires,2009.0,sorgo,109600,229050
+Buenos Aires,2009.0,trigo,2650205,5510807
+Buenos Aires,2010.0,girasol,872950,1519252
+Buenos Aires,2010.0,maiz,1133400,8128850
+Buenos Aires,2010.0,soja,5317020,16003570
+Buenos Aires,2010.0,sorgo,159800,431720
+Buenos Aires,2010.0,trigo,2168120,5792554
+Buenos Aires,2011.0,girasol,954150,2220315
+Buenos Aires,2011.0,maiz,1428106,8514650
+Buenos Aires,2011.0,soja,5935442,15465224
+Buenos Aires,2011.0,sorgo,118050,459960
+Buenos Aires,2011.0,trigo,2296230,9233514
+Buenos Aires,2012.0,girasol,958770,1798510
+Buenos Aires,2012.0,maiz,1588295,7629560
+Buenos Aires,2012.0,soja,5969357,15396122
+Buenos Aires,2012.0,sorgo,136194,499620
+Buenos Aires,2012.0,trigo,2277150,8537626
+Buenos Aires,2013.0,girasol,692881,1548130
+Buenos Aires,2013.0,maiz,1606583,9790376
+Buenos Aires,2013.0,soja,6645655,17601828
+Buenos Aires,2013.0,sorgo,143790,475937
+Buenos Aires,2013.0,trigo,1245804,3664848
+Buenos Aires,2014.0,girasol,652390,1162710
+Buenos Aires,2014.0,maiz,1476460,7191890
+Buenos Aires,2014.0,soja,6691029,17143374
+Buenos Aires,2014.0,sorgo,140650,341860
+Buenos Aires,2014.0,trigo,1638495,5617211
+Buenos Aires,2015.0,girasol,835150,1967665
+Buenos Aires,2015.0,maiz,1561280,8893434
+Buenos Aires,2015.0,soja,6584272,19592375
+Buenos Aires,2015.0,sorgo,141570,473710
+Buenos Aires,2015.0,trigo,2187465,6468158
+Buenos Aires,2016.0,girasol,745541,1729277
+Buenos Aires,2016.0,maiz,1787008,10147679
+Buenos Aires,2016.0,soja,6823729,21951941
+Buenos Aires,2016.0,sorgo,134631,432821
+Buenos Aires,2016.0,trigo,1510751,4958819
+Buenos Aires,2017.0,girasol,868960,1885178
+Buenos Aires,2017.0,maiz,2308200,12955509
+Buenos Aires,2017.0,soja,5980061,17383411
+Buenos Aires,2017.0,sorgo,190510,536725
+Buenos Aires,2017.0,trigo,2354200,7548338
+Buenos Aires,2018.0,girasol,824048,1814350
+Buenos Aires,2018.0,maiz,2452881,12770903
+Buenos Aires,2018.0,soja,5548460,11844661
+Buenos Aires,2018.0,sorgo,162350,368046
+Buenos Aires,2018.0,trigo,1989714,7611227
+Buenos Aires,2019.0,girasol,813310,1698696
+Buenos Aires,2019.0,maiz,2418940,16770895
+Buenos Aires,2019.0,soja,5542393,17667049
+Buenos Aires,2019.0,sorgo,102605,335609
+Buenos Aires,2019.0,trigo,2342984,9017580
+Buenos Aires,2020.0,girasol,704917,1467058
+Buenos Aires,2020.0,maiz,2472520,15595357
+Buenos Aires,2020.0,soja,5172483,15160896
+Buenos Aires,2020.0,sorgo,97855,327372
+Buenos Aires,2020.0,trigo,2484078,7810038
+Buenos Aires,2021.0,girasol,990804,2071374
+Buenos Aires,2021.0,maiz,2713158,16045316
+Buenos Aires,2021.0,soja,5286348,13532893
+Buenos Aires,2021.0,sorgo,142888,484904
+Buenos Aires,2021.0,trigo,2747910,10480586
+Buenos Aires,2022.0,girasol,1131896,2308979
+Buenos Aires,2022.0,maiz,2950705,16161683
+Buenos Aires,2022.0,soja,5036304,13537109
+Buenos Aires,2022.0,sorgo,120971,417490
+Buenos Aires,2022.0,trigo,2601214,9687585
+Buenos Aires,2023.0,girasol,1266672,2914958
+Buenos Aires,2023.0,maiz,2928935,11954847
+Buenos Aires,2023.0,soja,4997610,8490928
+Buenos Aires,2023.0,sorgo,119082,293849
+Buenos Aires,2023.0,trigo,2641414,6132032
+Buenos Aires,2024.0,girasol,1050314,2353312
+Buenos Aires,2024.0,maiz,3090580,17859488
+Buenos Aires,2024.0,soja,5180208,14899458
+Buenos Aires,2024.0,sorgo,113761,364914
+Buenos Aires,2024.0,trigo,2415159,7955064
+Buenos Aires,2025.0,girasol,1173852,2774333
+Buenos Aires,2025.0,maiz,3130724,17196317
+Buenos Aires,2025.0,soja,5487037,15533596
+Buenos Aires,2025.0,sorgo,116248,305594
+Buenos Aires,2025.0,trigo,2620117,9265428
+Catamarca,1970.0,maiz,1800,1500
+Catamarca,1970.0,sorgo,100,100
+Catamarca,1970.0,trigo,580,450
+Catamarca,1971.0,maiz,1600,1100
+Catamarca,1971.0,sorgo,70,40
+Catamarca,1971.0,trigo,480,360
+Catamarca,1972.0,maiz,1468,240
+Catamarca,1972.0,sorgo,100,20
+Catamarca,1972.0,trigo,400,80
+Catamarca,1973.0,maiz,1340,745
+Catamarca,1973.0,sorgo,300,0
+Catamarca,1974.0,maiz,2340,2100
+Catamarca,1975.0,maiz,1260,530
+Catamarca,1976.0,maiz,2250,1680
+Catamarca,1976.0,soja,250,200
+Catamarca,1976.0,trigo,460,340
+Catamarca,1977.0,maiz,3000,3000
+Catamarca,1977.0,soja,500,500
+Catamarca,1977.0,trigo,460,300
+Catamarca,1978.0,maiz,3300,4000
+Catamarca,1978.0,soja,700,700
+Catamarca,1978.0,trigo,500,400
+Catamarca,1979.0,maiz,3100,4000
+Catamarca,1979.0,soja,800,500
+Catamarca,1979.0,trigo,500,400
+Catamarca,1980.0,maiz,3100,4200
+Catamarca,1980.0,soja,2000,2300
+Catamarca,1980.0,trigo,550,440
+Catamarca,1981.0,maiz,3400,4800
+Catamarca,1981.0,soja,2100,3000
+Catamarca,1981.0,trigo,630,500
+Catamarca,1982.0,maiz,5540,9000
+Catamarca,1982.0,soja,2000,2600
+Catamarca,1982.0,trigo,600,350
+Catamarca,1983.0,maiz,11980,27700
+Catamarca,1983.0,soja,1100,1500
+Catamarca,1983.0,sorgo,6850,19000
+Catamarca,1983.0,trigo,1650,1450
+Catamarca,1984.0,maiz,12000,27000
+Catamarca,1984.0,soja,1100,1500
+Catamarca,1984.0,sorgo,6800,19000
+Catamarca,1984.0,trigo,1880,1880
+Catamarca,1985.0,maiz,8000,17000
+Catamarca,1985.0,soja,1000,1800
+Catamarca,1985.0,sorgo,17000,34000
+Catamarca,1985.0,trigo,1500,1800
+Catamarca,1986.0,maiz,20000,47000
+Catamarca,1986.0,soja,890,1590
+Catamarca,1986.0,sorgo,20000,54300
+Catamarca,1986.0,trigo,1500,2250
+Catamarca,1987.0,maiz,25000,22500
+Catamarca,1987.0,soja,8000,5000
+Catamarca,1987.0,sorgo,20000,27000
+Catamarca,1987.0,trigo,4000,5335
+Catamarca,1988.0,maiz,18000,54000
+Catamarca,1988.0,soja,7900,12400
+Catamarca,1988.0,sorgo,16000,44000
+Catamarca,1988.0,trigo,3500,1400
+Catamarca,1989.0,maiz,5000,4620
+Catamarca,1989.0,soja,6000,4000
+Catamarca,1989.0,sorgo,2500,900
+Catamarca,1989.0,trigo,3500,3300
+Catamarca,1990.0,maiz,17000,37000
+Catamarca,1990.0,soja,11000,20000
+Catamarca,1990.0,sorgo,10000,23100
+Catamarca,1990.0,trigo,3600,2750
+Catamarca,1991.0,maiz,15000,54000
+Catamarca,1991.0,soja,15000,33600
+Catamarca,1991.0,sorgo,10000,32600
+Catamarca,1991.0,trigo,4000,4600
+Catamarca,1992.0,maiz,19000,70300
+Catamarca,1992.0,soja,16000,36700
+Catamarca,1992.0,sorgo,8000,26400
+Catamarca,1992.0,trigo,4000,7600
+Catamarca,1993.0,maiz,15000,60000
+Catamarca,1993.0,soja,7000,14000
+Catamarca,1993.0,sorgo,5500,19300
+Catamarca,1993.0,trigo,3000,6000
+Catamarca,1994.0,maiz,13000,52000
+Catamarca,1994.0,soja,10000,24000
+Catamarca,1994.0,sorgo,6000,24000
+Catamarca,1994.0,trigo,10000,8200
+Catamarca,1995.0,maiz,10000,40000
+Catamarca,1995.0,soja,14000,29400
+Catamarca,1995.0,trigo,13000,7200
+Catamarca,1996.0,maiz,9000,36000
+Catamarca,1996.0,soja,12000,15600
+Catamarca,1996.0,trigo,4000,4800
+Catamarca,1997.0,maiz,9000,36000
+Catamarca,1997.0,soja,15000,34500
+Catamarca,1997.0,trigo,3500,5800
+Catamarca,1998.0,maiz,10000,45000
+Catamarca,1998.0,soja,14000,42000
+Catamarca,1998.0,trigo,900,1300
+Catamarca,1999.0,maiz,9000,36900
+Catamarca,1999.0,soja,18000,52200
+Catamarca,1999.0,trigo,2100,5700
+Catamarca,2000.0,maiz,9000,40500
+Catamarca,2000.0,soja,14000,35300
+Catamarca,2000.0,trigo,15000,31000
+Catamarca,2001.0,maiz,9000,40500
+Catamarca,2001.0,soja,23000,64400
+Catamarca,2001.0,trigo,30000,84000
+Catamarca,2002.0,maiz,9000,40500
+Catamarca,2002.0,soja,35000,98000
+Catamarca,2002.0,trigo,22000,62000
+Catamarca,2003.0,maiz,9000,40500
+Catamarca,2003.0,soja,40000,112000
+Catamarca,2003.0,trigo,8000,17600
+Catamarca,2004.0,maiz,9000,20250
+Catamarca,2004.0,soja,37000,107300
+Catamarca,2004.0,trigo,6000,12000
+Catamarca,2005.0,maiz,9000,31500
+Catamarca,2005.0,soja,40394,90270
+Catamarca,2005.0,trigo,20000,40000
+Catamarca,2006.0,maiz,9000,31500
+Catamarca,2006.0,soja,46000,126280
+Catamarca,2006.0,trigo,16000,33600
+Catamarca,2007.0,maiz,9000,31500
+Catamarca,2007.0,soja,46000,128800
+Catamarca,2007.0,trigo,15000,39000
+Catamarca,2008.0,maiz,10000,40000
+Catamarca,2008.0,soja,50000,150000
+Catamarca,2008.0,trigo,19000,24700
+Catamarca,2009.0,maiz,10000,40000
+Catamarca,2009.0,soja,50000,115000
+Catamarca,2009.0,trigo,24000,43200
+Catamarca,2010.0,maiz,10000,40000
+Catamarca,2010.0,soja,53000,132500
+Catamarca,2010.0,trigo,11500,25300
+Catamarca,2011.0,maiz,10000,41410
+Catamarca,2011.0,soja,53000,116600
+Catamarca,2011.0,trigo,22000,35200
+Catamarca,2012.0,maiz,10000,40800
+Catamarca,2012.0,soja,37000,70300
+Catamarca,2012.0,trigo,22000,46200
+Catamarca,2013.0,maiz,2600,6085
+Catamarca,2013.0,soja,24300,24075
+Catamarca,2013.0,trigo,22240,16960
+Catamarca,2014.0,maiz,3600,18620
+Catamarca,2014.0,soja,15100,25370
+Catamarca,2014.0,sorgo,250,500
+Catamarca,2014.0,trigo,1700,560
+Catamarca,2015.0,maiz,8700,48960
+Catamarca,2015.0,soja,26200,58874
+Catamarca,2015.0,sorgo,500,1260
+Catamarca,2015.0,trigo,15000,14180
+Catamarca,2016.0,maiz,12400,93192
+Catamarca,2016.0,soja,56142,161667
+Catamarca,2016.0,sorgo,400,940
+Catamarca,2016.0,trigo,37020,55270
+Catamarca,2017.0,maiz,9300,50050
+Catamarca,2017.0,soja,29900,73227
+Catamarca,2017.0,sorgo,300,840
+Catamarca,2017.0,trigo,34700,37312
+Catamarca,2018.0,maiz,13350,84600
+Catamarca,2018.0,soja,39600,89016
+Catamarca,2018.0,sorgo,250,230
+Catamarca,2018.0,trigo,39150,38230
+Catamarca,2019.0,maiz,20060,142670
+Catamarca,2019.0,soja,42100,135800
+Catamarca,2019.0,sorgo,200,450
+Catamarca,2019.0,trigo,16400,10392
+Catamarca,2020.0,maiz,16200,91326
+Catamarca,2020.0,soja,40400,92615
+Catamarca,2020.0,sorgo,2000,6080
+Catamarca,2020.0,trigo,27200,31578
+Catamarca,2021.0,girasol,30,96
+Catamarca,2021.0,maiz,18400,124880
+Catamarca,2021.0,soja,39800,106251
+Catamarca,2021.0,sorgo,1500,3369
+Catamarca,2021.0,trigo,21100,20605
+Catamarca,2022.0,girasol,50,160
+Catamarca,2022.0,maiz,18800,103580
+Catamarca,2022.0,soja,38300,84640
+Catamarca,2022.0,sorgo,1800,3518
+Catamarca,2022.0,trigo,21630,23500
+Catamarca,2023.0,girasol,50,100
+Catamarca,2023.0,maiz,18200,93933
+Catamarca,2023.0,soja,42500,63948
+Catamarca,2023.0,sorgo,1700,3048
+Catamarca,2023.0,trigo,19100,18092
+Catamarca,2024.0,girasol,50,105
+Catamarca,2024.0,maiz,19400,29460
+Catamarca,2024.0,soja,44000,134185
+Catamarca,2024.0,sorgo,3000,5484
+Catamarca,2024.0,trigo,20100,25778
+Catamarca,2025.0,girasol,100,250
+Catamarca,2025.0,maiz,8450,36988
+Catamarca,2025.0,soja,41450,101766
+Catamarca,2025.0,sorgo,2480,4895
+Catamarca,2025.0,trigo,20400,19703
+Chaco,1970.0,girasol,60300,39400
+Chaco,1970.0,maiz,40800,38400
+Chaco,1970.0,soja,150,110
+Chaco,1970.0,sorgo,210300,275000
+Chaco,1970.0,trigo,58800,24550
+Chaco,1971.0,girasol,153450,55400
+Chaco,1971.0,maiz,46900,42900
+Chaco,1971.0,soja,360,275
+Chaco,1971.0,sorgo,163400,214000
+Chaco,1971.0,trigo,49300,55700
+Chaco,1972.0,girasol,155500,81600
+Chaco,1972.0,maiz,35600,44000
+Chaco,1972.0,soja,1000,600
+Chaco,1972.0,sorgo,144600,167000
+Chaco,1972.0,trigo,54800,23100
+Chaco,1973.0,girasol,189000,116000
+Chaco,1973.0,maiz,27550,48400
+Chaco,1973.0,soja,2030,1533
+Chaco,1973.0,sorgo,98250,224000
+Chaco,1973.0,trigo,59600,34600
+Chaco,1974.0,girasol,146200,109000
+Chaco,1974.0,maiz,19500,34500
+Chaco,1974.0,soja,2550,3050
+Chaco,1974.0,sorgo,92200,81800
+Chaco,1974.0,trigo,37300,59000
+Chaco,1975.0,girasol,167400,132500
+Chaco,1975.0,maiz,17650,31000
+Chaco,1975.0,soja,2340,2600
+Chaco,1975.0,sorgo,89000,144600
+Chaco,1975.0,trigo,47250,55600
+Chaco,1976.0,girasol,246000,190000
+Chaco,1976.0,maiz,12900,21360
+Chaco,1976.0,soja,2700,2650
+Chaco,1976.0,sorgo,130350,315000
+Chaco,1976.0,trigo,72600,92400
+Chaco,1977.0,girasol,106000,48000
+Chaco,1977.0,maiz,10000,12000
+Chaco,1977.0,soja,2000,2000
+Chaco,1977.0,sorgo,183000,420000
+Chaco,1977.0,trigo,8100,4000
+Chaco,1978.0,girasol,240000,134000
+Chaco,1978.0,maiz,30000,42000
+Chaco,1978.0,soja,2000,2400
+Chaco,1978.0,sorgo,116700,233000
+Chaco,1978.0,trigo,40000,20000
+Chaco,1979.0,girasol,170000,59000
+Chaco,1979.0,maiz,26500,28000
+Chaco,1979.0,soja,2000,2400
+Chaco,1979.0,sorgo,152000,218700
+Chaco,1979.0,trigo,27700,6000
+Chaco,1980.0,girasol,250000,223000
+Chaco,1980.0,maiz,36000,93000
+Chaco,1980.0,soja,3000,1500
+Chaco,1980.0,sorgo,149500,396000
+Chaco,1980.0,trigo,14200,13000
+Chaco,1981.0,girasol,82400,14800
+Chaco,1981.0,maiz,40500,27600
+Chaco,1981.0,soja,70,0
+Chaco,1981.0,sorgo,212500,347000
+Chaco,1981.0,trigo,44600,8200
+Chaco,1982.0,girasol,82000,80000
+Chaco,1982.0,maiz,35100,60000
+Chaco,1982.0,soja,750,900
+Chaco,1982.0,sorgo,329000,893000
+Chaco,1982.0,trigo,15000,18000
+Chaco,1983.0,girasol,153900,193000
+Chaco,1983.0,maiz,30100,45900
+Chaco,1983.0,soja,2050,2000
+Chaco,1983.0,sorgo,209700,300000
+Chaco,1983.0,trigo,33400,30000
+Chaco,1984.0,girasol,116000,79000
+Chaco,1984.0,maiz,23000,36000
+Chaco,1984.0,soja,3400,3800
+Chaco,1984.0,sorgo,210000,440000
+Chaco,1984.0,trigo,19300,19400
+Chaco,1985.0,girasol,193100,230000
+Chaco,1985.0,maiz,28500,63600
+Chaco,1985.0,soja,5200,8870
+Chaco,1985.0,sorgo,147400,380000
+Chaco,1985.0,trigo,11350,11100
+Chaco,1986.0,girasol,260000,316000
+Chaco,1986.0,maiz,26000,38000
+Chaco,1986.0,soja,8780,10800
+Chaco,1986.0,sorgo,94900,140100
+Chaco,1986.0,trigo,7350,14000
+Chaco,1987.0,girasol,104700,70000
+Chaco,1987.0,maiz,30700,64700
+Chaco,1987.0,soja,11000,17000
+Chaco,1987.0,sorgo,60550,166000
+Chaco,1987.0,trigo,8300,7700
+Chaco,1988.0,girasol,180000,247000
+Chaco,1988.0,maiz,33200,85000
+Chaco,1988.0,soja,14000,25000
+Chaco,1988.0,sorgo,57000,150000
+Chaco,1988.0,trigo,5200,6800
+Chaco,1989.0,girasol,61000,48500
+Chaco,1989.0,maiz,33100,50000
+Chaco,1989.0,soja,60000,105000
+Chaco,1989.0,sorgo,55200,130000
+Chaco,1989.0,trigo,1900,1100
+Chaco,1990.0,girasol,165000,200000
+Chaco,1990.0,maiz,30400,59000
+Chaco,1990.0,soja,68000,110000
+Chaco,1990.0,sorgo,32300,81800
+Chaco,1990.0,trigo,13400,22000
+Chaco,1991.0,girasol,101600,115000
+Chaco,1991.0,maiz,30000,51300
+Chaco,1991.0,soja,50000,76700
+Chaco,1991.0,sorgo,60000,150300
+Chaco,1991.0,trigo,27000,33000
+Chaco,1992.0,girasol,60500,69400
+Chaco,1992.0,maiz,54000,155600
+Chaco,1992.0,soja,70000,133100
+Chaco,1992.0,sorgo,75000,212300
+Chaco,1992.0,trigo,8500,15300
+Chaco,1993.0,girasol,85700,95800
+Chaco,1993.0,maiz,81100,243300
+Chaco,1993.0,soja,128000,230500
+Chaco,1993.0,sorgo,63000,201600
+Chaco,1993.0,trigo,22000,49800
+Chaco,1994.0,girasol,35700,50000
+Chaco,1994.0,maiz,84000,168000
+Chaco,1994.0,soja,149000,201600
+Chaco,1994.0,sorgo,40600,74900
+Chaco,1994.0,trigo,27000,11900
+Chaco,1995.0,girasol,75000,107900
+Chaco,1995.0,maiz,75000,127800
+Chaco,1995.0,soja,137000,170300
+Chaco,1995.0,sorgo,30000,70800
+Chaco,1995.0,trigo,41000,40700
+Chaco,1996.0,girasol,47500,75212
+Chaco,1996.0,maiz,130000,326300
+Chaco,1996.0,soja,70500,103600
+Chaco,1996.0,sorgo,24400,84900
+Chaco,1996.0,trigo,23000,25000
+Chaco,1997.0,girasol,58000,79500
+Chaco,1997.0,maiz,141700,325900
+Chaco,1997.0,soja,123000,246000
+Chaco,1997.0,sorgo,44700,159100
+Chaco,1997.0,trigo,55300,69700
+Chaco,1998.0,girasol,54300,72000
+Chaco,1998.0,maiz,90000,213000
+Chaco,1998.0,soja,130000,159600
+Chaco,1998.0,sorgo,36000,95000
+Chaco,1998.0,trigo,27450,27100
+Chaco,1999.0,girasol,149400,251800
+Chaco,1999.0,maiz,105000,203300
+Chaco,1999.0,soja,215000,430000
+Chaco,1999.0,sorgo,45000,112800
+Chaco,1999.0,trigo,32800,65000
+Chaco,2000.0,girasol,197000,354600
+Chaco,2000.0,maiz,136000,480200
+Chaco,2000.0,soja,350000,629200
+Chaco,2000.0,sorgo,28000,96050
+Chaco,2000.0,trigo,36400,49460
+Chaco,2001.0,girasol,140000,177140
+Chaco,2001.0,maiz,95000,191200
+Chaco,2001.0,soja,410000,830800
+Chaco,2001.0,sorgo,38000,114160
+Chaco,2001.0,trigo,85000,95000
+Chaco,2002.0,girasol,160000,318410
+Chaco,2002.0,maiz,115000,369200
+Chaco,2002.0,soja,587300,1154978
+Chaco,2002.0,sorgo,23000,69000
+Chaco,2002.0,trigo,130000,157190
+Chaco,2003.0,girasol,300000,501000
+Chaco,2003.0,maiz,116000,332000
+Chaco,2003.0,soja,751400,1572570
+Chaco,2003.0,sorgo,40000,144300
+Chaco,2003.0,trigo,150000,298980
+Chaco,2004.0,girasol,250000,429858
+Chaco,2004.0,maiz,120000,330050
+Chaco,2004.0,soja,758500,824595
+Chaco,2004.0,sorgo,40000,91570
+Chaco,2004.0,trigo,150000,125390
+Chaco,2005.0,girasol,170000,188140
+Chaco,2005.0,maiz,87000,221280
+Chaco,2005.0,soja,653183,862198
+Chaco,2005.0,sorgo,73000,252450
+Chaco,2005.0,trigo,15990,16200
+Chaco,2006.0,girasol,336830,655210
+Chaco,2006.0,maiz,135100,362990
+Chaco,2006.0,soja,616918,1348380
+Chaco,2006.0,sorgo,95200,438350
+Chaco,2006.0,trigo,63600,88340
+Chaco,2007.0,girasol,352030,569710
+Chaco,2007.0,maiz,164400,477700
+Chaco,2007.0,soja,679050,1254960
+Chaco,2007.0,sorgo,114900,384020
+Chaco,2007.0,trigo,130000,140420
+Chaco,2008.0,girasol,280900,470760
+Chaco,2008.0,maiz,130500,422050
+Chaco,2008.0,soja,711250,1647879
+Chaco,2008.0,sorgo,121700,463250
+Chaco,2008.0,trigo,18850,16370
+Chaco,2009.0,girasol,153000,125460
+Chaco,2009.0,maiz,95300,95770
+Chaco,2009.0,soja,692527,645397
+Chaco,2009.0,sorgo,101400,141680
+Chaco,2009.0,trigo,3040,3120
+Chaco,2010.0,girasol,56670,37120
+Chaco,2010.0,maiz,113300,313740
+Chaco,2010.0,soja,665720,1546513
+Chaco,2010.0,sorgo,122800,356870
+Chaco,2010.0,trigo,700,700
+Chaco,2011.0,girasol,181200,366010
+Chaco,2011.0,maiz,132800,482560
+Chaco,2011.0,soja,693920,1642321
+Chaco,2011.0,sorgo,117900,308570
+Chaco,2011.0,trigo,157700,317970
+Chaco,2012.0,girasol,238200,414450
+Chaco,2012.0,maiz,135900,165160
+Chaco,2012.0,soja,683760,292035
+Chaco,2012.0,sorgo,134400,139370
+Chaco,2012.0,trigo,173700,233860
+Chaco,2013.0,girasol,381100,549360
+Chaco,2013.0,maiz,149350,218650
+Chaco,2013.0,soja,548230,553794
+Chaco,2013.0,sorgo,171650,250070
+Chaco,2013.0,trigo,48270,33340
+Chaco,2014.0,girasol,156980,157910
+Chaco,2014.0,maiz,213350,1079910
+Chaco,2014.0,soja,591300,1384537
+Chaco,2014.0,sorgo,133450,473310
+Chaco,2014.0,trigo,75620,21090
+Chaco,2015.0,girasol,152725,272545
+Chaco,2015.0,maiz,128890,577060
+Chaco,2015.0,soja,596980,1191340
+Chaco,2015.0,sorgo,73460,221950
+Chaco,2015.0,trigo,90020,70650
+Chaco,2016.0,girasol,304087,504086
+Chaco,2016.0,maiz,235710,1186959
+Chaco,2016.0,soja,551940,1020146
+Chaco,2016.0,sorgo,64350,227734
+Chaco,2016.0,trigo,113980,150010
+Chaco,2017.0,girasol,491800,711027
+Chaco,2017.0,maiz,325500,1999884
+Chaco,2017.0,soja,501068,1414659
+Chaco,2017.0,sorgo,41290,164087
+Chaco,2017.0,trigo,115800,109282
+Chaco,2018.0,girasol,408848,688609
+Chaco,2018.0,maiz,344980,1604355
+Chaco,2018.0,soja,514340,1064920
+Chaco,2018.0,sorgo,40890,134079
+Chaco,2018.0,trigo,142378,192866
+Chaco,2019.0,girasol,434254,706258
+Chaco,2019.0,maiz,281867,1188223
+Chaco,2019.0,soja,466994,1038828
+Chaco,2019.0,sorgo,38495,117644
+Chaco,2019.0,trigo,149750,281989
+Chaco,2020.0,girasol,249741,452410
+Chaco,2020.0,maiz,279602,1306732
+Chaco,2020.0,soja,542973,1404299
+Chaco,2020.0,sorgo,41000,118465
+Chaco,2020.0,trigo,168098,337271
+Chaco,2021.0,girasol,98597,120774
+Chaco,2021.0,maiz,228250,892515
+Chaco,2021.0,soja,603020,1088975
+Chaco,2021.0,sorgo,90430,221374
+Chaco,2021.0,trigo,129930,62633
+Chaco,2022.0,girasol,178500,311393
+Chaco,2022.0,maiz,306400,1200739
+Chaco,2022.0,soja,646350,1649432
+Chaco,2022.0,sorgo,81200,161192
+Chaco,2022.0,trigo,146000,153147
+Chaco,2023.0,girasol,194025,306690
+Chaco,2023.0,maiz,300510,794349
+Chaco,2023.0,soja,603124,1057294
+Chaco,2023.0,sorgo,66380,92629
+Chaco,2023.0,trigo,115250,101047
+Chaco,2024.0,girasol,150270,221561
+Chaco,2024.0,maiz,287400,244280
+Chaco,2024.0,soja,637470,663645
+Chaco,2024.0,sorgo,79700,126372
+Chaco,2024.0,trigo,87150,67797
+Chaco,2025.0,girasol,148150,316577
+Chaco,2025.0,maiz,236600,226844
+Chaco,2025.0,soja,639350,403337
+Chaco,2025.0,sorgo,99350,94462
+Chaco,2025.0,trigo,97980,107811
+Chubut,1970.0,trigo,640,0
+Chubut,1971.0,trigo,610,0
+Chubut,1972.0,trigo,610,0
+Chubut,1973.0,trigo,480,0
+Chubut,1974.0,trigo,450,0
+Chubut,1975.0,trigo,475,0
+Chubut,1976.0,trigo,480,0
+Chubut,1977.0,trigo,330,0
+Chubut,1978.0,trigo,350,0
+Chubut,1979.0,trigo,350,0
+Chubut,1980.0,maiz,100,100
+Chubut,1980.0,sorgo,100,110
+Chubut,1980.0,trigo,960,530
+Chubut,1981.0,maiz,100,130
+Chubut,1981.0,sorgo,70,40
+Chubut,1981.0,trigo,1160,600
+Chubut,1982.0,maiz,50,50
+Chubut,1982.0,sorgo,70,30
+Chubut,1982.0,trigo,1900,2000
+Chubut,1983.0,maiz,50,50
+Chubut,1983.0,trigo,400,450
+Chubut,1984.0,trigo,100,100
+Chubut,1985.0,trigo,130,110
+Chubut,1986.0,trigo,100,100
+Corrientes,1970.0,girasol,550,230
+Corrientes,1970.0,maiz,93200,96400
+Corrientes,1970.0,soja,600,630
+Corrientes,1970.0,sorgo,2900,4500
+Corrientes,1970.0,trigo,1300,1150
+Corrientes,1971.0,girasol,3030,2100
+Corrientes,1971.0,maiz,88300,95200
+Corrientes,1971.0,soja,1570,2100
+Corrientes,1971.0,sorgo,13810,30800
+Corrientes,1971.0,trigo,140,100
+Corrientes,1972.0,girasol,4050,1000
+Corrientes,1972.0,maiz,50800,8700
+Corrientes,1972.0,soja,5200,2240
+Corrientes,1972.0,sorgo,25020,30700
+Corrientes,1972.0,trigo,400,420
+Corrientes,1973.0,girasol,3000,1500
+Corrientes,1973.0,maiz,46680,35500
+Corrientes,1973.0,soja,6425,7850
+Corrientes,1973.0,sorgo,26250,55100
+Corrientes,1973.0,trigo,200,230
+Corrientes,1974.0,girasol,1210,780
+Corrientes,1974.0,maiz,40100,33500
+Corrientes,1974.0,soja,16070,25000
+Corrientes,1974.0,sorgo,24100,48000
+Corrientes,1974.0,trigo,300,340
+Corrientes,1975.0,maiz,41670,26300
+Corrientes,1975.0,soja,17900,25500
+Corrientes,1975.0,sorgo,24340,43700
+Corrientes,1975.0,trigo,550,530
+Corrientes,1976.0,girasol,120,110
+Corrientes,1976.0,maiz,39400,25150
+Corrientes,1976.0,soja,18400,30100
+Corrientes,1976.0,sorgo,21730,53800
+Corrientes,1976.0,trigo,405,460
+Corrientes,1977.0,girasol,200,100
+Corrientes,1977.0,maiz,33000,25000
+Corrientes,1977.0,soja,26000,40000
+Corrientes,1977.0,sorgo,30000,75000
+Corrientes,1977.0,trigo,1410,1500
+Corrientes,1978.0,girasol,3200,2700
+Corrientes,1978.0,maiz,32000,30300
+Corrientes,1978.0,soja,48300,38000
+Corrientes,1978.0,sorgo,13500,26000
+Corrientes,1978.0,trigo,800,800
+Corrientes,1979.0,girasol,4000,3000
+Corrientes,1979.0,maiz,29400,25000
+Corrientes,1979.0,soja,46000,35000
+Corrientes,1979.0,sorgo,15600,37000
+Corrientes,1979.0,trigo,500,560
+Corrientes,1980.0,girasol,2000,1500
+Corrientes,1980.0,maiz,27200,18000
+Corrientes,1980.0,soja,48000,71000
+Corrientes,1980.0,sorgo,6700,14700
+Corrientes,1981.0,maiz,35600,57700
+Corrientes,1981.0,soja,26100,38000
+Corrientes,1981.0,sorgo,10110,29700
+Corrientes,1982.0,maiz,24300,37300
+Corrientes,1982.0,soja,28600,48200
+Corrientes,1982.0,sorgo,7000,20000
+Corrientes,1983.0,girasol,900,500
+Corrientes,1983.0,maiz,14130,23900
+Corrientes,1983.0,soja,20000,37700
+Corrientes,1983.0,sorgo,10000,25000
+Corrientes,1984.0,girasol,880,500
+Corrientes,1984.0,maiz,14000,18000
+Corrientes,1984.0,soja,26500,45000
+Corrientes,1984.0,sorgo,8000,20000
+Corrientes,1985.0,girasol,750,750
+Corrientes,1985.0,maiz,15600,30000
+Corrientes,1985.0,soja,20000,29400
+Corrientes,1985.0,sorgo,10000,18000
+Corrientes,1986.0,girasol,550,400
+Corrientes,1986.0,maiz,15000,7500
+Corrientes,1986.0,soja,25000,27000
+Corrientes,1986.0,sorgo,9750,5150
+Corrientes,1987.0,maiz,12000,24000
+Corrientes,1987.0,soja,7300,14000
+Corrientes,1987.0,sorgo,2500,4650
+Corrientes,1988.0,maiz,5000,11000
+Corrientes,1988.0,soja,9000,18000
+Corrientes,1988.0,sorgo,3000,3200
+Corrientes,1989.0,maiz,1570,4500
+Corrientes,1989.0,soja,10000,20000
+Corrientes,1989.0,sorgo,1000,2300
+Corrientes,1990.0,maiz,1750,5000
+Corrientes,1990.0,soja,15000,24000
+Corrientes,1990.0,sorgo,1000,3000
+Corrientes,1991.0,maiz,1000,0
+Corrientes,1991.0,soja,7000,9800
+Corrientes,1991.0,sorgo,1000,2500
+Corrientes,1992.0,maiz,2000,5600
+Corrientes,1992.0,sorgo,600,1800
+Corrientes,1993.0,maiz,6220,8000
+Corrientes,1993.0,soja,2300,3700
+Corrientes,1993.0,sorgo,2000,3600
+Corrientes,1994.0,maiz,4500,9300
+Corrientes,1994.0,soja,2040,3800
+Corrientes,1994.0,sorgo,2100,3900
+Corrientes,1995.0,girasol,200,200
+Corrientes,1995.0,maiz,4550,10528
+Corrientes,1995.0,soja,2240,4112
+Corrientes,1995.0,sorgo,2230,4982
+Corrientes,1996.0,girasol,300,0
+Corrientes,1996.0,maiz,6700,8200
+Corrientes,1996.0,soja,2300,3300
+Corrientes,1996.0,sorgo,1800,3700
+Corrientes,1997.0,girasol,200,180
+Corrientes,1997.0,maiz,7200,14500
+Corrientes,1997.0,soja,3400,5600
+Corrientes,1997.0,sorgo,2500,7000
+Corrientes,1998.0,maiz,6200,9990
+Corrientes,1998.0,soja,4200,5050
+Corrientes,1998.0,sorgo,1960,3330
+Corrientes,1999.0,maiz,6400,14800
+Corrientes,1999.0,soja,4400,8600
+Corrientes,1999.0,sorgo,2300,6500
+Corrientes,2000.0,maiz,6300,12540
+Corrientes,2000.0,soja,3600,7900
+Corrientes,2000.0,sorgo,1555,3750
+Corrientes,2001.0,maiz,5623,11597
+Corrientes,2001.0,soja,3570,5840
+Corrientes,2001.0,sorgo,2320,4985
+Corrientes,2002.0,maiz,5551,8910
+Corrientes,2002.0,soja,5298,4800
+Corrientes,2002.0,sorgo,1347,2622
+Corrientes,2003.0,maiz,7630,10789
+Corrientes,2003.0,soja,9760,18620
+Corrientes,2003.0,sorgo,1525,3050
+Corrientes,2004.0,maiz,8340,12168
+Corrientes,2004.0,soja,20055,21314
+Corrientes,2004.0,sorgo,1819,3573
+Corrientes,2005.0,maiz,6690,21630
+Corrientes,2005.0,soja,24468,32107
+Corrientes,2005.0,sorgo,1495,2730
+Corrientes,2006.0,girasol,520,400
+Corrientes,2006.0,maiz,12240,29028
+Corrientes,2006.0,soja,25135,34210
+Corrientes,2006.0,sorgo,1600,3020
+Corrientes,2006.0,trigo,3900,8900
+Corrientes,2007.0,girasol,2900,3780
+Corrientes,2007.0,maiz,14700,23100
+Corrientes,2007.0,soja,22000,33600
+Corrientes,2007.0,sorgo,2900,3040
+Corrientes,2007.0,trigo,2200,4400
+Corrientes,2008.0,girasol,3000,4320
+Corrientes,2008.0,maiz,15044,34446
+Corrientes,2008.0,soja,30410,45806
+Corrientes,2008.0,sorgo,5315,8808
+Corrientes,2008.0,trigo,5860,10359
+Corrientes,2009.0,maiz,14843,13055
+Corrientes,2009.0,soja,30090,24090
+Corrientes,2009.0,sorgo,4890,4600
+Corrientes,2009.0,trigo,5530,4840
+Corrientes,2010.0,girasol,2350,3230
+Corrientes,2010.0,maiz,13680,24676
+Corrientes,2010.0,soja,20668,34845
+Corrientes,2010.0,sorgo,4920,8427
+Corrientes,2010.0,trigo,5695,7865
+Corrientes,2011.0,girasol,1620,2583
+Corrientes,2011.0,maiz,12307,29540
+Corrientes,2011.0,soja,16795,29068
+Corrientes,2011.0,sorgo,5510,12112
+Corrientes,2011.0,trigo,7170,11766
+Corrientes,2012.0,maiz,12000,36000
+Corrientes,2012.0,soja,25000,25000
+Corrientes,2012.0,sorgo,6000,14400
+Corrientes,2012.0,trigo,1000,1100
+Corrientes,2013.0,maiz,12000,21000
+Corrientes,2013.0,soja,15000,18000
+Corrientes,2013.0,trigo,1000,1000
+Corrientes,2014.0,maiz,14455,43365
+Corrientes,2014.0,soja,25000,50000
+Corrientes,2014.0,sorgo,4870,13550
+Corrientes,2015.0,maiz,13000,28000
+Corrientes,2015.0,soja,20000,40000
+Corrientes,2015.0,sorgo,4800,8250
+Corrientes,2016.0,maiz,13000,50000
+Corrientes,2016.0,soja,23000,41400
+Corrientes,2016.0,sorgo,5000,12000
+Corrientes,2017.0,maiz,14000,34020
+Corrientes,2017.0,soja,20000,40000
+Corrientes,2017.0,sorgo,4000,7500
+Corrientes,2018.0,maiz,10000,40000
+Corrientes,2018.0,soja,20000,40000
+Corrientes,2019.0,maiz,10990,62313
+Corrientes,2019.0,soja,5190,13712
+Corrientes,2019.0,sorgo,4800,16127
+Corrientes,2019.0,trigo,2545,6860
+Corrientes,2020.0,maiz,12099,69301
+Corrientes,2020.0,soja,5190,13074
+Corrientes,2020.0,sorgo,4800,16127
+Corrientes,2020.0,trigo,2500,3200
+Corrientes,2021.0,girasol,400,440
+Corrientes,2021.0,maiz,11000,60500
+Corrientes,2021.0,soja,5190,13074
+Corrientes,2021.0,sorgo,4800,19200
+Corrientes,2021.0,trigo,1570,4396
+Corrientes,2022.0,girasol,400,440
+Corrientes,2022.0,maiz,11000,49500
+Corrientes,2022.0,soja,5190,7436
+Corrientes,2022.0,sorgo,4800,4311
+Corrientes,2022.0,trigo,1570,3140
+Corrientes,2023.0,girasol,700,980
+Corrientes,2023.0,maiz,11000,31275
+Corrientes,2023.0,soja,6000,8501
+Corrientes,2023.0,sorgo,5500,10800
+Corrientes,2023.0,trigo,2300,7360
+Corrientes,2024.0,girasol,700,2100
+Corrientes,2024.0,maiz,11000,44000
+Corrientes,2024.0,soja,6000,15900
+Corrientes,2024.0,sorgo,5700,10850
+Corrientes,2024.0,trigo,3000,8700
+Corrientes,2025.0,girasol,1820,3458
+Corrientes,2025.0,maiz,9590,55380
+Corrientes,2025.0,soja,7100,8010
+Corrientes,2025.0,sorgo,6000,9800
+Corrientes,2025.0,trigo,4700,14100
+Córdoba,1970.0,girasol,234200,120600
+Córdoba,1970.0,maiz,855000,1320000
+Córdoba,1970.0,sorgo,860000,1100000
+Córdoba,1970.0,trigo,848200,638500
+Córdoba,1971.0,girasol,224300,117000
+Córdoba,1971.0,maiz,846400,1568000
+Córdoba,1971.0,sorgo,969700,1770000
+Córdoba,1971.0,trigo,373000,247700
+Córdoba,1972.0,girasol,231600,64100
+Córdoba,1972.0,maiz,694800,390000
+Córdoba,1972.0,soja,800,20
+Córdoba,1972.0,sorgo,843450,461000
+Córdoba,1972.0,trigo,420000,400000
+Córdoba,1973.0,girasol,209100,112800
+Córdoba,1973.0,maiz,816500,1723000
+Córdoba,1973.0,soja,2000,2637
+Córdoba,1973.0,sorgo,1044200,1783000
+Córdoba,1973.0,trigo,554700,557000
+Córdoba,1974.0,girasol,235200,136000
+Córdoba,1974.0,maiz,751000,1400000
+Córdoba,1974.0,soja,32900,40000
+Córdoba,1974.0,sorgo,947300,1600000
+Córdoba,1974.0,trigo,494600,845000
+Córdoba,1975.0,girasol,139000,102000
+Córdoba,1975.0,maiz,640000,1510000
+Córdoba,1975.0,soja,48000,64000
+Córdoba,1975.0,sorgo,877000,2020000
+Córdoba,1975.0,trigo,735000,870000
+Córdoba,1976.0,girasol,178500,95000
+Córdoba,1976.0,maiz,532000,636000
+Córdoba,1976.0,soja,74000,83500
+Córdoba,1976.0,sorgo,729500,1364000
+Córdoba,1976.0,trigo,773000,1470000
+Córdoba,1977.0,girasol,208000,170000
+Córdoba,1977.0,maiz,543000,1560000
+Córdoba,1977.0,soja,104000,165000
+Córdoba,1977.0,sorgo,950000,2500000
+Córdoba,1977.0,trigo,1044000,1670000
+Córdoba,1978.0,girasol,293000,190000
+Córdoba,1978.0,maiz,560000,1880000
+Córdoba,1978.0,soja,137900,300000
+Córdoba,1978.0,sorgo,810000,2700000
+Córdoba,1978.0,trigo,660000,700000
+Córdoba,1979.0,girasol,244000,220000
+Córdoba,1979.0,maiz,700000,1918000
+Córdoba,1979.0,soja,263000,656000
+Córdoba,1979.0,sorgo,821000,2591000
+Córdoba,1979.0,trigo,730000,970000
+Córdoba,1980.0,girasol,290000,253000
+Córdoba,1980.0,maiz,700000,1220000
+Córdoba,1980.0,soja,343000,450000
+Córdoba,1980.0,sorgo,566000,777000
+Córdoba,1980.0,trigo,761000,1200000
+Córdoba,1981.0,girasol,212000,166000
+Córdoba,1981.0,maiz,855000,2723000
+Córdoba,1981.0,soja,359500,742000
+Córdoba,1981.0,sorgo,732000,2920000
+Córdoba,1981.0,trigo,1212000,770000
+Córdoba,1982.0,girasol,267800,260000
+Córdoba,1982.0,maiz,874800,1900000
+Córdoba,1982.0,soja,501600,978500
+Córdoba,1982.0,sorgo,768100,2330000
+Córdoba,1982.0,trigo,850000,740000
+Córdoba,1983.0,girasol,286000,300000
+Córdoba,1983.0,maiz,820000,2650000
+Córdoba,1983.0,soja,623000,1330000
+Córdoba,1983.0,sorgo,792800,3100000
+Córdoba,1983.0,trigo,920000,1410000
+Córdoba,1984.0,girasol,265000,314000
+Córdoba,1984.0,maiz,848000,2540000
+Córdoba,1984.0,soja,865000,2113500
+Córdoba,1984.0,sorgo,683300,2100000
+Córdoba,1984.0,trigo,870000,1470000
+Córdoba,1985.0,girasol,315000,468000
+Córdoba,1985.0,maiz,950000,3610000
+Córdoba,1985.0,soja,1000000,1800000
+Córdoba,1985.0,sorgo,535500,2140000
+Córdoba,1985.0,trigo,435000,1000000
+Córdoba,1986.0,girasol,400000,510000
+Córdoba,1986.0,maiz,1070000,3475000
+Córdoba,1986.0,soja,962000,1730000
+Córdoba,1986.0,sorgo,305600,1018500
+Córdoba,1986.0,trigo,390000,639000
+Córdoba,1987.0,girasol,200400,283000
+Córdoba,1987.0,maiz,874000,2500000
+Córdoba,1987.0,soja,1105000,1850000
+Córdoba,1987.0,sorgo,270000,1030000
+Córdoba,1987.0,trigo,380000,480000
+Córdoba,1988.0,girasol,225000,360000
+Córdoba,1988.0,maiz,610000,2076000
+Córdoba,1988.0,soja,1320000,2950000
+Córdoba,1988.0,sorgo,301000,1140000
+Córdoba,1988.0,trigo,576500,1067000
+Córdoba,1989.0,girasol,265000,318000
+Córdoba,1989.0,maiz,540000,519000
+Córdoba,1989.0,soja,1395000,1720000
+Córdoba,1989.0,sorgo,245000,435000
+Córdoba,1989.0,trigo,440000,775000
+Córdoba,1990.0,girasol,350000,370000
+Córdoba,1990.0,maiz,423000,532300
+Córdoba,1990.0,soja,1410000,2650000
+Córdoba,1990.0,sorgo,228500,644000
+Córdoba,1990.0,trigo,675500,705000
+Córdoba,1991.0,girasol,300100,568400
+Córdoba,1991.0,maiz,437700,1574100
+Córdoba,1991.0,soja,1250000,2642300
+Córdoba,1991.0,sorgo,193000,760700
+Córdoba,1991.0,trigo,829300,1254500
+Córdoba,1992.0,girasol,388500,561000
+Córdoba,1992.0,maiz,515800,1899300
+Córdoba,1992.0,soja,1326200,2969100
+Córdoba,1992.0,sorgo,231000,881200
+Córdoba,1992.0,trigo,671800,1478400
+Córdoba,1993.0,girasol,312700,378300
+Córdoba,1993.0,maiz,589000,2358400
+Córdoba,1993.0,soja,1380800,3183600
+Córdoba,1993.0,sorgo,244500,1088000
+Córdoba,1993.0,trigo,473500,1035100
+Córdoba,1994.0,girasol,308600,578800
+Córdoba,1994.0,maiz,685400,2847000
+Córdoba,1994.0,soja,1564200,3032900
+Córdoba,1994.0,sorgo,214000,915300
+Córdoba,1994.0,trigo,647800,1232000
+Córdoba,1995.0,girasol,422500,801200
+Córdoba,1995.0,maiz,768300,2770700
+Córdoba,1995.0,soja,1596500,2658700
+Córdoba,1995.0,sorgo,200500,597600
+Córdoba,1995.0,trigo,638200,1253700
+Córdoba,1996.0,girasol,519900,641000
+Córdoba,1996.0,maiz,881150,2027900
+Córdoba,1996.0,soja,1711500,3479400
+Córdoba,1996.0,sorgo,219800,887200
+Córdoba,1996.0,trigo,498200,699875
+Córdoba,1997.0,girasol,422100,617000
+Córdoba,1997.0,maiz,1029500,2607100
+Córdoba,1997.0,soja,1901300,2906200
+Córdoba,1997.0,sorgo,289100,927400
+Córdoba,1997.0,trigo,709200,1068200
+Córdoba,1998.0,girasol,469100,717700
+Córdoba,1998.0,maiz,919100,4422100
+Córdoba,1998.0,soja,2096800,5820700
+Córdoba,1998.0,sorgo,343100,1603900
+Córdoba,1998.0,trigo,450800,616300
+Córdoba,1999.0,girasol,557800,948100
+Córdoba,1999.0,maiz,734050,2799800
+Córdoba,1999.0,soja,2564600,5263300
+Córdoba,1999.0,sorgo,301700,1117700
+Córdoba,1999.0,trigo,625450,1332800
+Córdoba,2000.0,girasol,546600,1016800
+Córdoba,2000.0,maiz,855400,4765800
+Córdoba,2000.0,soja,2726681,6928610
+Córdoba,2000.0,sorgo,299300,1526400
+Córdoba,2000.0,trigo,749000,1972000
+Córdoba,2001.0,girasol,322950,691200
+Córdoba,2001.0,maiz,862750,4201110
+Córdoba,2001.0,soja,3151500,8154199
+Córdoba,2001.0,sorgo,234950,1133190
+Córdoba,2001.0,trigo,867400,1933000
+Córdoba,2002.0,girasol,248975,572386
+Córdoba,2002.0,maiz,906950,5656070
+Córdoba,2002.0,soja,3455901,9658300
+Córdoba,2002.0,sorgo,190830,1217670
+Córdoba,2002.0,trigo,1086700,2333160
+Córdoba,2003.0,girasol,244870,523200
+Córdoba,2003.0,maiz,923570,6160140
+Córdoba,2003.0,soja,3564351,9851101
+Córdoba,2003.0,sorgo,143750,818750
+Córdoba,2003.0,trigo,1004250,1740280
+Córdoba,2004.0,girasol,68250,106760
+Córdoba,2004.0,maiz,738830,3941200
+Córdoba,2004.0,soja,4172940,8376201
+Córdoba,2004.0,sorgo,103430,360470
+Córdoba,2004.0,trigo,1063480,2087880
+Córdoba,2005.0,girasol,101830,234082
+Córdoba,2005.0,maiz,1027970,7061800
+Córdoba,2005.0,soja,3981146,11190869
+Córdoba,2005.0,sorgo,109600,618180
+Córdoba,2005.0,trigo,1155525,2338230
+Córdoba,2006.0,girasol,120764,195390
+Córdoba,2006.0,maiz,1038180,5204450
+Córdoba,2006.0,soja,4343718,11123165
+Córdoba,2006.0,sorgo,116100,525150
+Córdoba,2006.0,trigo,772750,1712790
+Córdoba,2007.0,girasol,102500,175435
+Córdoba,2007.0,maiz,1151650,8919130
+Córdoba,2007.0,soja,4477882,14173030
+Córdoba,2007.0,sorgo,130600,638280
+Córdoba,2007.0,trigo,909700,1646190
+Córdoba,2008.0,girasol,83446,206741
+Córdoba,2008.0,maiz,1440000,8748610
+Córdoba,2008.0,soja,4704680,12763880
+Córdoba,2008.0,sorgo,142590,675010
+Córdoba,2008.0,trigo,1235700,3961210
+Córdoba,2009.0,girasol,63200,120253
+Córdoba,2009.0,maiz,1146200,6375310
+Córdoba,2009.0,soja,5195291,11168757
+Córdoba,2009.0,sorgo,153100,699930
+Córdoba,2009.0,trigo,754180,1161070
+Córdoba,2010.0,girasol,48600,75000
+Córdoba,2010.0,maiz,998100,6760270
+Córdoba,2010.0,soja,5129240,13011805
+Córdoba,2010.0,sorgo,191700,830180
+Córdoba,2010.0,trigo,208590,296690
+Córdoba,2011.0,girasol,43200,85180
+Córdoba,2011.0,maiz,1142900,5925310
+Córdoba,2011.0,soja,5047612,12230176
+Córdoba,2011.0,sorgo,186100,792480
+Córdoba,2011.0,trigo,545550,1788740
+Córdoba,2012.0,girasol,41300,79270
+Córdoba,2012.0,maiz,1272000,4794540
+Córdoba,2012.0,soja,5013251,9783900
+Córdoba,2012.0,sorgo,243300,1005990
+Córdoba,2012.0,trigo,514720,1429060
+Córdoba,2013.0,girasol,40700,82880
+Córdoba,2013.0,maiz,1907350,10789190
+Córdoba,2013.0,soja,5349312,13180784
+Córdoba,2013.0,sorgo,262300,1046760
+Córdoba,2013.0,trigo,487881,1378460
+Córdoba,2014.0,girasol,25750,44750
+Córdoba,2014.0,maiz,1917500,11839850
+Córdoba,2014.0,soja,5052760,14917671
+Córdoba,2014.0,sorgo,226600,994790
+Córdoba,2014.0,trigo,724830,1028520
+Córdoba,2015.0,girasol,30800,60335
+Córdoba,2015.0,maiz,1879800,11667100
+Córdoba,2015.0,soja,5413330,18619067
+Córdoba,2015.0,sorgo,183906,920576
+Córdoba,2015.0,trigo,1141000,3027430
+Córdoba,2016.0,girasol,20070,36944
+Córdoba,2016.0,maiz,1935970,12255535
+Córdoba,2016.0,soja,5579530,17922969
+Córdoba,2016.0,sorgo,190990,862515
+Córdoba,2016.0,trigo,1071240,2258520
+Córdoba,2017.0,girasol,18470,45756
+Córdoba,2017.0,maiz,2614910,16170280
+Córdoba,2017.0,soja,4871202,15659788
+Córdoba,2017.0,sorgo,97350,410149
+Córdoba,2017.0,trigo,1580050,4882795
+Córdoba,2018.0,girasol,12700,26740
+Córdoba,2018.0,maiz,2804452,13277346
+Córdoba,2018.0,soja,4463610,10732887
+Córdoba,2018.0,sorgo,42150,183616
+Córdoba,2018.0,trigo,1236318,4195464
+Córdoba,2019.0,girasol,37247,76471
+Córdoba,2019.0,maiz,2827930,18996476
+Córdoba,2019.0,soja,4454424,15355555
+Córdoba,2019.0,sorgo,44077,217178
+Córdoba,2019.0,trigo,1276181,3271488
+Córdoba,2020.0,girasol,35131,78583
+Córdoba,2020.0,maiz,2924573,19196764
+Córdoba,2020.0,soja,4525544,13467681
+Córdoba,2020.0,sorgo,58993,289188
+Córdoba,2020.0,trigo,1448787,4070031
+Córdoba,2021.0,girasol,63744,141625
+Córdoba,2021.0,maiz,3008944,21690343
+Córdoba,2021.0,soja,4269777,13625152
+Córdoba,2021.0,sorgo,153579,749843
+Córdoba,2021.0,trigo,1025044,1602505
+Córdoba,2022.0,girasol,95937,202500
+Córdoba,2022.0,maiz,3147820,20459566
+Córdoba,2022.0,soja,4212534,11910526
+Córdoba,2022.0,sorgo,165920,742644
+Córdoba,2022.0,trigo,1131548,3750038
+Córdoba,2023.0,girasol,152179,301992
+Córdoba,2023.0,maiz,3064224,13521922
+Córdoba,2023.0,soja,4198034,6264013
+Córdoba,2023.0,sorgo,92242,253103
+Córdoba,2023.0,trigo,932438,1567065
+Córdoba,2024.0,girasol,130430,314106
+Córdoba,2024.0,maiz,3188920,20613843
+Córdoba,2024.0,soja,4136553,12662372
+Córdoba,2024.0,sorgo,115386,491666
+Córdoba,2024.0,trigo,824609,1581580
+Córdoba,2025.0,girasol,277203,693727
+Córdoba,2025.0,maiz,2563297,17971562
+Córdoba,2025.0,soja,4614734,14628596
+Córdoba,2025.0,sorgo,191632,878262
+Córdoba,2025.0,trigo,959999,2280460
+Entre Ríos,1970.0,girasol,28950,17500
+Entre Ríos,1970.0,maiz,567200,810000
+Entre Ríos,1970.0,sorgo,181500,335000
+Entre Ríos,1970.0,trigo,361000,219600
+Entre Ríos,1971.0,girasol,17600,11400
+Entre Ríos,1971.0,maiz,564000,884000
+Entre Ríos,1971.0,sorgo,194000,395000
+Entre Ríos,1971.0,trigo,285300,322000
+Entre Ríos,1972.0,girasol,15700,8200
+Entre Ríos,1972.0,maiz,502400,600000
+Entre Ríos,1972.0,sorgo,191100,291000
+Entre Ríos,1972.0,trigo,264000,220000
+Entre Ríos,1973.0,girasol,13250,6600
+Entre Ríos,1973.0,maiz,339700,456000
+Entre Ríos,1973.0,sorgo,173300,272000
+Entre Ríos,1973.0,trigo,225900,153000
+Entre Ríos,1974.0,girasol,9300,6300
+Entre Ríos,1974.0,maiz,352500,725000
+Entre Ríos,1974.0,soja,4200,5000
+Entre Ríos,1974.0,sorgo,214300,540000
+Entre Ríos,1974.0,trigo,80500,116300
+Entre Ríos,1975.0,girasol,10000,5800
+Entre Ríos,1975.0,maiz,243500,314700
+Entre Ríos,1975.0,soja,2200,2800
+Entre Ríos,1975.0,sorgo,129000,222000
+Entre Ríos,1975.0,trigo,91000,90000
+Entre Ríos,1976.0,girasol,9370,6200
+Entre Ríos,1976.0,maiz,260900,220200
+Entre Ríos,1976.0,soja,2300,3220
+Entre Ríos,1976.0,sorgo,165200,332000
+Entre Ríos,1976.0,trigo,100100,160000
+Entre Ríos,1977.0,girasol,10000,6200
+Entre Ríos,1977.0,maiz,160000,240000
+Entre Ríos,1977.0,soja,9000,13000
+Entre Ríos,1977.0,sorgo,164000,310000
+Entre Ríos,1977.0,trigo,251000,338000
+Entre Ríos,1978.0,girasol,20000,9000
+Entre Ríos,1978.0,maiz,136000,221000
+Entre Ríos,1978.0,soja,15900,34000
+Entre Ríos,1978.0,sorgo,180000,404000
+Entre Ríos,1978.0,trigo,130000,130000
+Entre Ríos,1979.0,girasol,17500,9400
+Entre Ríos,1979.0,maiz,148000,126000
+Entre Ríos,1979.0,soja,35300,54000
+Entre Ríos,1979.0,sorgo,102000,151000
+Entre Ríos,1979.0,trigo,115000,79000
+Entre Ríos,1980.0,girasol,18500,11800
+Entre Ríos,1980.0,maiz,135000,104000
+Entre Ríos,1980.0,soja,40000,53000
+Entre Ríos,1980.0,sorgo,80150,95000
+Entre Ríos,1980.0,trigo,84400,70000
+Entre Ríos,1981.0,girasol,17400,11400
+Entre Ríos,1981.0,maiz,246900,570000
+Entre Ríos,1981.0,soja,21500,31000
+Entre Ríos,1981.0,sorgo,151400,498000
+Entre Ríos,1981.0,trigo,75000,99000
+Entre Ríos,1982.0,girasol,12400,12000
+Entre Ríos,1982.0,maiz,169100,299000
+Entre Ríos,1982.0,soja,10700,14600
+Entre Ríos,1982.0,sorgo,221800,590000
+Entre Ríos,1982.0,trigo,102000,98000
+Entre Ríos,1983.0,girasol,19400,16300
+Entre Ríos,1983.0,maiz,195500,232600
+Entre Ríos,1983.0,soja,13100,20600
+Entre Ríos,1983.0,sorgo,197000,414000
+Entre Ríos,1983.0,trigo,120200,205000
+Entre Ríos,1984.0,girasol,22700,18500
+Entre Ríos,1984.0,maiz,121000,127000
+Entre Ríos,1984.0,soja,22000,36200
+Entre Ríos,1984.0,sorgo,225500,518000
+Entre Ríos,1984.0,trigo,130000,217000
+Entre Ríos,1985.0,girasol,28000,26800
+Entre Ríos,1985.0,maiz,121000,197000
+Entre Ríos,1985.0,soja,20000,26000
+Entre Ríos,1985.0,sorgo,187000,455000
+Entre Ríos,1985.0,trigo,150000,300000
+Entre Ríos,1986.0,girasol,39700,48000
+Entre Ríos,1986.0,maiz,99000,264000
+Entre Ríos,1986.0,soja,27200,53700
+Entre Ríos,1986.0,sorgo,140800,373100
+Entre Ríos,1986.0,trigo,119000,170000
+Entre Ríos,1987.0,girasol,23200,25500
+Entre Ríos,1987.0,maiz,115000,233300
+Entre Ríos,1987.0,soja,34700,54800
+Entre Ríos,1987.0,sorgo,118000,265000
+Entre Ríos,1987.0,trigo,95600,128000
+Entre Ríos,1988.0,girasol,40500,64500
+Entre Ríos,1988.0,maiz,110000,399900
+Entre Ríos,1988.0,soja,48300,87000
+Entre Ríos,1988.0,sorgo,96500,330000
+Entre Ríos,1988.0,trigo,73600,147000
+Entre Ríos,1989.0,girasol,61000,68000
+Entre Ríos,1989.0,maiz,100000,65000
+Entre Ríos,1989.0,soja,48000,54000
+Entre Ríos,1989.0,sorgo,74300,82000
+Entre Ríos,1989.0,trigo,111000,200000
+Entre Ríos,1990.0,girasol,83000,113000
+Entre Ríos,1990.0,maiz,77000,230000
+Entre Ríos,1990.0,soja,51000,115000
+Entre Ríos,1990.0,sorgo,81000,250000
+Entre Ríos,1990.0,trigo,120000,210000
+Entre Ríos,1991.0,girasol,60400,92400
+Entre Ríos,1991.0,maiz,81500,266300
+Entre Ríos,1991.0,soja,54800,81800
+Entre Ríos,1991.0,sorgo,82000,239500
+Entre Ríos,1991.0,trigo,132500,210800
+Entre Ríos,1992.0,girasol,57600,84000
+Entre Ríos,1992.0,maiz,114400,456600
+Entre Ríos,1992.0,soja,54600,108700
+Entre Ríos,1992.0,sorgo,94300,318500
+Entre Ríos,1992.0,trigo,81500,128000
+Entre Ríos,1993.0,girasol,55000,73700
+Entre Ríos,1993.0,maiz,129500,593000
+Entre Ríos,1993.0,soja,75050,152300
+Entre Ríos,1993.0,sorgo,79100,271100
+Entre Ríos,1993.0,trigo,101400,250300
+Entre Ríos,1994.0,girasol,47000,53600
+Entre Ríos,1994.0,maiz,95000,304900
+Entre Ríos,1994.0,soja,94100,183800
+Entre Ríos,1994.0,sorgo,61000,200400
+Entre Ríos,1994.0,trigo,127500,217200
+Entre Ríos,1995.0,girasol,69800,134200
+Entre Ríos,1995.0,maiz,119000,631700
+Entre Ríos,1995.0,soja,127000,305750
+Entre Ríos,1995.0,sorgo,55000,207400
+Entre Ríos,1995.0,trigo,147000,267600
+Entre Ríos,1996.0,girasol,91400,142100
+Entre Ríos,1996.0,maiz,164800,579200
+Entre Ríos,1996.0,soja,149000,308220
+Entre Ríos,1996.0,sorgo,60900,225300
+Entre Ríos,1996.0,trigo,137300,235200
+Entre Ríos,1997.0,girasol,107950,195900
+Entre Ríos,1997.0,maiz,209900,892200
+Entre Ríos,1997.0,soja,219300,281450
+Entre Ríos,1997.0,sorgo,51200,197600
+Entre Ríos,1997.0,trigo,288000,666400
+Entre Ríos,1998.0,girasol,124200,167340
+Entre Ríos,1998.0,maiz,190500,1176000
+Entre Ríos,1998.0,soja,272000,727200
+Entre Ríos,1998.0,sorgo,70000,309200
+Entre Ríos,1998.0,trigo,271000,583500
+Entre Ríos,1999.0,girasol,152500,283900
+Entre Ríos,1999.0,maiz,181000,1020200
+Entre Ríos,1999.0,soja,389800,764500
+Entre Ríos,1999.0,sorgo,59000,273400
+Entre Ríos,1999.0,trigo,243500,631100
+Entre Ríos,2000.0,girasol,61400,82400
+Entre Ríos,2000.0,maiz,222800,630900
+Entre Ríos,2000.0,soja,364100,535000
+Entre Ríos,2000.0,sorgo,44000,128900
+Entre Ríos,2000.0,trigo,303200,582200
+Entre Ríos,2001.0,girasol,50500,89350
+Entre Ríos,2001.0,maiz,231000,1275580
+Entre Ríos,2001.0,soja,579500,1658000
+Entre Ríos,2001.0,sorgo,62300,260290
+Entre Ríos,2001.0,trigo,319600,601860
+Entre Ríos,2002.0,girasol,35500,60810
+Entre Ríos,2002.0,maiz,175400,911750
+Entre Ríos,2002.0,soja,814900,1914900
+Entre Ríos,2002.0,sorgo,56600,220130
+Entre Ríos,2002.0,trigo,409850,525400
+Entre Ríos,2003.0,girasol,49500,63300
+Entre Ríos,2003.0,maiz,196300,1182410
+Entre Ríos,2003.0,soja,1055000,2809000
+Entre Ríos,2003.0,sorgo,70900,293200
+Entre Ríos,2003.0,trigo,252700,465133
+Entre Ríos,2004.0,girasol,32500,64970
+Entre Ríos,2004.0,maiz,207500,1451330
+Entre Ríos,2004.0,soja,1196700,2307370
+Entre Ríos,2004.0,sorgo,81500,363580
+Entre Ríos,2004.0,trigo,235000,655180
+Entre Ríos,2005.0,girasol,34700,67405
+Entre Ríos,2005.0,maiz,251000,1625600
+Entre Ríos,2005.0,soja,1242812,3053868
+Entre Ríos,2005.0,sorgo,97500,507080
+Entre Ríos,2005.0,trigo,285600,803365
+Entre Ríos,2006.0,girasol,61100,116570
+Entre Ríos,2006.0,maiz,196750,951190
+Entre Ríos,2006.0,soja,1302700,2801724
+Entre Ríos,2006.0,sorgo,72000,336520
+Entre Ríos,2006.0,trigo,219500,711650
+Entre Ríos,2007.0,girasol,55600,80960
+Entre Ríos,2007.0,maiz,185600,1367240
+Entre Ríos,2007.0,soja,1435600,3927476
+Entre Ríos,2007.0,sorgo,89000,468740
+Entre Ríos,2007.0,trigo,285050,889230
+Entre Ríos,2008.0,girasol,78700,150190
+Entre Ríos,2008.0,maiz,222400,1128630
+Entre Ríos,2008.0,soja,1423000,3289065
+Entre Ríos,2008.0,sorgo,113500,593400
+Entre Ríos,2008.0,trigo,310800,954798
+Entre Ríos,2009.0,girasol,52800,61720
+Entre Ríos,2009.0,maiz,164600,223330
+Entre Ríos,2009.0,soja,1241400,1143899
+Entre Ríos,2009.0,sorgo,103800,276720
+Entre Ríos,2009.0,trigo,247600,464125
+Entre Ríos,2010.0,girasol,12300,17043
+Entre Ríos,2010.0,maiz,154800,1211910
+Entre Ríos,2010.0,soja,1468000,4038205
+Entre Ríos,2010.0,sorgo,123000,610100
+Entre Ríos,2010.0,trigo,342720,1477860
+Entre Ríos,2011.0,girasol,17500,33505
+Entre Ríos,2011.0,maiz,191300,937640
+Entre Ríos,2011.0,soja,1468000,3597310
+Entre Ríos,2011.0,sorgo,123500,561770
+Entre Ríos,2011.0,trigo,279400,1129757
+Entre Ríos,2012.0,girasol,8600,16330
+Entre Ríos,2012.0,maiz,217700,1169460
+Entre Ríos,2012.0,soja,1331700,3099513
+Entre Ríos,2012.0,sorgo,193700,1026630
+Entre Ríos,2012.0,trigo,296300,1081613
+Entre Ríos,2013.0,girasol,8000,11270
+Entre Ríos,2013.0,maiz,248500,1663060
+Entre Ríos,2013.0,soja,1418600,3528855
+Entre Ríos,2013.0,sorgo,136500,633650
+Entre Ríos,2013.0,trigo,218290,586958
+Entre Ríos,2014.0,girasol,6950,9510
+Entre Ríos,2014.0,maiz,268200,1403880
+Entre Ríos,2014.0,soja,1504900,3974603
+Entre Ríos,2014.0,sorgo,125000,547940
+Entre Ríos,2014.0,trigo,284940,830348
+Entre Ríos,2015.0,girasol,3560,6778
+Entre Ríos,2015.0,maiz,239200,1540300
+Entre Ríos,2015.0,soja,1564990,4324895
+Entre Ríos,2015.0,sorgo,96200,441990
+Entre Ríos,2015.0,trigo,318000,830205
+Entre Ríos,2016.0,girasol,2800,6100
+Entre Ríos,2016.0,maiz,257900,1562611
+Entre Ríos,2016.0,soja,1466000,2561150
+Entre Ríos,2016.0,sorgo,98500,399300
+Entre Ríos,2016.0,trigo,234050,707051
+Entre Ríos,2017.0,girasol,4515,9431
+Entre Ríos,2017.0,maiz,382500,2298225
+Entre Ríos,2017.0,soja,1326400,3701589
+Entre Ríos,2017.0,sorgo,121400,558250
+Entre Ríos,2017.0,trigo,375800,1121848
+Entre Ríos,2018.0,girasol,7900,15580
+Entre Ríos,2018.0,maiz,415000,1723710
+Entre Ríos,2018.0,soja,1319900,1368200
+Entre Ríos,2018.0,sorgo,101000,326470
+Entre Ríos,2018.0,trigo,417530,1110361
+Entre Ríos,2019.0,girasol,7800,16835
+Entre Ríos,2019.0,maiz,437000,2763953
+Entre Ríos,2019.0,soja,1177700,3252276
+Entre Ríos,2019.0,sorgo,84800,409315
+Entre Ríos,2019.0,trigo,502000,1821420
+Entre Ríos,2020.0,girasol,2950,6366
+Entre Ríos,2020.0,maiz,488300,2872233
+Entre Ríos,2020.0,soja,1164550,2489320
+Entre Ríos,2020.0,sorgo,68600,332790
+Entre Ríos,2020.0,trigo,475000,1303940
+Entre Ríos,2021.0,girasol,8325,16474
+Entre Ríos,2021.0,maiz,445700,2152710
+Entre Ríos,2021.0,soja,1112620,1974518
+Entre Ríos,2021.0,sorgo,130300,524655
+Entre Ríos,2021.0,trigo,549875,1420068
+Entre Ríos,2022.0,girasol,13600,24793
+Entre Ríos,2022.0,maiz,517100,1865620
+Entre Ríos,2022.0,soja,1084100,2565755
+Entre Ríos,2022.0,sorgo,97460,382505
+Entre Ríos,2022.0,trigo,560000,1878980
+Entre Ríos,2023.0,girasol,20090,29033
+Entre Ríos,2023.0,maiz,489280,818365
+Entre Ríos,2023.0,soja,973500,634952
+Entre Ríos,2023.0,sorgo,90950,191933
+Entre Ríos,2023.0,trigo,623100,1942199
+Entre Ríos,2024.0,girasol,9850,18075
+Entre Ríos,2024.0,maiz,568200,2566155
+Entre Ríos,2024.0,soja,1091400,2712145
+Entre Ríos,2024.0,sorgo,62550,267750
+Entre Ríos,2024.0,trigo,690400,2210910
+Entre Ríos,2025.0,girasol,27320,60392
+Entre Ríos,2025.0,maiz,359700,2254760
+Entre Ríos,2025.0,soja,1251450,3372215
+Entre Ríos,2025.0,sorgo,108500,437182
+Entre Ríos,2025.0,trigo,712200,2217630
+Formosa,1970.0,girasol,900,650
+Formosa,1970.0,maiz,16500,15000
+Formosa,1970.0,soja,195,160
+Formosa,1970.0,sorgo,12100,31300
+Formosa,1970.0,trigo,850,590
+Formosa,1971.0,girasol,1300,930
+Formosa,1971.0,maiz,17200,29000
+Formosa,1971.0,sorgo,32700,84000
+Formosa,1971.0,trigo,1350,1800
+Formosa,1972.0,girasol,1300,930
+Formosa,1972.0,maiz,15300,26350
+Formosa,1972.0,soja,150,120
+Formosa,1972.0,sorgo,48000,155000
+Formosa,1972.0,trigo,3400,4550
+Formosa,1973.0,girasol,4350,4400
+Formosa,1973.0,maiz,15600,20600
+Formosa,1973.0,soja,1270,1374
+Formosa,1973.0,sorgo,45600,137000
+Formosa,1973.0,trigo,5550,3700
+Formosa,1974.0,girasol,6150,4800
+Formosa,1974.0,maiz,18200,20000
+Formosa,1974.0,soja,940,880
+Formosa,1974.0,sorgo,56100,120000
+Formosa,1974.0,trigo,6400,8600
+Formosa,1975.0,girasol,8300,9420
+Formosa,1975.0,maiz,24500,35300
+Formosa,1975.0,soja,700,730
+Formosa,1975.0,sorgo,69300,141000
+Formosa,1975.0,trigo,6000,8200
+Formosa,1976.0,girasol,5700,5060
+Formosa,1976.0,maiz,15700,22400
+Formosa,1976.0,soja,500,450
+Formosa,1976.0,sorgo,37300,73100
+Formosa,1976.0,trigo,14740,21000
+Formosa,1977.0,girasol,6000,4000
+Formosa,1977.0,maiz,14000,20000
+Formosa,1977.0,soja,500,500
+Formosa,1977.0,sorgo,40000,95000
+Formosa,1977.0,trigo,7960,8500
+Formosa,1978.0,girasol,13000,10000
+Formosa,1978.0,maiz,15000,25000
+Formosa,1978.0,soja,1000,200
+Formosa,1978.0,sorgo,36500,70000
+Formosa,1978.0,trigo,3000,4000
+Formosa,1979.0,girasol,4200,2800
+Formosa,1979.0,maiz,17500,25000
+Formosa,1979.0,soja,150,100
+Formosa,1979.0,sorgo,37000,52100
+Formosa,1979.0,trigo,2300,800
+Formosa,1980.0,girasol,14000,13000
+Formosa,1980.0,maiz,21100,50000
+Formosa,1980.0,soja,600,800
+Formosa,1980.0,sorgo,40500,109000
+Formosa,1980.0,trigo,1700,1600
+Formosa,1981.0,girasol,6300,1400
+Formosa,1981.0,maiz,23000,30000
+Formosa,1981.0,soja,400,100
+Formosa,1981.0,sorgo,42400,70800
+Formosa,1981.0,trigo,1050,1250
+Formosa,1982.0,girasol,5400,3500
+Formosa,1982.0,maiz,17800,45200
+Formosa,1982.0,soja,1100,2700
+Formosa,1982.0,sorgo,43800,88900
+Formosa,1982.0,trigo,2000,2700
+Formosa,1983.0,girasol,5400,3800
+Formosa,1983.0,maiz,18300,37450
+Formosa,1983.0,soja,850,0
+Formosa,1983.0,sorgo,34800,80800
+Formosa,1983.0,trigo,5600,3000
+Formosa,1984.0,girasol,1000,700
+Formosa,1984.0,maiz,16800,32000
+Formosa,1984.0,soja,5500,11000
+Formosa,1984.0,sorgo,40500,81000
+Formosa,1984.0,trigo,400,140
+Formosa,1985.0,girasol,1050,900
+Formosa,1985.0,maiz,21000,43400
+Formosa,1985.0,soja,1400,3100
+Formosa,1985.0,sorgo,28000,78500
+Formosa,1985.0,trigo,800,500
+Formosa,1986.0,girasol,1350,1800
+Formosa,1986.0,maiz,17000,35700
+Formosa,1986.0,soja,4200,9180
+Formosa,1986.0,sorgo,14000,19000
+Formosa,1986.0,trigo,800,160
+Formosa,1987.0,girasol,350,110
+Formosa,1987.0,maiz,20140,29300
+Formosa,1987.0,soja,5500,9900
+Formosa,1987.0,sorgo,7300,10200
+Formosa,1987.0,trigo,900,600
+Formosa,1988.0,girasol,3000,1500
+Formosa,1988.0,maiz,22000,20000
+Formosa,1988.0,soja,7000,10500
+Formosa,1988.0,sorgo,25000,30000
+Formosa,1988.0,trigo,500,500
+Formosa,1989.0,girasol,3700,1200
+Formosa,1989.0,maiz,14300,7500
+Formosa,1989.0,soja,10000,15000
+Formosa,1989.0,sorgo,15000,30000
+Formosa,1989.0,trigo,1000,800
+Formosa,1990.0,girasol,6000,4000
+Formosa,1990.0,maiz,10000,28000
+Formosa,1990.0,soja,6000,6000
+Formosa,1990.0,sorgo,7500,7100
+Formosa,1990.0,trigo,1300,1400
+Formosa,1991.0,girasol,900,1100
+Formosa,1991.0,maiz,8000,24000
+Formosa,1991.0,soja,1200,1500
+Formosa,1991.0,sorgo,2100,7000
+Formosa,1991.0,trigo,1200,500
+Formosa,1992.0,girasol,400,400
+Formosa,1992.0,maiz,15000,45000
+Formosa,1992.0,soja,1600,1400
+Formosa,1992.0,sorgo,2000,5600
+Formosa,1992.0,trigo,200,200
+Formosa,1993.0,girasol,300,300
+Formosa,1993.0,maiz,18000,48600
+Formosa,1993.0,soja,1760,1200
+Formosa,1993.0,sorgo,3000,5600
+Formosa,1993.0,trigo,100,100
+Formosa,1994.0,maiz,18000,50000
+Formosa,1994.0,soja,1020,1800
+Formosa,1994.0,sorgo,2400,6500
+Formosa,1994.0,trigo,200,200
+Formosa,1995.0,girasol,40,40
+Formosa,1995.0,maiz,18000,52800
+Formosa,1995.0,soja,1500,3200
+Formosa,1995.0,sorgo,2400,7300
+Formosa,1995.0,trigo,200,100
+Formosa,1996.0,girasol,80,88
+Formosa,1996.0,maiz,15500,43400
+Formosa,1996.0,soja,1000,2000
+Formosa,1996.0,sorgo,2080,13900
+Formosa,1997.0,girasol,50,55
+Formosa,1997.0,maiz,18000,61100
+Formosa,1997.0,soja,1000,1000
+Formosa,1997.0,sorgo,2600,8800
+Formosa,1998.0,girasol,200,240
+Formosa,1998.0,maiz,15000,25000
+Formosa,1998.0,soja,1400,1200
+Formosa,1998.0,sorgo,2200,3500
+Formosa,1998.0,trigo,150,30
+Formosa,1999.0,girasol,2500,2900
+Formosa,1999.0,maiz,29000,63800
+Formosa,1999.0,soja,1900,5700
+Formosa,1999.0,sorgo,2750,6200
+Formosa,1999.0,trigo,200,300
+Formosa,2000.0,girasol,600,800
+Formosa,2000.0,maiz,12000,19000
+Formosa,2000.0,soja,1100,1300
+Formosa,2000.0,sorgo,1500,3000
+Formosa,2001.0,maiz,19500,62400
+Formosa,2001.0,soja,1100,1200
+Formosa,2001.0,sorgo,250,1250
+Formosa,2002.0,girasol,120,216
+Formosa,2002.0,maiz,21164,74090
+Formosa,2002.0,soja,7331,18400
+Formosa,2002.0,sorgo,2905,13073
+Formosa,2003.0,girasol,570,1000
+Formosa,2003.0,maiz,18164,54390
+Formosa,2003.0,soja,8530,15100
+Formosa,2003.0,sorgo,2840,11460
+Formosa,2003.0,trigo,860,1700
+Formosa,2004.0,girasol,710,1072
+Formosa,2004.0,maiz,17645,61950
+Formosa,2004.0,soja,11838,21568
+Formosa,2004.0,sorgo,2096,8550
+Formosa,2004.0,trigo,580,1330
+Formosa,2005.0,girasol,850,1300
+Formosa,2005.0,maiz,24170,61800
+Formosa,2005.0,soja,13733,41340
+Formosa,2005.0,sorgo,4237,15900
+Formosa,2005.0,trigo,705,1885
+Formosa,2006.0,girasol,850,1020
+Formosa,2006.0,maiz,25000,66700
+Formosa,2006.0,soja,11940,25192
+Formosa,2006.0,sorgo,5320,15075
+Formosa,2006.0,trigo,640,900
+Formosa,2007.0,girasol,3420,4500
+Formosa,2007.0,maiz,19035,54627
+Formosa,2007.0,soja,22598,48319
+Formosa,2007.0,sorgo,5330,15002
+Formosa,2007.0,trigo,420,880
+Formosa,2008.0,girasol,3500,4600
+Formosa,2008.0,maiz,18120,68570
+Formosa,2008.0,soja,6095,12132
+Formosa,2008.0,sorgo,2140,8760
+Formosa,2008.0,trigo,1240,2214
+Formosa,2009.0,girasol,3500,4200
+Formosa,2009.0,maiz,10355,28480
+Formosa,2009.0,soja,6100,4650
+Formosa,2009.0,sorgo,1480,3700
+Formosa,2009.0,trigo,4180,4920
+Formosa,2010.0,girasol,3500,3600
+Formosa,2010.0,maiz,10000,35000
+Formosa,2010.0,soja,6100,4650
+Formosa,2010.0,sorgo,1480,3260
+Formosa,2010.0,trigo,2000,2100
+Formosa,2011.0,girasol,3500,3600
+Formosa,2011.0,maiz,10000,41400
+Formosa,2011.0,soja,6100,4650
+Formosa,2011.0,sorgo,1480,4070
+Formosa,2011.0,trigo,3000,4800
+Formosa,2012.0,maiz,10000,30000
+Formosa,2012.0,soja,12000,11400
+Formosa,2012.0,sorgo,1480,3550
+Formosa,2012.0,trigo,1000,1000
+Formosa,2013.0,maiz,10000,17500
+Formosa,2013.0,soja,10000,12000
+Formosa,2013.0,trigo,1000,1000
+Formosa,2014.0,maiz,8000,24000
+Formosa,2014.0,soja,15000,30000
+Formosa,2014.0,sorgo,1500,2250
+Formosa,2015.0,girasol,7620,12032
+Formosa,2015.0,maiz,34000,76000
+Formosa,2015.0,soja,17900,35800
+Formosa,2015.0,sorgo,4950,13110
+Formosa,2016.0,maiz,35000,135000
+Formosa,2016.0,soja,17900,35800
+Formosa,2016.0,sorgo,9500,10500
+Formosa,2017.0,girasol,6500,11700
+Formosa,2017.0,maiz,40000,153000
+Formosa,2017.0,soja,18500,45125
+Formosa,2017.0,sorgo,23000,66000
+Formosa,2018.0,girasol,10000,15300
+Formosa,2018.0,maiz,70000,298549
+Formosa,2018.0,soja,25000,61250
+Formosa,2018.0,sorgo,43000,97320
+Formosa,2019.0,maiz,69000,119475
+Formosa,2019.0,soja,25000,60500
+Formosa,2019.0,sorgo,16000,4750
+Formosa,2020.0,girasol,3000,5400
+Formosa,2020.0,maiz,45000,61650
+Formosa,2020.0,soja,25000,17500
+Formosa,2020.0,sorgo,8000,3120
+Formosa,2021.0,girasol,900,1458
+Formosa,2021.0,maiz,38000,66000
+Formosa,2021.0,soja,9738,8490
+Formosa,2021.0,sorgo,28000,14750
+Formosa,2022.0,girasol,1050,1890
+Formosa,2022.0,maiz,40444,39523
+Formosa,2022.0,soja,20179,28712
+Formosa,2022.0,sorgo,19291,4365
+Formosa,2022.0,trigo,2345,3112
+Formosa,2023.0,girasol,1500,2250
+Formosa,2023.0,maiz,44100,60143
+Formosa,2023.0,soja,15520,30050
+Formosa,2023.0,sorgo,14740,8843
+Formosa,2023.0,trigo,1500,1840
+Formosa,2024.0,girasol,2020,3062
+Formosa,2024.0,maiz,46062,45785
+Formosa,2024.0,soja,16513,16513
+Formosa,2024.0,sorgo,20000,9000
+Formosa,2024.0,trigo,1750,1750
+Formosa,2025.0,girasol,2860,6578
+Formosa,2025.0,maiz,37060,45673
+Formosa,2025.0,soja,22000,38800
+Formosa,2025.0,sorgo,5100,2678
+Formosa,2025.0,trigo,5174,8930
+Jujuy,1970.0,maiz,3155,2600
+Jujuy,1970.0,trigo,950,878
+Jujuy,1971.0,maiz,4700,3700
+Jujuy,1971.0,trigo,950,865
+Jujuy,1972.0,maiz,4600,3246
+Jujuy,1972.0,trigo,780,320
+Jujuy,1973.0,maiz,4600,3950
+Jujuy,1973.0,soja,185,158
+Jujuy,1973.0,trigo,655,389
+Jujuy,1974.0,maiz,4260,2470
+Jujuy,1974.0,soja,250,280
+Jujuy,1974.0,trigo,580,406
+Jujuy,1975.0,maiz,4010,2860
+Jujuy,1975.0,trigo,610,141
+Jujuy,1976.0,maiz,3660,2700
+Jujuy,1976.0,trigo,512,140
+Jujuy,1977.0,maiz,3100,2252
+Jujuy,1977.0,sorgo,950,200
+Jujuy,1977.0,trigo,450,130
+Jujuy,1978.0,maiz,3000,3250
+Jujuy,1978.0,sorgo,920,200
+Jujuy,1978.0,trigo,550,155
+Jujuy,1979.0,girasol,190,160
+Jujuy,1979.0,maiz,2950,1680
+Jujuy,1979.0,soja,2450,3000
+Jujuy,1979.0,sorgo,310,0
+Jujuy,1979.0,trigo,510,100
+Jujuy,1980.0,maiz,3650,3500
+Jujuy,1980.0,soja,850,1400
+Jujuy,1980.0,sorgo,620,0
+Jujuy,1980.0,trigo,500,100
+Jujuy,1981.0,maiz,3550,8150
+Jujuy,1981.0,soja,250,400
+Jujuy,1981.0,sorgo,630,680
+Jujuy,1981.0,trigo,830,820
+Jujuy,1982.0,maiz,4100,10285
+Jujuy,1982.0,soja,200,400
+Jujuy,1982.0,sorgo,740,1845
+Jujuy,1982.0,trigo,810,1110
+Jujuy,1983.0,maiz,5400,10800
+Jujuy,1983.0,soja,300,460
+Jujuy,1983.0,sorgo,1100,2200
+Jujuy,1983.0,trigo,820,1050
+Jujuy,1984.0,maiz,6600,19390
+Jujuy,1984.0,soja,400,500
+Jujuy,1984.0,sorgo,850,2365
+Jujuy,1984.0,trigo,660,1320
+Jujuy,1985.0,maiz,7400,20030
+Jujuy,1985.0,soja,1800,3000
+Jujuy,1985.0,sorgo,2300,6900
+Jujuy,1985.0,trigo,1400,2500
+Jujuy,1986.0,maiz,6800,17000
+Jujuy,1986.0,soja,1600,2880
+Jujuy,1986.0,sorgo,650,1475
+Jujuy,1986.0,trigo,2570,5500
+Jujuy,1987.0,maiz,4880,9630
+Jujuy,1987.0,soja,700,1200
+Jujuy,1987.0,sorgo,450,1330
+Jujuy,1987.0,trigo,3000,2400
+Jujuy,1988.0,maiz,4100,12300
+Jujuy,1988.0,soja,5000,10000
+Jujuy,1988.0,sorgo,1000,2200
+Jujuy,1988.0,trigo,1600,700
+Jujuy,1989.0,maiz,4800,8620
+Jujuy,1989.0,soja,5000,3400
+Jujuy,1989.0,sorgo,1000,2400
+Jujuy,1989.0,trigo,600,850
+Jujuy,1990.0,maiz,4820,13580
+Jujuy,1990.0,soja,4000,10000
+Jujuy,1990.0,sorgo,400,1300
+Jujuy,1990.0,trigo,2000,2400
+Jujuy,1991.0,maiz,4400,11400
+Jujuy,1991.0,soja,4000,9000
+Jujuy,1991.0,sorgo,100,300
+Jujuy,1991.0,trigo,2000,3400
+Jujuy,1992.0,maiz,3500,9400
+Jujuy,1992.0,soja,5500,11400
+Jujuy,1992.0,trigo,1350,1800
+Jujuy,1993.0,maiz,4000,11400
+Jujuy,1993.0,soja,6750,9800
+Jujuy,1993.0,trigo,400,400
+Jujuy,1994.0,maiz,4200,12400
+Jujuy,1994.0,soja,1200,1500
+Jujuy,1994.0,trigo,200,200
+Jujuy,1995.0,maiz,4500,15900
+Jujuy,1995.0,soja,1000,1200
+Jujuy,1995.0,trigo,550,570
+Jujuy,1996.0,maiz,4800,15940
+Jujuy,1996.0,soja,1000,0
+Jujuy,1996.0,trigo,600,1200
+Jujuy,1997.0,maiz,5800,19000
+Jujuy,1997.0,sorgo,300,1000
+Jujuy,1997.0,trigo,600,1500
+Jujuy,1998.0,maiz,6000,19200
+Jujuy,1998.0,sorgo,300,990
+Jujuy,1998.0,trigo,300,600
+Jujuy,1999.0,maiz,5800,18900
+Jujuy,1999.0,soja,8000,20000
+Jujuy,1999.0,sorgo,300,1200
+Jujuy,1999.0,trigo,350,900
+Jujuy,2000.0,maiz,6000,20300
+Jujuy,2000.0,sorgo,300,1200
+Jujuy,2000.0,trigo,3000,5300
+Jujuy,2001.0,maiz,9000,23850
+Jujuy,2001.0,trigo,1600,1200
+Jujuy,2002.0,maiz,8000,28000
+Jujuy,2002.0,soja,773,1800
+Jujuy,2002.0,trigo,1000,2000
+Jujuy,2003.0,maiz,8000,28000
+Jujuy,2003.0,soja,1000,1950
+Jujuy,2003.0,trigo,600,900
+Jujuy,2004.0,maiz,5200,15620
+Jujuy,2004.0,soja,9000,19000
+Jujuy,2004.0,trigo,600,2100
+Jujuy,2005.0,maiz,5200,15500
+Jujuy,2005.0,soja,5050,10258
+Jujuy,2005.0,trigo,2000,6000
+Jujuy,2006.0,maiz,5200,21300
+Jujuy,2006.0,soja,3500,9080
+Jujuy,2006.0,trigo,2000,6000
+Jujuy,2007.0,maiz,5200,21450
+Jujuy,2007.0,soja,6000,16150
+Jujuy,2007.0,trigo,600,1560
+Jujuy,2008.0,maiz,5200,21780
+Jujuy,2008.0,soja,6000,16500
+Jujuy,2008.0,trigo,930,2320
+Jujuy,2009.0,maiz,4620,18130
+Jujuy,2009.0,soja,8250,19715
+Jujuy,2009.0,trigo,1320,3250
+Jujuy,2010.0,maiz,4620,19900
+Jujuy,2010.0,soja,10660,28878
+Jujuy,2010.0,trigo,2470,5960
+Jujuy,2011.0,maiz,5010,23150
+Jujuy,2011.0,soja,12150,34635
+Jujuy,2011.0,trigo,3170,8070
+Jujuy,2012.0,maiz,5010,26200
+Jujuy,2012.0,soja,12150,30670
+Jujuy,2012.0,trigo,3230,8000
+Jujuy,2013.0,maiz,5010,8740
+Jujuy,2013.0,soja,9220,11564
+Jujuy,2013.0,trigo,2835,6630
+Jujuy,2014.0,maiz,7850,42300
+Jujuy,2014.0,soja,6700,16897
+Jujuy,2014.0,trigo,240,560
+Jujuy,2015.0,maiz,6630,36190
+Jujuy,2015.0,soja,6840,18476
+Jujuy,2015.0,trigo,2835,4730
+Jujuy,2016.0,maiz,6630,27864
+Jujuy,2016.0,soja,6840,14551
+Jujuy,2016.0,trigo,3435,6980
+Jujuy,2017.0,maiz,5244,15012
+Jujuy,2017.0,soja,7238,12018
+Jujuy,2017.0,trigo,3265,6788
+Jujuy,2018.0,maiz,5240,18680
+Jujuy,2018.0,soja,7240,14753
+Jujuy,2018.0,trigo,3265,3613
+Jujuy,2019.0,maiz,5244,18720
+Jujuy,2019.0,soja,7240,20272
+Jujuy,2019.0,trigo,4580,4580
+Jujuy,2020.0,maiz,5244,28464
+Jujuy,2020.0,soja,6730,16825
+Jujuy,2020.0,sorgo,500,1400
+Jujuy,2020.0,trigo,4580,6412
+Jujuy,2021.0,maiz,7551,39265
+Jujuy,2021.0,soja,10767,37685
+Jujuy,2021.0,sorgo,1921,4612
+Jujuy,2021.0,trigo,3770,6032
+Jujuy,2022.0,maiz,9612,25487
+Jujuy,2022.0,soja,9581,23125
+Jujuy,2022.0,sorgo,1313,3476
+Jujuy,2022.0,trigo,4207,9674
+Jujuy,2023.0,maiz,11010,35230
+Jujuy,2023.0,soja,7800,11699
+Jujuy,2023.0,sorgo,1313,3151
+Jujuy,2023.0,trigo,3800,6840
+Jujuy,2024.0,maiz,13388,50160
+Jujuy,2024.0,soja,10209,22905
+Jujuy,2024.0,sorgo,2883,7800
+Jujuy,2024.0,trigo,2345,4925
+Jujuy,2025.0,maiz,7598,26412
+Jujuy,2025.0,soja,7259,14396
+Jujuy,2025.0,sorgo,2252,7693
+Jujuy,2025.0,trigo,2945,4152
+La Pampa,1970.0,girasol,4500,2150
+La Pampa,1970.0,maiz,262800,165000
+La Pampa,1970.0,sorgo,166200,233000
+La Pampa,1970.0,trigo,818000,599700
+La Pampa,1971.0,girasol,13150,5000
+La Pampa,1971.0,maiz,272700,43300
+La Pampa,1971.0,sorgo,328800,160000
+La Pampa,1971.0,trigo,261300,86000
+La Pampa,1972.0,girasol,7850,430
+La Pampa,1972.0,maiz,137700,23400
+La Pampa,1972.0,sorgo,211700,20000
+La Pampa,1972.0,trigo,485700,248700
+La Pampa,1973.0,girasol,9300,6600
+La Pampa,1973.0,maiz,252900,207000
+La Pampa,1973.0,sorgo,263300,478000
+La Pampa,1973.0,trigo,690000,640000
+La Pampa,1974.0,girasol,9100,6100
+La Pampa,1974.0,maiz,292700,217000
+La Pampa,1974.0,sorgo,333000,421000
+La Pampa,1974.0,trigo,471200,603500
+La Pampa,1975.0,girasol,14500,11200
+La Pampa,1975.0,maiz,264800,163000
+La Pampa,1975.0,sorgo,304000,360000
+La Pampa,1975.0,trigo,690000,540000
+La Pampa,1976.0,girasol,26400,21400
+La Pampa,1976.0,maiz,156700,54000
+La Pampa,1976.0,sorgo,151500,179000
+La Pampa,1976.0,trigo,815000,810000
+La Pampa,1977.0,girasol,46000,35000
+La Pampa,1977.0,maiz,160000,92000
+La Pampa,1977.0,sorgo,149000,268000
+La Pampa,1977.0,trigo,930000,1100000
+La Pampa,1978.0,girasol,100000,60000
+La Pampa,1978.0,maiz,230000,226000
+La Pampa,1978.0,sorgo,203500,400000
+La Pampa,1978.0,trigo,510000,290000
+La Pampa,1979.0,girasol,72300,60000
+La Pampa,1979.0,maiz,220000,310000
+La Pampa,1979.0,sorgo,246000,600000
+La Pampa,1979.0,trigo,480000,515000
+La Pampa,1980.0,girasol,116000,76000
+La Pampa,1980.0,maiz,300000,221000
+La Pampa,1980.0,soja,7850,7400
+La Pampa,1980.0,sorgo,187600,216000
+La Pampa,1980.0,trigo,340700,430000
+La Pampa,1981.0,girasol,69300,56700
+La Pampa,1981.0,maiz,338000,259000
+La Pampa,1981.0,soja,2200,1400
+La Pampa,1981.0,sorgo,218000,484000
+La Pampa,1981.0,trigo,572000,203000
+La Pampa,1982.0,girasol,116000,103000
+La Pampa,1982.0,maiz,290800,185000
+La Pampa,1982.0,soja,250,400
+La Pampa,1982.0,sorgo,269700,600000
+La Pampa,1982.0,trigo,529000,384000
+La Pampa,1983.0,girasol,151800,160000
+La Pampa,1983.0,maiz,280000,180000
+La Pampa,1983.0,soja,150,60
+La Pampa,1983.0,sorgo,262200,639000
+La Pampa,1983.0,trigo,695000,1100000
+La Pampa,1984.0,girasol,151800,140000
+La Pampa,1984.0,maiz,276000,270000
+La Pampa,1984.0,soja,2500,4000
+La Pampa,1984.0,sorgo,254000,603000
+La Pampa,1984.0,trigo,598000,700000
+La Pampa,1985.0,girasol,185800,245000
+La Pampa,1985.0,maiz,294000,360000
+La Pampa,1985.0,soja,1000,1600
+La Pampa,1985.0,sorgo,216500,545000
+La Pampa,1985.0,trigo,564100,1028000
+La Pampa,1986.0,girasol,330000,400000
+La Pampa,1986.0,maiz,354500,520000
+La Pampa,1986.0,soja,1400,2100
+La Pampa,1986.0,sorgo,171000,520600
+La Pampa,1986.0,trigo,466000,560000
+La Pampa,1987.0,girasol,218150,290000
+La Pampa,1987.0,maiz,358000,441000
+La Pampa,1987.0,soja,6500,10200
+La Pampa,1987.0,sorgo,143800,365500
+La Pampa,1987.0,trigo,426200,533000
+La Pampa,1988.0,girasol,220000,260000
+La Pampa,1988.0,maiz,390000,391500
+La Pampa,1988.0,soja,18100,22400
+La Pampa,1988.0,sorgo,158000,290000
+La Pampa,1988.0,trigo,436400,700000
+La Pampa,1989.0,girasol,290000,373000
+La Pampa,1989.0,maiz,390000,200000
+La Pampa,1989.0,soja,36500,50000
+La Pampa,1989.0,sorgo,135000,200000
+La Pampa,1989.0,trigo,400000,554000
+La Pampa,1990.0,girasol,328000,390000
+La Pampa,1990.0,maiz,290000,148500
+La Pampa,1990.0,soja,42000,70000
+La Pampa,1990.0,sorgo,122000,215000
+La Pampa,1990.0,trigo,557000,872000
+La Pampa,1991.0,girasol,250500,414800
+La Pampa,1991.0,maiz,297500,319200
+La Pampa,1991.0,soja,30000,21800
+La Pampa,1991.0,sorgo,163000,269700
+La Pampa,1991.0,trigo,728000,858700
+La Pampa,1992.0,girasol,313300,446200
+La Pampa,1992.0,maiz,350000,700700
+La Pampa,1992.0,soja,21000,25600
+La Pampa,1992.0,sorgo,172700,529900
+La Pampa,1992.0,trigo,499300,917300
+La Pampa,1993.0,girasol,295300,386300
+La Pampa,1993.0,maiz,378100,475000
+La Pampa,1993.0,soja,18300,38200
+La Pampa,1993.0,sorgo,181800,459000
+La Pampa,1993.0,trigo,493800,502100
+La Pampa,1994.0,girasol,361900,699100
+La Pampa,1994.0,maiz,339000,342600
+La Pampa,1994.0,soja,20200,28100
+La Pampa,1994.0,sorgo,137500,309100
+La Pampa,1994.0,trigo,500000,770500
+La Pampa,1995.0,girasol,515600,793500
+La Pampa,1995.0,maiz,325400,232300
+La Pampa,1995.0,soja,17900,26700
+La Pampa,1995.0,sorgo,123000,86500
+La Pampa,1995.0,trigo,507200,707100
+La Pampa,1996.0,girasol,565300,731100
+La Pampa,1996.0,maiz,355100,132500
+La Pampa,1996.0,soja,4500,6620
+La Pampa,1996.0,sorgo,129600,88400
+La Pampa,1996.0,trigo,467600,583700
+La Pampa,1997.0,girasol,463500,826400
+La Pampa,1997.0,maiz,345000,251600
+La Pampa,1997.0,soja,4600,6840
+La Pampa,1997.0,sorgo,102300,151700
+La Pampa,1997.0,trigo,645350,791493
+La Pampa,1998.0,girasol,575300,984600
+La Pampa,1998.0,maiz,364500,376000
+La Pampa,1998.0,soja,11710,27465
+La Pampa,1998.0,sorgo,106000,157500
+La Pampa,1998.0,trigo,573915,1292370
+La Pampa,1999.0,girasol,638900,1188800
+La Pampa,1999.0,maiz,328800,251700
+La Pampa,1999.0,soja,15100,28940
+La Pampa,1999.0,sorgo,84000,124660
+La Pampa,1999.0,trigo,452200,767600
+La Pampa,2000.0,girasol,541700,851140
+La Pampa,2000.0,maiz,363100,482300
+La Pampa,2000.0,soja,38200,78800
+La Pampa,2000.0,sorgo,90600,164300
+La Pampa,2000.0,trigo,405000,805800
+La Pampa,2001.0,girasol,321000,500230
+La Pampa,2001.0,maiz,423000,616540
+La Pampa,2001.0,soja,148500,253945
+La Pampa,2001.0,sorgo,30500,93260
+La Pampa,2001.0,trigo,411400,884670
+La Pampa,2002.0,girasol,345300,703280
+La Pampa,2002.0,maiz,402900,539210
+La Pampa,2002.0,soja,75600,147700
+La Pampa,2002.0,sorgo,24800,73970
+La Pampa,2002.0,trigo,438900,785320
+La Pampa,2003.0,girasol,397100,595500
+La Pampa,2003.0,maiz,432550,380740
+La Pampa,2003.0,soja,103350,206000
+La Pampa,2003.0,sorgo,18800,41610
+La Pampa,2003.0,trigo,370750,740830
+La Pampa,2004.0,girasol,281500,466964
+La Pampa,2004.0,maiz,399100,591340
+La Pampa,2004.0,soja,160300,295900
+La Pampa,2004.0,sorgo,18000,57000
+La Pampa,2004.0,trigo,284000,268195
+La Pampa,2005.0,girasol,337200,670000
+La Pampa,2005.0,maiz,370700,1250040
+La Pampa,2005.0,soja,187629,476482
+La Pampa,2005.0,sorgo,20400,78000
+La Pampa,2005.0,trigo,344300,672490
+La Pampa,2006.0,girasol,296800,425965
+La Pampa,2006.0,maiz,338500,583570
+La Pampa,2006.0,soja,223600,393569
+La Pampa,2006.0,sorgo,22200,27810
+La Pampa,2006.0,trigo,207550,234560
+La Pampa,2007.0,girasol,353900,456050
+La Pampa,2007.0,maiz,431200,945800
+La Pampa,2007.0,soja,243500,510099
+La Pampa,2007.0,sorgo,26590,43330
+La Pampa,2007.0,trigo,95000,111750
+La Pampa,2008.0,girasol,396300,626610
+La Pampa,2008.0,maiz,433500,782950
+La Pampa,2008.0,soja,231900,436000
+La Pampa,2008.0,sorgo,42000,95500
+La Pampa,2008.0,trigo,240000,617920
+La Pampa,2009.0,girasol,430900,415430
+La Pampa,2009.0,maiz,340200,263750
+La Pampa,2009.0,soja,300000,264065
+La Pampa,2009.0,sorgo,66800,38040
+La Pampa,2009.0,trigo,264600,250970
+La Pampa,2010.0,girasol,334400,390850
+La Pampa,2010.0,maiz,352500,448700
+La Pampa,2010.0,soja,380600,786356
+La Pampa,2010.0,sorgo,117700,119250
+La Pampa,2010.0,trigo,97140,71740
+La Pampa,2011.0,girasol,318600,558130
+La Pampa,2011.0,maiz,374700,520710
+La Pampa,2011.0,soja,402300,599900
+La Pampa,2011.0,sorgo,161300,248350
+La Pampa,2011.0,trigo,105800,208576
+La Pampa,2012.0,girasol,360100,627810
+La Pampa,2012.0,maiz,309500,461120
+La Pampa,2012.0,soja,396875,1030664
+La Pampa,2012.0,sorgo,127100,329200
+La Pampa,2012.0,trigo,204900,499930
+La Pampa,2013.0,girasol,286600,531090
+La Pampa,2013.0,maiz,271500,473700
+La Pampa,2013.0,soja,447400,812650
+La Pampa,2013.0,sorgo,85900,109100
+La Pampa,2013.0,trigo,191910,504600
+La Pampa,2014.0,girasol,279400,390570
+La Pampa,2014.0,maiz,423000,795830
+La Pampa,2014.0,soja,521100,1022370
+La Pampa,2014.0,sorgo,68200,72090
+La Pampa,2014.0,trigo,196500,302120
+La Pampa,2015.0,girasol,256600,551050
+La Pampa,2015.0,maiz,370400,862700
+La Pampa,2015.0,soja,484900,1271770
+La Pampa,2015.0,sorgo,39900,92822
+La Pampa,2015.0,trigo,330000,794665
+La Pampa,2016.0,girasol,230000,471240
+La Pampa,2016.0,maiz,614900,2148470
+La Pampa,2016.0,soja,553225,1807291
+La Pampa,2016.0,sorgo,40700,149800
+La Pampa,2016.0,trigo,272820,547362
+La Pampa,2017.0,girasol,212300,447340
+La Pampa,2017.0,maiz,479000,1096620
+La Pampa,2017.0,soja,496000,1271870
+La Pampa,2017.0,sorgo,31900,81150
+La Pampa,2017.0,trigo,381900,971433
+La Pampa,2018.0,girasol,177900,439230
+La Pampa,2018.0,maiz,458400,1331562
+La Pampa,2018.0,soja,431400,1121020
+La Pampa,2018.0,sorgo,48900,83312
+La Pampa,2018.0,trigo,295060,641571
+La Pampa,2019.0,girasol,157500,354230
+La Pampa,2019.0,maiz,487250,1978798
+La Pampa,2019.0,soja,484600,1583251
+La Pampa,2019.0,sorgo,43420,51690
+La Pampa,2019.0,trigo,363300,871280
+La Pampa,2020.0,girasol,113450,240730
+La Pampa,2020.0,maiz,529500,2364777
+La Pampa,2020.0,soja,506700,1619630
+La Pampa,2020.0,sorgo,31300,67010
+La Pampa,2020.0,trigo,335700,380970
+La Pampa,2021.0,girasol,154080,340529
+La Pampa,2021.0,maiz,588900,2537318
+La Pampa,2021.0,soja,493517,1123733
+La Pampa,2021.0,sorgo,42750,23085
+La Pampa,2021.0,trigo,352200,753140
+La Pampa,2022.0,girasol,208914,494445
+La Pampa,2022.0,maiz,718500,3698601
+La Pampa,2022.0,soja,393500,1140710
+La Pampa,2022.0,sorgo,65600,70910
+La Pampa,2022.0,trigo,296040,725488
+La Pampa,2023.0,girasol,281900,623790
+La Pampa,2023.0,maiz,680400,3088464
+La Pampa,2023.0,soja,431050,759420
+La Pampa,2023.0,sorgo,16200,9500
+La Pampa,2023.0,trigo,206700,436220
+La Pampa,2024.0,girasol,226500,508890
+La Pampa,2024.0,maiz,779100,3760630
+La Pampa,2024.0,soja,541300,1615770
+La Pampa,2024.0,sorgo,22900,57641
+La Pampa,2024.0,trigo,271800,563170
+La Pampa,2025.0,girasol,290900,711188
+La Pampa,2025.0,maiz,706000,2831135
+La Pampa,2025.0,soja,406900,1008942
+La Pampa,2025.0,sorgo,26390,44178
+La Pampa,2025.0,trigo,268200,459370
+La Rioja,1970.0,maiz,440,192
+La Rioja,1970.0,trigo,270,224
+La Rioja,1971.0,maiz,290,134
+La Rioja,1971.0,trigo,65,42
+La Rioja,1972.0,maiz,250,72
+La Rioja,1972.0,trigo,157,40
+La Rioja,1973.0,maiz,165,78
+La Rioja,1973.0,trigo,192,38
+La Rioja,1988.0,maiz,94,190
+Mendoza,1970.0,maiz,7230,11680
+Mendoza,1970.0,soja,35,0
+Mendoza,1971.0,maiz,6800,11000
+Mendoza,1972.0,maiz,5800,10500
+Mendoza,1973.0,maiz,6245,11170
+Mendoza,1974.0,maiz,5700,8600
+Mendoza,1975.0,maiz,4050,4300
+Mendoza,1976.0,maiz,3600,3800
+Mendoza,1977.0,maiz,2000,2000
+Mendoza,1978.0,maiz,800,1200
+Mendoza,1979.0,maiz,1500,1000
+Mendoza,1980.0,maiz,850,1300
+Mendoza,1981.0,maiz,2140,1440
+Mendoza,1982.0,maiz,2500,1800
+Mendoza,1982.0,sorgo,300,0
+Mendoza,1983.0,maiz,4060,4100
+Mendoza,1983.0,sorgo,100,250
+Mendoza,1984.0,maiz,8800,30000
+Mendoza,1984.0,sorgo,100,200
+Mendoza,1985.0,girasol,230,230
+Mendoza,1985.0,maiz,7110,25600
+Mendoza,1985.0,sorgo,100,180
+Mendoza,1986.0,girasol,480,460
+Mendoza,1986.0,maiz,7000,21000
+Mendoza,1986.0,sorgo,100,200
+Mendoza,1987.0,sorgo,135,300
+Mendoza,1988.0,maiz,2200,7500
+Mendoza,1989.0,maiz,2800,9200
+Mendoza,1990.0,maiz,4600,15660
+Misiones,1970.0,maiz,36725,34200
+Misiones,1970.0,soja,13300,11900
+Misiones,1971.0,maiz,37800,32900
+Misiones,1971.0,soja,16100,28700
+Misiones,1972.0,maiz,32700,8300
+Misiones,1972.0,soja,25200,27900
+Misiones,1973.0,maiz,32170,28600
+Misiones,1973.0,soja,36530,40495
+Misiones,1974.0,maiz,30900,27600
+Misiones,1974.0,soja,44000,60700
+Misiones,1975.0,maiz,30900,27300
+Misiones,1975.0,soja,26100,38000
+Misiones,1976.0,maiz,28900,26400
+Misiones,1976.0,soja,25600,34000
+Misiones,1977.0,maiz,27000,22000
+Misiones,1977.0,soja,35000,57000
+Misiones,1978.0,girasol,50,40
+Misiones,1978.0,maiz,24000,16000
+Misiones,1978.0,soja,32300,30000
+Misiones,1978.0,sorgo,500,1700
+Misiones,1978.0,trigo,50,40
+Misiones,1979.0,girasol,80,70
+Misiones,1979.0,maiz,25000,18000
+Misiones,1979.0,soja,32800,31000
+Misiones,1979.0,sorgo,760,2600
+Misiones,1979.0,trigo,50,40
+Misiones,1980.0,girasol,1550,1600
+Misiones,1980.0,maiz,28000,37600
+Misiones,1980.0,soja,32000,54000
+Misiones,1980.0,sorgo,1400,240
+Misiones,1981.0,girasol,680,420
+Misiones,1981.0,maiz,31000,42300
+Misiones,1981.0,soja,26000,30300
+Misiones,1981.0,sorgo,2500,1000
+Misiones,1982.0,maiz,31000,34000
+Misiones,1982.0,soja,28400,32100
+Misiones,1982.0,sorgo,960,1500
+Misiones,1983.0,maiz,31000,39140
+Misiones,1983.0,soja,30300,13160
+Misiones,1983.0,sorgo,1000,1700
+Misiones,1984.0,maiz,29000,32000
+Misiones,1984.0,soja,35000,58900
+Misiones,1984.0,sorgo,970,1100
+Misiones,1985.0,maiz,30000,35930
+Misiones,1985.0,soja,18000,22290
+Misiones,1985.0,sorgo,210,0
+Misiones,1986.0,maiz,20300,6000
+Misiones,1986.0,soja,15000,16600
+Misiones,1987.0,maiz,18000,32400
+Misiones,1987.0,soja,13000,16400
+Misiones,1987.0,sorgo,900,1800
+Misiones,1988.0,maiz,24000,30000
+Misiones,1988.0,soja,9550,19000
+Misiones,1988.0,sorgo,1000,500
+Misiones,1989.0,maiz,35200,77000
+Misiones,1989.0,soja,24000,55000
+Misiones,1989.0,sorgo,1000,900
+Misiones,1990.0,maiz,10000,25000
+Misiones,1990.0,soja,30000,30000
+Misiones,1990.0,sorgo,800,2400
+Misiones,1991.0,maiz,15000,1200
+Misiones,1991.0,soja,3000,1100
+Misiones,1991.0,sorgo,800,2400
+Misiones,1992.0,maiz,13000,7000
+Misiones,1992.0,soja,300,100
+Misiones,1992.0,sorgo,800,1600
+Misiones,1993.0,maiz,23000,0
+Misiones,1993.0,soja,1500,600
+Misiones,1993.0,sorgo,200,400
+Misiones,1994.0,maiz,25750,23900
+Misiones,1994.0,soja,2300,3000
+Misiones,1994.0,sorgo,100,0
+Misiones,1995.0,maiz,25750,23913
+Misiones,1995.0,soja,2300,3041
+Misiones,1995.0,sorgo,100,0
+Misiones,1996.0,maiz,28400,17220
+Misiones,1996.0,soja,1500,160
+Misiones,1997.0,maiz,23600,15300
+Misiones,1997.0,soja,1300,2100
+Misiones,1998.0,maiz,26600,3665
+Misiones,1998.0,soja,2770,0
+Misiones,1999.0,maiz,29100,14200
+Misiones,1999.0,soja,3600,3300
+Misiones,2000.0,maiz,27900,24450
+Misiones,2000.0,soja,4000,8800
+Misiones,2001.0,maiz,27000,19550
+Misiones,2001.0,soja,4000,8400
+Misiones,2002.0,maiz,26050,8800
+Misiones,2002.0,soja,3120,5616
+Misiones,2003.0,maiz,23270,6320
+Misiones,2003.0,soja,2200,1420
+Misiones,2004.0,maiz,26505,49710
+Misiones,2004.0,soja,2250,5000
+Misiones,2005.0,maiz,29555,8242
+Misiones,2005.0,soja,2929,287
+Misiones,2006.0,maiz,31105,39680
+Misiones,2006.0,soja,1384,1235
+Misiones,2007.0,maiz,32205,18178
+Misiones,2007.0,soja,950,1810
+Misiones,2008.0,maiz,32205,15537
+Misiones,2008.0,soja,1180,1716
+Misiones,2009.0,maiz,32100,901
+Misiones,2009.0,soja,656,222
+Misiones,2010.0,maiz,33040,68360
+Misiones,2010.0,soja,880,2212
+Misiones,2011.0,maiz,34440,76260
+Misiones,2011.0,soja,1810,4496
+Misiones,2012.0,maiz,35200,10047
+Misiones,2012.0,soja,880,564
+Misiones,2013.0,maiz,35200,78170
+Misiones,2013.0,soja,1095,2842
+Misiones,2014.0,maiz,30820,88830
+Misiones,2014.0,soja,1300,3294
+Misiones,2015.0,maiz,30820,86390
+Misiones,2015.0,soja,1300,3683
+Misiones,2016.0,maiz,23520,65799
+Misiones,2016.0,soja,1550,4542
+Misiones,2017.0,maiz,27040,78724
+Misiones,2017.0,soja,2550,5545
+Misiones,2018.0,maiz,28060,87016
+Misiones,2018.0,soja,2830,7873
+Misiones,2019.0,maiz,31400,151809
+Misiones,2019.0,soja,3750,10844
+Misiones,2020.0,maiz,31150,149809
+Misiones,2020.0,soja,3750,9740
+Misiones,2021.0,maiz,31150,33676
+Misiones,2021.0,soja,3750,11769
+Misiones,2022.0,maiz,29191,52640
+Misiones,2022.0,soja,3501,3063
+Misiones,2023.0,maiz,34304,115186
+Misiones,2023.0,soja,3989,9172
+Misiones,2024.0,maiz,36500,96884
+Misiones,2024.0,soja,4309,17236
+Misiones,2025.0,maiz,31510,133318
+Misiones,2025.0,soja,4324,15135
+Neuquén,1970.0,maiz,885,950
+Neuquén,1970.0,trigo,1160,865
+Neuquén,1971.0,maiz,1000,800
+Neuquén,1971.0,trigo,1080,880
+Neuquén,1972.0,maiz,1096,820
+Neuquén,1972.0,trigo,1220,780
+Neuquén,1973.0,maiz,1310,1276
+Neuquén,1973.0,trigo,820,610
+Neuquén,1974.0,maiz,1470,1600
+Neuquén,1974.0,trigo,890,670
+Neuquén,1975.0,maiz,1400,1100
+Neuquén,1975.0,trigo,1040,640
+Neuquén,1976.0,maiz,1530,1770
+Neuquén,1976.0,trigo,960,580
+Neuquén,1977.0,maiz,2000,2000
+Neuquén,1977.0,trigo,980,700
+Neuquén,1978.0,maiz,1300,1500
+Neuquén,1978.0,trigo,900,500
+Neuquén,1979.0,maiz,1200,1300
+Neuquén,1979.0,trigo,800,500
+Neuquén,1980.0,maiz,1200,1400
+Neuquén,1980.0,trigo,700,300
+Neuquén,1981.0,maiz,1110,1650
+Neuquén,1981.0,trigo,630,360
+Neuquén,1982.0,maiz,780,630
+Neuquén,1982.0,trigo,400,200
+Neuquén,1983.0,maiz,560,560
+Neuquén,1983.0,trigo,430,250
+Neuquén,1984.0,maiz,560,600
+Neuquén,1984.0,trigo,320,270
+Neuquén,1985.0,maiz,250,350
+Neuquén,1985.0,trigo,145,90
+Neuquén,1986.0,maiz,200,300
+Neuquén,1986.0,trigo,170,165
+Neuquén,1987.0,maiz,260,250
+Neuquén,1987.0,trigo,190,65
+Neuquén,1988.0,maiz,200,400
+Neuquén,1988.0,trigo,145,160
+Neuquén,1989.0,maiz,230,280
+Neuquén,1989.0,trigo,200,150
+Neuquén,1990.0,maiz,250,300
+Neuquén,1990.0,trigo,200,150
+Río Negro,1970.0,maiz,2180,2800
+Río Negro,1970.0,trigo,760,691
+Río Negro,1971.0,maiz,2520,3360
+Río Negro,1971.0,trigo,800,470
+Río Negro,1972.0,maiz,2780,3490
+Río Negro,1972.0,trigo,2240,1350
+Río Negro,1973.0,maiz,2630,3476
+Río Negro,1973.0,trigo,770,600
+Río Negro,1974.0,maiz,2630,4100
+Río Negro,1974.0,sorgo,20,8
+Río Negro,1974.0,trigo,14940,12500
+Río Negro,1975.0,maiz,2490,3560
+Río Negro,1975.0,sorgo,110,40
+Río Negro,1975.0,trigo,9400,5500
+Río Negro,1976.0,maiz,2710,3600
+Río Negro,1976.0,sorgo,140,100
+Río Negro,1976.0,trigo,14900,12000
+Río Negro,1977.0,maiz,2000,3000
+Río Negro,1977.0,trigo,17800,23000
+Río Negro,1978.0,maiz,2800,1900
+Río Negro,1978.0,sorgo,800,600
+Río Negro,1978.0,trigo,16000,20000
+Río Negro,1979.0,maiz,3000,3000
+Río Negro,1979.0,sorgo,1000,600
+Río Negro,1979.0,trigo,17000,16000
+Río Negro,1980.0,maiz,2850,2900
+Río Negro,1980.0,sorgo,1000,350
+Río Negro,1980.0,trigo,13800,13600
+Río Negro,1981.0,maiz,2550,3700
+Río Negro,1981.0,sorgo,1100,380
+Río Negro,1981.0,trigo,14200,3700
+Río Negro,1982.0,maiz,2220,2700
+Río Negro,1982.0,sorgo,800,450
+Río Negro,1982.0,trigo,14000,12000
+Río Negro,1983.0,maiz,2170,3750
+Río Negro,1983.0,sorgo,500,350
+Río Negro,1983.0,trigo,2600,5700
+Río Negro,1984.0,maiz,2100,3500
+Río Negro,1984.0,sorgo,530,900
+Río Negro,1984.0,trigo,2900,8800
+Río Negro,1985.0,maiz,1640,5720
+Río Negro,1985.0,sorgo,140,120
+Río Negro,1985.0,trigo,570,1900
+Río Negro,1986.0,maiz,2000,7000
+Río Negro,1986.0,sorgo,150,250
+Río Negro,1986.0,trigo,630,2105
+Río Negro,1987.0,maiz,2200,7250
+Río Negro,1987.0,sorgo,115,200
+Río Negro,1987.0,trigo,610,1400
+Río Negro,1988.0,maiz,2000,5900
+Río Negro,1988.0,sorgo,100,100
+Río Negro,1988.0,trigo,415,1040
+Río Negro,1989.0,maiz,2300,6600
+Río Negro,1989.0,trigo,400,1100
+Río Negro,1990.0,maiz,2500,6840
+Río Negro,1990.0,trigo,500,1100
+Salta,1970.0,maiz,40710,49200
+Salta,1970.0,soja,370,500
+Salta,1970.0,sorgo,7800,24500
+Salta,1970.0,trigo,9540,12747
+Salta,1971.0,maiz,41630,66900
+Salta,1971.0,soja,370,425
+Salta,1971.0,sorgo,10070,22130
+Salta,1971.0,trigo,11280,11300
+Salta,1972.0,maiz,37020,43900
+Salta,1972.0,soja,370,300
+Salta,1972.0,sorgo,4600,7100
+Salta,1972.0,trigo,9210,14100
+Salta,1973.0,maiz,32900,62600
+Salta,1973.0,soja,735,722
+Salta,1973.0,sorgo,3500,14800
+Salta,1973.0,trigo,12000,13000
+Salta,1974.0,maiz,25300,29700
+Salta,1974.0,soja,2680,3050
+Salta,1974.0,sorgo,3000,7400
+Salta,1974.0,trigo,4000,3870
+Salta,1975.0,maiz,17500,18000
+Salta,1975.0,soja,350,370
+Salta,1975.0,sorgo,2400,5960
+Salta,1975.0,trigo,7100,9100
+Salta,1976.0,maiz,15260,17100
+Salta,1976.0,soja,60,80
+Salta,1976.0,sorgo,2080,4600
+Salta,1976.0,trigo,4360,4400
+Salta,1977.0,girasol,300,200
+Salta,1977.0,maiz,21000,32000
+Salta,1977.0,soja,3000,6000
+Salta,1977.0,sorgo,8000,18800
+Salta,1977.0,trigo,4550,7800
+Salta,1978.0,girasol,750,660
+Salta,1978.0,maiz,23000,44000
+Salta,1978.0,soja,12200,23700
+Salta,1978.0,sorgo,5800,10000
+Salta,1978.0,trigo,5200,8400
+Salta,1979.0,girasol,2700,2000
+Salta,1979.0,maiz,26400,57000
+Salta,1979.0,soja,25000,40000
+Salta,1979.0,sorgo,5900,12800
+Salta,1979.0,trigo,2150,2100
+Salta,1980.0,girasol,900,500
+Salta,1980.0,maiz,37300,70000
+Salta,1980.0,soja,24000,35600
+Salta,1980.0,sorgo,5300,5700
+Salta,1980.0,trigo,1250,1600
+Salta,1981.0,girasol,300,200
+Salta,1981.0,maiz,40000,98400
+Salta,1981.0,soja,9200,16300
+Salta,1981.0,sorgo,15900,43300
+Salta,1981.0,trigo,1400,2200
+Salta,1982.0,maiz,64500,160000
+Salta,1982.0,soja,11900,23800
+Salta,1982.0,sorgo,29400,82200
+Salta,1982.0,trigo,2800,4000
+Salta,1983.0,maiz,70400,129700
+Salta,1983.0,soja,16900,32800
+Salta,1983.0,sorgo,37800,92300
+Salta,1983.0,trigo,3800,7500
+Salta,1984.0,girasol,200,0
+Salta,1984.0,maiz,74500,200000
+Salta,1984.0,soja,45000,95000
+Salta,1984.0,sorgo,29200,82000
+Salta,1984.0,trigo,6000,11700
+Salta,1985.0,girasol,240,240
+Salta,1985.0,maiz,85000,238600
+Salta,1985.0,soja,47000,97100
+Salta,1985.0,sorgo,18500,47000
+Salta,1985.0,trigo,8000,15000
+Salta,1986.0,girasol,200,200
+Salta,1986.0,maiz,75000,145000
+Salta,1986.0,soja,40000,64460
+Salta,1986.0,sorgo,10000,18600
+Salta,1986.0,trigo,15000,23000
+Salta,1987.0,maiz,69000,128900
+Salta,1987.0,soja,50000,70000
+Salta,1987.0,sorgo,6000,10500
+Salta,1987.0,trigo,6000,5900
+Salta,1988.0,maiz,55000,191100
+Salta,1988.0,soja,95000,235500
+Salta,1988.0,sorgo,9000,18000
+Salta,1988.0,trigo,3500,2100
+Salta,1989.0,maiz,40000,46000
+Salta,1989.0,soja,80000,62000
+Salta,1989.0,sorgo,5000,3800
+Salta,1989.0,trigo,5000,7700
+Salta,1990.0,maiz,50000,142500
+Salta,1990.0,soja,111000,280000
+Salta,1990.0,sorgo,7000,20800
+Salta,1990.0,trigo,8000,13000
+Salta,1991.0,maiz,23000,58700
+Salta,1991.0,soja,95500,216600
+Salta,1991.0,sorgo,2100,5700
+Salta,1991.0,trigo,13400,21900
+Salta,1992.0,maiz,37000,99900
+Salta,1992.0,soja,135000,270000
+Salta,1992.0,sorgo,800,1400
+Salta,1992.0,trigo,9800,13400
+Salta,1993.0,maiz,37000,109300
+Salta,1993.0,soja,193000,318200
+Salta,1993.0,sorgo,800,3300
+Salta,1993.0,trigo,19400,18700
+Salta,1994.0,maiz,45000,146600
+Salta,1994.0,soja,210500,301600
+Salta,1994.0,sorgo,1400,4800
+Salta,1994.0,trigo,10900,6500
+Salta,1995.0,maiz,50000,159600
+Salta,1995.0,soja,179400,333700
+Salta,1995.0,sorgo,3000,5600
+Salta,1995.0,trigo,9000,6300
+Salta,1996.0,maiz,65000,207500
+Salta,1996.0,soja,120000,148900
+Salta,1996.0,sorgo,1500,0
+Salta,1996.0,trigo,13000,18200
+Salta,1997.0,maiz,85000,278300
+Salta,1997.0,soja,165500,343100
+Salta,1997.0,sorgo,3000,10300
+Salta,1997.0,trigo,23500,45800
+Salta,1998.0,maiz,80000,231300
+Salta,1998.0,soja,165000,237100
+Salta,1998.0,sorgo,6000,13200
+Salta,1998.0,trigo,22100,42700
+Salta,1999.0,girasol,1800,3200
+Salta,1999.0,maiz,76500,263500
+Salta,1999.0,soja,260000,660000
+Salta,1999.0,sorgo,6000,22200
+Salta,1999.0,trigo,11400,29000
+Salta,2000.0,maiz,70000,245100
+Salta,2000.0,soja,210000,535700
+Salta,2000.0,sorgo,7000,17500
+Salta,2000.0,trigo,42000,87500
+Salta,2001.0,maiz,61000,165550
+Salta,2001.0,soja,300000,671200
+Salta,2001.0,sorgo,5000,12250
+Salta,2001.0,trigo,60400,65000
+Salta,2002.0,maiz,38000,144000
+Salta,2002.0,soja,329980,750000
+Salta,2002.0,sorgo,2000,5250
+Salta,2002.0,trigo,95000,126280
+Salta,2003.0,maiz,38000,124000
+Salta,2003.0,soja,320500,743000
+Salta,2003.0,sorgo,1000,2400
+Salta,2003.0,trigo,110000,105400
+Salta,2004.0,maiz,43000,141500
+Salta,2004.0,soja,437000,821200
+Salta,2004.0,trigo,100000,109250
+Salta,2005.0,maiz,43000,120000
+Salta,2005.0,soja,466548,733750
+Salta,2005.0,trigo,125000,139450
+Salta,2006.0,maiz,43000,179850
+Salta,2006.0,soja,477000,1367338
+Salta,2006.0,trigo,90000,56150
+Salta,2007.0,maiz,48000,225100
+Salta,2007.0,soja,477000,1361000
+Salta,2007.0,trigo,125000,191660
+Salta,2008.0,maiz,48000,216000
+Salta,2008.0,soja,477000,1450000
+Salta,2008.0,trigo,130000,182480
+Salta,2009.0,maiz,46600,187440
+Salta,2009.0,soja,575300,1311296
+Salta,2009.0,trigo,162450,225820
+Salta,2010.0,maiz,71350,352300
+Salta,2010.0,soja,586385,1662913
+Salta,2010.0,trigo,163400,156220
+Salta,2011.0,maiz,148185,754520
+Salta,2011.0,soja,599515,1775489
+Salta,2011.0,trigo,193260,241200
+Salta,2012.0,maiz,156025,788310
+Salta,2012.0,soja,600015,668035
+Salta,2012.0,trigo,193260,248280
+Salta,2013.0,maiz,161955,144650
+Salta,2013.0,soja,557760,267607
+Salta,2013.0,trigo,161464,139750
+Salta,2014.0,maiz,188020,957210
+Salta,2014.0,soja,492405,869009
+Salta,2014.0,trigo,13695,28400
+Salta,2015.0,maiz,252910,1337020
+Salta,2015.0,soja,439988,1145936
+Salta,2015.0,trigo,30125,17880
+Salta,2016.0,maiz,313750,1655739
+Salta,2016.0,soja,423757,872479
+Salta,2016.0,trigo,92442,131110
+Salta,2017.0,maiz,262150,1521555
+Salta,2017.0,soja,463800,1114335
+Salta,2017.0,trigo,75900,89181
+Salta,2018.0,maiz,273200,1508597
+Salta,2018.0,soja,466320,1041705
+Salta,2018.0,trigo,116620,123566
+Salta,2019.0,maiz,287333,1827097
+Salta,2019.0,soja,439512,1186684
+Salta,2019.0,trigo,82403,78103
+Salta,2020.0,girasol,625,1327
+Salta,2020.0,maiz,303655,1878683
+Salta,2020.0,soja,390409,955757
+Salta,2020.0,sorgo,10000,27676
+Salta,2020.0,trigo,87028,129701
+Salta,2021.0,girasol,1365,2208
+Salta,2021.0,maiz,309437,1929840
+Salta,2021.0,soja,334717,895575
+Salta,2021.0,sorgo,54885,98336
+Salta,2021.0,trigo,78180,89512
+Salta,2022.0,girasol,1690,2060
+Salta,2022.0,maiz,322160,1886963
+Salta,2022.0,soja,317643,538034
+Salta,2022.0,sorgo,30668,42514
+Salta,2022.0,trigo,87986,95629
+Salta,2023.0,girasol,1470,1813
+Salta,2023.0,maiz,378550,2028790
+Salta,2023.0,soja,309661,522675
+Salta,2023.0,sorgo,25955,44518
+Salta,2023.0,trigo,60010,69973
+Salta,2024.0,girasol,709,960
+Salta,2024.0,maiz,409000,1614972
+Salta,2024.0,soja,310040,700259
+Salta,2024.0,sorgo,38858,112369
+Salta,2024.0,trigo,50248,52393
+Salta,2025.0,girasol,459,494
+Salta,2025.0,maiz,284391,1570901
+Salta,2025.0,soja,308223,740812
+Salta,2025.0,sorgo,36075,79240
+Salta,2025.0,trigo,57903,78665
+San Juan,1970.0,maiz,885,300
+San Juan,1970.0,trigo,900,1170
+San Juan,1971.0,maiz,800,0
+San Juan,1971.0,trigo,900,800
+San Juan,1972.0,maiz,716,200
+San Juan,1972.0,trigo,780,900
+San Juan,1973.0,maiz,1265,310
+San Juan,1973.0,trigo,650,1200
+San Juan,1974.0,maiz,1300,300
+San Juan,1974.0,trigo,650,1290
+San Juan,1975.0,maiz,1500,400
+San Juan,1975.0,trigo,695,1380
+San Juan,1976.0,maiz,1190,280
+San Juan,1976.0,trigo,694,1380
+San Juan,1977.0,maiz,1000,1000
+San Juan,1977.0,trigo,690,1370
+San Juan,1978.0,maiz,2000,500
+San Juan,1978.0,trigo,500,700
+San Juan,1979.0,maiz,2000,500
+San Juan,1979.0,trigo,400,800
+San Juan,1980.0,maiz,2000,500
+San Juan,1980.0,trigo,380,730
+San Juan,1981.0,maiz,1900,380
+San Juan,1981.0,trigo,170,260
+San Juan,1982.0,maiz,1500,360
+San Juan,1982.0,trigo,300,460
+San Juan,1983.0,maiz,1500,1610
+San Juan,1983.0,trigo,500,650
+San Juan,1984.0,maiz,3000,3500
+San Juan,1984.0,trigo,700,1110
+San Juan,1985.0,maiz,2000,3000
+San Juan,1985.0,trigo,685,1000
+San Juan,1986.0,trigo,520,820
+San Juan,1988.0,maiz,1100,5600
+San Juan,1989.0,maiz,1200,5700
+San Juan,1990.0,maiz,500,1400
+San Luis,1970.0,girasol,25300,17500
+San Luis,1970.0,maiz,255500,222100
+San Luis,1970.0,sorgo,27500,14400
+San Luis,1970.0,trigo,8800,2970
+San Luis,1971.0,girasol,28600,13200
+San Luis,1971.0,maiz,277500,173300
+San Luis,1971.0,sorgo,33700,17330
+San Luis,1971.0,trigo,8800,1050
+San Luis,1972.0,girasol,26600,8400
+San Luis,1972.0,maiz,244600,60000
+San Luis,1972.0,sorgo,29950,7150
+San Luis,1972.0,trigo,7400,0
+San Luis,1973.0,girasol,39800,20300
+San Luis,1973.0,maiz,263600,310000
+San Luis,1973.0,sorgo,49900,32000
+San Luis,1973.0,trigo,6600,1700
+San Luis,1974.0,girasol,41050,41000
+San Luis,1974.0,maiz,266900,280000
+San Luis,1974.0,soja,1500,1640
+San Luis,1974.0,sorgo,51500,50000
+San Luis,1974.0,trigo,8250,8970
+San Luis,1975.0,girasol,37800,25200
+San Luis,1975.0,maiz,262000,184000
+San Luis,1975.0,soja,980,530
+San Luis,1975.0,sorgo,55350,55600
+San Luis,1975.0,trigo,15400,20400
+San Luis,1976.0,girasol,21700,10700
+San Luis,1976.0,maiz,262000,81500
+San Luis,1976.0,sorgo,57200,19000
+San Luis,1976.0,trigo,18600,33000
+San Luis,1977.0,girasol,22700,18000
+San Luis,1977.0,maiz,220000,310000
+San Luis,1977.0,sorgo,70000,90000
+San Luis,1977.0,trigo,17900,22800
+San Luis,1978.0,girasol,32000,11000
+San Luis,1978.0,maiz,137000,160000
+San Luis,1978.0,sorgo,24500,34000
+San Luis,1978.0,trigo,5800,0
+San Luis,1979.0,girasol,35300,22000
+San Luis,1979.0,maiz,149000,276000
+San Luis,1979.0,sorgo,40000,85600
+San Luis,1979.0,trigo,3000,0
+San Luis,1980.0,girasol,52000,31000
+San Luis,1980.0,maiz,211000,356000
+San Luis,1980.0,sorgo,29500,14100
+San Luis,1980.0,trigo,13000,9000
+San Luis,1981.0,girasol,27600,20400
+San Luis,1981.0,maiz,259400,378000
+San Luis,1981.0,soja,380,500
+San Luis,1981.0,sorgo,43800,126600
+San Luis,1981.0,trigo,6300,500
+San Luis,1982.0,girasol,29700,25000
+San Luis,1982.0,maiz,275800,520000
+San Luis,1982.0,sorgo,47200,115000
+San Luis,1982.0,trigo,4000,1600
+San Luis,1983.0,girasol,36200,27000
+San Luis,1983.0,maiz,280000,533500
+San Luis,1983.0,soja,550,720
+San Luis,1983.0,sorgo,50800,127000
+San Luis,1983.0,trigo,5600,6200
+San Luis,1984.0,girasol,35000,34700
+San Luis,1984.0,maiz,320000,640000
+San Luis,1984.0,soja,1100,1500
+San Luis,1984.0,sorgo,88000,115000
+San Luis,1984.0,trigo,5500,7000
+San Luis,1985.0,girasol,38000,40300
+San Luis,1985.0,maiz,243000,637000
+San Luis,1985.0,soja,450,740
+San Luis,1985.0,sorgo,34400,98000
+San Luis,1985.0,trigo,8700,15000
+San Luis,1986.0,girasol,32000,37500
+San Luis,1986.0,maiz,280000,348000
+San Luis,1986.0,soja,400,690
+San Luis,1986.0,sorgo,30000,56900
+San Luis,1986.0,trigo,9460,16400
+San Luis,1987.0,girasol,16000,11200
+San Luis,1987.0,maiz,200000,190000
+San Luis,1987.0,sorgo,30000,72000
+San Luis,1987.0,trigo,3000,2400
+San Luis,1988.0,girasol,38000,37000
+San Luis,1988.0,maiz,156700,286900
+San Luis,1988.0,soja,150,200
+San Luis,1988.0,sorgo,22000,47000
+San Luis,1988.0,trigo,2500,2300
+San Luis,1989.0,girasol,42000,33800
+San Luis,1989.0,maiz,110000,51100
+San Luis,1989.0,sorgo,15000,25000
+San Luis,1989.0,trigo,4800,3000
+San Luis,1990.0,girasol,32000,13000
+San Luis,1990.0,maiz,85000,86700
+San Luis,1990.0,soja,500,400
+San Luis,1990.0,sorgo,20000,37000
+San Luis,1990.0,trigo,8500,5200
+San Luis,1991.0,girasol,31000,33000
+San Luis,1991.0,maiz,64000,109400
+San Luis,1991.0,soja,200,400
+San Luis,1991.0,sorgo,15000,38200
+San Luis,1991.0,trigo,8800,5000
+San Luis,1992.0,girasol,34000,22600
+San Luis,1992.0,maiz,70000,73500
+San Luis,1992.0,sorgo,15800,58500
+San Luis,1992.0,trigo,7000,11600
+San Luis,1993.0,girasol,10000,9000
+San Luis,1993.0,maiz,50000,90000
+San Luis,1993.0,sorgo,32000,112000
+San Luis,1994.0,girasol,20000,24700
+San Luis,1994.0,maiz,60000,79800
+San Luis,1994.0,sorgo,30000,57000
+San Luis,1995.0,girasol,43000,58800
+San Luis,1995.0,maiz,78000,46200
+San Luis,1995.0,sorgo,36000,54600
+San Luis,1995.0,trigo,1200,1200
+San Luis,1996.0,girasol,48000,24000
+San Luis,1996.0,maiz,78000,46900
+San Luis,1996.0,sorgo,36000,126000
+San Luis,1996.0,trigo,1200,400
+San Luis,1997.0,girasol,30000,16900
+San Luis,1997.0,maiz,78000,35100
+San Luis,1997.0,sorgo,38000,54000
+San Luis,1997.0,trigo,2800,2300
+San Luis,1998.0,girasol,30000,34200
+San Luis,1998.0,maiz,50000,101900
+San Luis,1998.0,sorgo,36000,144000
+San Luis,1998.0,trigo,1500,700
+San Luis,1999.0,girasol,42500,57500
+San Luis,1999.0,maiz,50000,101600
+San Luis,1999.0,soja,3500,4200
+San Luis,1999.0,sorgo,36000,144000
+San Luis,1999.0,trigo,1400,1800
+San Luis,2000.0,girasol,42500,63800
+San Luis,2000.0,maiz,57000,210900
+San Luis,2000.0,soja,8000,12800
+San Luis,2000.0,sorgo,36000,162000
+San Luis,2000.0,trigo,4200,5300
+San Luis,2001.0,girasol,36000,50000
+San Luis,2001.0,maiz,57000,179550
+San Luis,2001.0,soja,10000,10800
+San Luis,2001.0,sorgo,36000,162000
+San Luis,2001.0,trigo,4000,5600
+San Luis,2002.0,girasol,36000,82800
+San Luis,2002.0,maiz,57000,296400
+San Luis,2002.0,soja,14000,40600
+San Luis,2002.0,sorgo,36000,216000
+San Luis,2002.0,trigo,5200,7300
+San Luis,2003.0,girasol,41400,47000
+San Luis,2003.0,maiz,57000,199500
+San Luis,2003.0,soja,25000,45000
+San Luis,2003.0,sorgo,36000,216000
+San Luis,2003.0,trigo,5500,5500
+San Luis,2004.0,girasol,16000,20000
+San Luis,2004.0,maiz,100000,260000
+San Luis,2004.0,soja,35000,57750
+San Luis,2004.0,sorgo,36000,180000
+San Luis,2004.0,trigo,5000,1000
+San Luis,2005.0,girasol,75000,135000
+San Luis,2005.0,maiz,80000,392000
+San Luis,2005.0,soja,25246,51290
+San Luis,2005.0,sorgo,36000,255600
+San Luis,2005.0,trigo,5000,10000
+San Luis,2006.0,girasol,75000,55600
+San Luis,2006.0,maiz,57000,126000
+San Luis,2006.0,soja,50000,48781
+San Luis,2006.0,sorgo,36000,128000
+San Luis,2006.0,trigo,4800,7680
+San Luis,2007.0,girasol,88000,166460
+San Luis,2007.0,maiz,65200,193300
+San Luis,2007.0,soja,83000,176020
+San Luis,2007.0,sorgo,32300,143510
+San Luis,2007.0,trigo,4130,5640
+San Luis,2008.0,girasol,107000,206900
+San Luis,2008.0,maiz,113600,253760
+San Luis,2008.0,soja,105000,257950
+San Luis,2008.0,sorgo,40450,106830
+San Luis,2008.0,trigo,4200,8470
+San Luis,2009.0,girasol,78000,147300
+San Luis,2009.0,maiz,86200,326000
+San Luis,2009.0,soja,125000,295900
+San Luis,2009.0,sorgo,21750,36080
+San Luis,2009.0,trigo,7600,17330
+San Luis,2010.0,girasol,28100,41650
+San Luis,2010.0,maiz,82300,329430
+San Luis,2010.0,soja,155000,268300
+San Luis,2010.0,sorgo,14850,42130
+San Luis,2010.0,trigo,2850,6180
+San Luis,2011.0,girasol,30900,53160
+San Luis,2011.0,maiz,140000,618610
+San Luis,2011.0,soja,171400,402420
+San Luis,2011.0,sorgo,27300,92520
+San Luis,2011.0,trigo,5850,14550
+San Luis,2012.0,girasol,32550,54970
+San Luis,2012.0,maiz,155000,485590
+San Luis,2012.0,soja,170700,296890
+San Luis,2012.0,sorgo,32000,86300
+San Luis,2012.0,trigo,4600,13590
+San Luis,2013.0,girasol,29290,49750
+San Luis,2013.0,maiz,348480,1437600
+San Luis,2013.0,soja,398790,678444
+San Luis,2013.0,sorgo,33548,102210
+San Luis,2013.0,trigo,2790,7740
+San Luis,2014.0,girasol,25600,45680
+San Luis,2014.0,maiz,209950,848760
+San Luis,2014.0,soja,354730,848815
+San Luis,2014.0,sorgo,31700,107030
+San Luis,2014.0,trigo,4180,10940
+San Luis,2015.0,girasol,14300,32550
+San Luis,2015.0,maiz,281000,1600020
+San Luis,2015.0,soja,343500,962870
+San Luis,2015.0,sorgo,30900,95860
+San Luis,2015.0,trigo,8450,16660
+San Luis,2016.0,girasol,10000,24950
+San Luis,2016.0,maiz,300300,1812937
+San Luis,2016.0,soja,396926,1228333
+San Luis,2016.0,sorgo,26300,45110
+San Luis,2016.0,trigo,18380,38130
+San Luis,2017.0,girasol,8450,18515
+San Luis,2017.0,maiz,377800,2500970
+San Luis,2017.0,soja,307340,837463
+San Luis,2017.0,sorgo,13700,30000
+San Luis,2017.0,trigo,24200,56160
+San Luis,2018.0,girasol,7900,16110
+San Luis,2018.0,maiz,378050,1382626
+San Luis,2018.0,soja,325750,701480
+San Luis,2018.0,sorgo,12650,15000
+San Luis,2018.0,trigo,29590,72273
+San Luis,2019.0,girasol,11400,22790
+San Luis,2019.0,maiz,399800,1879100
+San Luis,2019.0,soja,308500,668660
+San Luis,2019.0,sorgo,12050,17050
+San Luis,2019.0,trigo,17950,23690
+San Luis,2020.0,girasol,15700,27750
+San Luis,2020.0,maiz,375500,1327270
+San Luis,2020.0,soja,296300,379245
+San Luis,2020.0,sorgo,14750,27370
+San Luis,2020.0,trigo,19250,37150
+San Luis,2021.0,girasol,47600,79710
+San Luis,2021.0,maiz,405900,2254390
+San Luis,2021.0,soja,198000,471280
+San Luis,2021.0,sorgo,22050,71285
+San Luis,2021.0,trigo,15625,17440
+San Luis,2022.0,girasol,83700,153625
+San Luis,2022.0,maiz,440100,1877200
+San Luis,2022.0,soja,218200,487250
+San Luis,2022.0,sorgo,24350,62400
+San Luis,2022.0,trigo,19800,43020
+San Luis,2023.0,girasol,97100,165110
+San Luis,2023.0,maiz,400700,1153995
+San Luis,2023.0,soja,222400,314120
+San Luis,2023.0,sorgo,19200,27955
+San Luis,2023.0,trigo,10200,14250
+San Luis,2024.0,girasol,64350,115140
+San Luis,2024.0,maiz,497800,2024685
+San Luis,2024.0,soja,229800,410105
+San Luis,2024.0,sorgo,21000,45026
+San Luis,2024.0,trigo,9450,22585
+San Luis,2025.0,girasol,111000,200290
+San Luis,2025.0,maiz,463850,2243830
+San Luis,2025.0,soja,215850,410091
+San Luis,2025.0,sorgo,22150,44125
+San Luis,2025.0,trigo,13350,39525
+Santa Cruz,1970.0,trigo,150,150
+Santa Cruz,1971.0,trigo,200,0
+Santa Cruz,1972.0,trigo,140,0
+Santa Cruz,1973.0,trigo,140,0
+Santa Cruz,1974.0,trigo,150,0
+Santa Cruz,1975.0,trigo,160,0
+Santa Cruz,1976.0,trigo,169,0
+Santa Cruz,1977.0,trigo,190,0
+Santa Cruz,1978.0,trigo,200,0
+Santa Cruz,1979.0,trigo,200,0
+Santa Cruz,1980.0,trigo,110,0
+Santa Fe,1970.0,girasol,250400,197900
+Santa Fe,1970.0,maiz,1005000,2760000
+Santa Fe,1970.0,soja,8800,7200
+Santa Fe,1970.0,sorgo,632000,868000
+Santa Fe,1970.0,trigo,629000,598600
+Santa Fe,1971.0,girasol,270000,175000
+Santa Fe,1971.0,maiz,1090000,3040000
+Santa Fe,1971.0,soja,10500,17000
+Santa Fe,1971.0,sorgo,730000,966000
+Santa Fe,1971.0,trigo,586000,882000
+Santa Fe,1972.0,girasol,300000,160200
+Santa Fe,1972.0,maiz,1175000,2070000
+Santa Fe,1972.0,soja,37000,40300
+Santa Fe,1972.0,sorgo,740000,590000
+Santa Fe,1972.0,trigo,740000,970000
+Santa Fe,1973.0,girasol,325000,135000
+Santa Fe,1973.0,maiz,991000,2910000
+Santa Fe,1973.0,soja,100000,190000
+Santa Fe,1973.0,sorgo,700000,1038000
+Santa Fe,1973.0,trigo,875000,1210000
+Santa Fe,1974.0,girasol,161000,88000
+Santa Fe,1974.0,maiz,872000,2700000
+Santa Fe,1974.0,soja,190000,225000
+Santa Fe,1974.0,sorgo,660000,1000000
+Santa Fe,1974.0,trigo,637500,1060000
+Santa Fe,1975.0,girasol,164000,86600
+Santa Fe,1975.0,maiz,828000,2253000
+Santa Fe,1975.0,soja,216000,285000
+Santa Fe,1975.0,sorgo,480000,790000
+Santa Fe,1975.0,trigo,672000,876000
+Santa Fe,1976.0,girasol,197000,161000
+Santa Fe,1976.0,maiz,860000,1382000
+Santa Fe,1976.0,soja,250000,434000
+Santa Fe,1976.0,sorgo,440000,1050000
+Santa Fe,1976.0,trigo,759000,1615000
+Santa Fe,1977.0,girasol,260000,128000
+Santa Fe,1977.0,maiz,470000,1850000
+Santa Fe,1977.0,soja,435000,970000
+Santa Fe,1977.0,sorgo,530000,1230000
+Santa Fe,1977.0,trigo,960000,1780000
+Santa Fe,1978.0,girasol,300000,200000
+Santa Fe,1978.0,maiz,470000,2200000
+Santa Fe,1978.0,soja,736500,1640000
+Santa Fe,1978.0,sorgo,534000,1225000
+Santa Fe,1978.0,trigo,710000,1050000
+Santa Fe,1979.0,girasol,233000,150000
+Santa Fe,1979.0,maiz,519000,2100000
+Santa Fe,1979.0,soja,879000,2180000
+Santa Fe,1979.0,sorgo,480000,1058000
+Santa Fe,1979.0,trigo,760000,1350000
+Santa Fe,1980.0,girasol,193000,155000
+Santa Fe,1980.0,maiz,460000,1515000
+Santa Fe,1980.0,soja,1000000,1720000
+Santa Fe,1980.0,sorgo,394000,796000
+Santa Fe,1980.0,trigo,842000,1700000
+Santa Fe,1981.0,girasol,161000,128000
+Santa Fe,1981.0,maiz,541000,2505000
+Santa Fe,1981.0,soja,920900,1808000
+Santa Fe,1981.0,sorgo,416000,1115000
+Santa Fe,1981.0,trigo,960000,1594000
+Santa Fe,1982.0,girasol,125500,140000
+Santa Fe,1982.0,maiz,530000,2000000
+Santa Fe,1982.0,soja,898000,1952000
+Santa Fe,1982.0,sorgo,396000,1477000
+Santa Fe,1982.0,trigo,1073000,1900000
+Santa Fe,1983.0,girasol,153000,187000
+Santa Fe,1983.0,maiz,523000,1630000
+Santa Fe,1983.0,soja,905000,1420000
+Santa Fe,1983.0,sorgo,441000,1330000
+Santa Fe,1983.0,trigo,1140000,2390000
+Santa Fe,1984.0,girasol,143000,160000
+Santa Fe,1984.0,maiz,465000,1270000
+Santa Fe,1984.0,soja,1070000,2697000
+Santa Fe,1984.0,sorgo,438400,1000000
+Santa Fe,1984.0,trigo,1030000,2060000
+Santa Fe,1985.0,girasol,165000,245000
+Santa Fe,1985.0,maiz,441000,1780000
+Santa Fe,1985.0,soja,1260000,2700000
+Santa Fe,1985.0,sorgo,380000,1072000
+Santa Fe,1985.0,trigo,853000,2050000
+Santa Fe,1986.0,girasol,250000,360000
+Santa Fe,1986.0,maiz,467000,2170000
+Santa Fe,1986.0,soja,1297000,3001000
+Santa Fe,1986.0,sorgo,229000,623000
+Santa Fe,1986.0,trigo,846000,1410000
+Santa Fe,1987.0,girasol,154000,200000
+Santa Fe,1987.0,maiz,486000,1823000
+Santa Fe,1987.0,soja,1420000,2706000
+Santa Fe,1987.0,sorgo,146500,448800
+Santa Fe,1987.0,trigo,736000,1330000
+Santa Fe,1988.0,girasol,160000,260000
+Santa Fe,1988.0,maiz,330000,1403000
+Santa Fe,1988.0,soja,1700000,4000000
+Santa Fe,1988.0,sorgo,142700,515000
+Santa Fe,1988.0,trigo,805000,1810000
+Santa Fe,1989.0,girasol,200000,280000
+Santa Fe,1989.0,maiz,300000,500000
+Santa Fe,1989.0,soja,1780000,2230000
+Santa Fe,1989.0,sorgo,135000,275000
+Santa Fe,1989.0,trigo,850000,1650000
+Santa Fe,1990.0,girasol,276000,400000
+Santa Fe,1990.0,maiz,201000,503000
+Santa Fe,1990.0,soja,1940000,4300000
+Santa Fe,1990.0,sorgo,168000,465000
+Santa Fe,1990.0,trigo,822000,1430000
+Santa Fe,1991.0,girasol,293100,451800
+Santa Fe,1991.0,maiz,238600,1089000
+Santa Fe,1991.0,soja,1987000,4643800
+Santa Fe,1991.0,sorgo,111700,369700
+Santa Fe,1991.0,trigo,935200,1936300
+Santa Fe,1992.0,girasol,347600,429100
+Santa Fe,1992.0,maiz,327700,1790400
+Santa Fe,1992.0,soja,1991000,4840800
+Santa Fe,1992.0,sorgo,112200,369600
+Santa Fe,1992.0,trigo,666000,1545400
+Santa Fe,1993.0,girasol,252800,289600
+Santa Fe,1993.0,maiz,392200,2161000
+Santa Fe,1993.0,soja,1931700,4398500
+Santa Fe,1993.0,sorgo,96200,325600
+Santa Fe,1993.0,trigo,713200,1909400
+Santa Fe,1994.0,girasol,154300,276200
+Santa Fe,1994.0,maiz,363300,1966400
+Santa Fe,1994.0,soja,2192300,5163600
+Santa Fe,1994.0,sorgo,77100,267600
+Santa Fe,1994.0,trigo,870500,1723900
+Santa Fe,1995.0,girasol,197000,381500
+Santa Fe,1995.0,maiz,364900,2043300
+Santa Fe,1995.0,soja,2360650,5650097
+Santa Fe,1995.0,sorgo,71500,286900
+Santa Fe,1995.0,trigo,863000,1832000
+Santa Fe,1996.0,girasol,214800,404660
+Santa Fe,1996.0,maiz,442800,2293100
+Santa Fe,1996.0,soja,2441300,5705900
+Santa Fe,1996.0,sorgo,92800,385000
+Santa Fe,1996.0,trigo,761100,1435100
+Santa Fe,1997.0,girasol,232000,368200
+Santa Fe,1997.0,maiz,558900,2326800
+Santa Fe,1997.0,soja,2543200,4163900
+Santa Fe,1997.0,sorgo,124900,436800
+Santa Fe,1997.0,trigo,1098700,2388700
+Santa Fe,1998.0,girasol,283000,354300
+Santa Fe,1998.0,maiz,479300,3133600
+Santa Fe,1998.0,soja,2608500,7310500
+Santa Fe,1998.0,sorgo,161600,823545
+Santa Fe,1998.0,trigo,855700,1509200
+Santa Fe,1999.0,girasol,284300,554000
+Santa Fe,1999.0,maiz,446800,2556200
+Santa Fe,1999.0,soja,2753800,7300000
+Santa Fe,1999.0,sorgo,182550,850600
+Santa Fe,1999.0,trigo,755000,1927400
+Santa Fe,2000.0,girasol,255350,365400
+Santa Fe,2000.0,maiz,492500,2521860
+Santa Fe,2000.0,soja,2873550,6637500
+Santa Fe,2000.0,sorgo,166050,713580
+Santa Fe,2000.0,trigo,930400,2754000
+Santa Fe,2001.0,girasol,117250,189260
+Santa Fe,2001.0,maiz,433000,2531270
+Santa Fe,2001.0,soja,3117150,8657700
+Santa Fe,2001.0,sorgo,153000,697080
+Santa Fe,2001.0,trigo,1005100,2233850
+Santa Fe,2002.0,girasol,120050,208120
+Santa Fe,2002.0,maiz,359800,2083370
+Santa Fe,2002.0,soja,3212300,8350300
+Santa Fe,2002.0,sorgo,155300,690080
+Santa Fe,2002.0,trigo,1098000,2138330
+Santa Fe,2003.0,girasol,152200,208400
+Santa Fe,2003.0,maiz,369500,1909140
+Santa Fe,2003.0,soja,3319000,10223500
+Santa Fe,2003.0,sorgo,181100,809670
+Santa Fe,2003.0,trigo,836000,1651300
+Santa Fe,2004.0,girasol,141360,274619
+Santa Fe,2004.0,maiz,390550,2558860
+Santa Fe,2004.0,soja,3558000,9141950
+Santa Fe,2004.0,sorgo,169800,768600
+Santa Fe,2004.0,trigo,685200,1897970
+Santa Fe,2005.0,girasol,124800,218550
+Santa Fe,2005.0,maiz,422900,3006660
+Santa Fe,2005.0,soja,3531099,10448196
+Santa Fe,2005.0,sorgo,180100,888210
+Santa Fe,2005.0,trigo,678985,1752580
+Santa Fe,2006.0,girasol,164900,320650
+Santa Fe,2006.0,maiz,372045,1984720
+Santa Fe,2006.0,soja,3553290,10275416
+Santa Fe,2006.0,sorgo,147640,539140
+Santa Fe,2006.0,trigo,589450,1847240
+Santa Fe,2007.0,girasol,192800,301540
+Santa Fe,2007.0,maiz,375370,2635120
+Santa Fe,2007.0,soja,3474600,11295735
+Santa Fe,2007.0,sorgo,171350,736650
+Santa Fe,2007.0,trigo,707700,1995600
+Santa Fe,2008.0,girasol,243300,477315
+Santa Fe,2008.0,maiz,453600,2538680
+Santa Fe,2008.0,soja,3492200,11479999
+Santa Fe,2008.0,sorgo,184000,577470
+Santa Fe,2008.0,trigo,753920,2653620
+Santa Fe,2009.0,girasol,234100,184140
+Santa Fe,2009.0,maiz,365300,1601660
+Santa Fe,2009.0,soja,3440863,8061892
+Santa Fe,2009.0,trigo,351280,519850
+Santa Fe,2010.0,girasol,179375,131812
+Santa Fe,2010.0,maiz,491850,4006170
+Santa Fe,2010.0,soja,3514279,12032550
+Santa Fe,2010.0,sorgo,193100,836680
+Santa Fe,2010.0,trigo,317160,993980
+Santa Fe,2011.0,girasol,173875,293815
+Santa Fe,2011.0,maiz,567423,3656820
+Santa Fe,2011.0,soja,3107737,9741349
+Santa Fe,2011.0,sorgo,188012,743830
+Santa Fe,2011.0,trigo,444280,1826500
+Santa Fe,2012.0,girasol,182000,301570
+Santa Fe,2012.0,maiz,648400,3830970
+Santa Fe,2012.0,soja,3107800,8176630
+Santa Fe,2012.0,sorgo,188900,651890
+Santa Fe,2012.0,trigo,433200,1533870
+Santa Fe,2013.0,girasol,182500,294390
+Santa Fe,2013.0,maiz,699200,5463970
+Santa Fe,2013.0,soja,3128500,10383917
+Santa Fe,2013.0,sorgo,186700,724140
+Santa Fe,2013.0,trigo,502864,1369100
+Santa Fe,2014.0,girasol,158000,244820
+Santa Fe,2014.0,maiz,541900,3708460
+Santa Fe,2014.0,soja,3254768,9958834
+Santa Fe,2014.0,sorgo,148430,536410
+Santa Fe,2014.0,trigo,643950,1332640
+Santa Fe,2015.0,girasol,152100,237725
+Santa Fe,2015.0,maiz,685850,4370455
+Santa Fe,2015.0,soja,3224550,11804131
+Santa Fe,2015.0,sorgo,145300,500350
+Santa Fe,2015.0,trigo,925000,2519010
+Santa Fe,2016.0,girasol,116950,217470
+Santa Fe,2016.0,maiz,629170,3942387
+Santa Fe,2016.0,soja,3468912,8317217
+Santa Fe,2016.0,sorgo,135200,404560
+Santa Fe,2016.0,trigo,647130,1872210
+Santa Fe,2017.0,girasol,204800,346230
+Santa Fe,2017.0,maiz,890800,5802581
+Santa Fe,2017.0,soja,2957363,9762280
+Santa Fe,2017.0,sorgo,113030,357090
+Santa Fe,2017.0,trigo,943900,2911327
+Santa Fe,2018.0,girasol,229600,474156
+Santa Fe,2018.0,maiz,1074413,5179679
+Santa Fe,2018.0,soja,3011720,6852404
+Santa Fe,2018.0,sorgo,104030,195790
+Santa Fe,2018.0,trigo,978535,3266141
+Santa Fe,2019.0,girasol,266884,432659
+Santa Fe,2019.0,maiz,923800,5910470
+Santa Fe,2019.0,soja,2838202,10520091
+Santa Fe,2019.0,sorgo,85774,201256
+Santa Fe,2019.0,trigo,1111924,3304693
+Santa Fe,2020.0,girasol,210800,426328
+Santa Fe,2020.0,maiz,1120960,7370856
+Santa Fe,2020.0,soja,3007360,9399967
+Santa Fe,2020.0,sorgo,97130,363345
+Santa Fe,2020.0,trigo,1300500,4186876
+Santa Fe,2021.0,girasol,232400,417930
+Santa Fe,2021.0,maiz,1097830,7122440
+Santa Fe,2021.0,soja,3038334,9280032
+Santa Fe,2021.0,sorgo,180980,679100
+Santa Fe,2021.0,trigo,1326620,2658120
+Santa Fe,2022.0,girasol,226370,504746
+Santa Fe,2022.0,maiz,1289094,5774668
+Santa Fe,2022.0,soja,2877651,8272320
+Santa Fe,2022.0,sorgo,193416,593653
+Santa Fe,2022.0,trigo,1297269,5030544
+Santa Fe,2023.0,girasol,388015,601203
+Santa Fe,2023.0,maiz,1261512,2777749
+Santa Fe,2023.0,soja,2873207,3829670
+Santa Fe,2023.0,sorgo,157243,303373
+Santa Fe,2023.0,trigo,953175,1954134
+Santa Fe,2024.0,girasol,210300,336140
+Santa Fe,2024.0,maiz,1239380,6755795
+Santa Fe,2024.0,soja,3060735,10796728
+Santa Fe,2024.0,sorgo,195948,662098
+Santa Fe,2024.0,trigo,1117257,2781780
+Santa Fe,2025.0,girasol,341647,751489
+Santa Fe,2025.0,maiz,781643,5219638
+Santa Fe,2025.0,soja,3389223,11463852
+Santa Fe,2025.0,sorgo,222702,584775
+Santa Fe,2025.0,trigo,1263491,3494812
+Santiago del Estero,1970.0,girasol,1000,400
+Santiago del Estero,1970.0,maiz,91800,71600
+Santiago del Estero,1970.0,sorgo,21400,18900
+Santiago del Estero,1970.0,trigo,40070,31726
+Santiago del Estero,1971.0,girasol,970,470
+Santiago del Estero,1971.0,maiz,101950,114300
+Santiago del Estero,1971.0,sorgo,24250,18000
+Santiago del Estero,1971.0,trigo,43100,49200
+Santiago del Estero,1972.0,girasol,950,200
+Santiago del Estero,1972.0,maiz,108900,34800
+Santiago del Estero,1972.0,sorgo,25100,2870
+Santiago del Estero,1972.0,trigo,50000,51900
+Santiago del Estero,1973.0,girasol,900,400
+Santiago del Estero,1973.0,maiz,82100,44300
+Santiago del Estero,1973.0,sorgo,30300,9000
+Santiago del Estero,1973.0,trigo,39100,11600
+Santiago del Estero,1974.0,girasol,920,200
+Santiago del Estero,1974.0,maiz,82200,35800
+Santiago del Estero,1974.0,soja,800,280
+Santiago del Estero,1974.0,sorgo,31000,17000
+Santiago del Estero,1974.0,trigo,38000,36000
+Santiago del Estero,1975.0,girasol,700,500
+Santiago del Estero,1975.0,maiz,73600,50000
+Santiago del Estero,1975.0,soja,530,570
+Santiago del Estero,1975.0,sorgo,34500,42500
+Santiago del Estero,1975.0,trigo,33200,44800
+Santiago del Estero,1976.0,girasol,830,440
+Santiago del Estero,1976.0,maiz,77700,78900
+Santiago del Estero,1976.0,soja,290,200
+Santiago del Estero,1976.0,sorgo,36670,41000
+Santiago del Estero,1976.0,trigo,35700,33200
+Santiago del Estero,1977.0,girasol,800,500
+Santiago del Estero,1977.0,maiz,74000,95000
+Santiago del Estero,1977.0,soja,7000,12000
+Santiago del Estero,1977.0,sorgo,50000,70000
+Santiago del Estero,1977.0,trigo,44000,23000
+Santiago del Estero,1978.0,girasol,1100,800
+Santiago del Estero,1978.0,maiz,78000,110000
+Santiago del Estero,1978.0,soja,7600,13000
+Santiago del Estero,1978.0,sorgo,49200,85500
+Santiago del Estero,1978.0,trigo,28000,40000
+Santiago del Estero,1979.0,girasol,1200,1000
+Santiago del Estero,1979.0,maiz,77000,98000
+Santiago del Estero,1979.0,soja,16500,29000
+Santiago del Estero,1979.0,sorgo,50000,86000
+Santiago del Estero,1979.0,trigo,37000,50000
+Santiago del Estero,1980.0,girasol,1840,1400
+Santiago del Estero,1980.0,maiz,68700,115000
+Santiago del Estero,1980.0,soja,43700,86000
+Santiago del Estero,1980.0,sorgo,55700,97000
+Santiago del Estero,1980.0,trigo,34200,41000
+Santiago del Estero,1981.0,girasol,1900,580
+Santiago del Estero,1981.0,maiz,38000,31300
+Santiago del Estero,1981.0,soja,20000,34000
+Santiago del Estero,1981.0,sorgo,111000,137300
+Santiago del Estero,1981.0,trigo,27700,27600
+Santiago del Estero,1982.0,girasol,3100,2700
+Santiago del Estero,1982.0,maiz,34860,63000
+Santiago del Estero,1982.0,soja,21000,42000
+Santiago del Estero,1982.0,sorgo,135700,350000
+Santiago del Estero,1982.0,trigo,12000,18390
+Santiago del Estero,1983.0,girasol,3100,2100
+Santiago del Estero,1983.0,maiz,33800,61440
+Santiago del Estero,1983.0,soja,21700,34800
+Santiago del Estero,1983.0,sorgo,177500,468700
+Santiago del Estero,1983.0,trigo,13300,18500
+Santiago del Estero,1984.0,girasol,3100,2300
+Santiago del Estero,1984.0,maiz,33840,45000
+Santiago del Estero,1984.0,soja,32000,66100
+Santiago del Estero,1984.0,sorgo,177500,466300
+Santiago del Estero,1984.0,trigo,12700,18000
+Santiago del Estero,1985.0,girasol,2400,2350
+Santiago del Estero,1985.0,maiz,30000,52500
+Santiago del Estero,1985.0,soja,19400,40100
+Santiago del Estero,1985.0,sorgo,147500,300000
+Santiago del Estero,1985.0,trigo,13700,17000
+Santiago del Estero,1986.0,girasol,10000,10900
+Santiago del Estero,1986.0,maiz,50000,90000
+Santiago del Estero,1986.0,soja,19400,36000
+Santiago del Estero,1986.0,sorgo,130400,398800
+Santiago del Estero,1986.0,trigo,15500,25500
+Santiago del Estero,1987.0,girasol,55000,60000
+Santiago del Estero,1987.0,maiz,65000,100000
+Santiago del Estero,1987.0,soja,100000,100000
+Santiago del Estero,1987.0,sorgo,77900,124350
+Santiago del Estero,1987.0,trigo,4000,4800
+Santiago del Estero,1988.0,girasol,20000,14500
+Santiago del Estero,1988.0,maiz,35800,96400
+Santiago del Estero,1988.0,soja,108000,193000
+Santiago del Estero,1988.0,sorgo,52500,65000
+Santiago del Estero,1988.0,trigo,11140,17000
+Santiago del Estero,1989.0,girasol,10000,5000
+Santiago del Estero,1989.0,maiz,18000,21000
+Santiago del Estero,1989.0,soja,45500,41600
+Santiago del Estero,1989.0,sorgo,48000,60000
+Santiago del Estero,1989.0,trigo,4600,3000
+Santiago del Estero,1990.0,girasol,10000,10000
+Santiago del Estero,1990.0,maiz,30000,50000
+Santiago del Estero,1990.0,soja,70000,122400
+Santiago del Estero,1990.0,sorgo,80000,180000
+Santiago del Estero,1990.0,trigo,8000,12000
+Santiago del Estero,1991.0,girasol,8300,6000
+Santiago del Estero,1991.0,maiz,31600,86400
+Santiago del Estero,1991.0,soja,72500,125400
+Santiago del Estero,1991.0,sorgo,66200,203000
+Santiago del Estero,1991.0,trigo,11000,14300
+Santiago del Estero,1992.0,girasol,4800,4300
+Santiago del Estero,1992.0,maiz,32900,106900
+Santiago del Estero,1992.0,soja,82800,184400
+Santiago del Estero,1992.0,sorgo,66200,199000
+Santiago del Estero,1992.0,trigo,4500,6500
+Santiago del Estero,1993.0,girasol,4600,4700
+Santiago del Estero,1993.0,maiz,45500,157200
+Santiago del Estero,1993.0,soja,80300,159100
+Santiago del Estero,1993.0,sorgo,56700,195700
+Santiago del Estero,1993.0,trigo,5800,11200
+Santiago del Estero,1994.0,girasol,4500,8000
+Santiago del Estero,1994.0,maiz,61000,191600
+Santiago del Estero,1994.0,soja,98100,171700
+Santiago del Estero,1994.0,sorgo,58900,146800
+Santiago del Estero,1994.0,trigo,9700,6800
+Santiago del Estero,1995.0,girasol,15000,25500
+Santiago del Estero,1995.0,maiz,66500,180300
+Santiago del Estero,1995.0,soja,105050,181800
+Santiago del Estero,1995.0,sorgo,60000,191600
+Santiago del Estero,1995.0,trigo,19800,26340
+Santiago del Estero,1996.0,girasol,19100,25600
+Santiago del Estero,1996.0,maiz,81500,223430
+Santiago del Estero,1996.0,soja,94500,155700
+Santiago del Estero,1996.0,sorgo,50200,154800
+Santiago del Estero,1996.0,trigo,11600,7200
+Santiago del Estero,1997.0,girasol,17100,27400
+Santiago del Estero,1997.0,maiz,97500,271400
+Santiago del Estero,1997.0,soja,130000,280500
+Santiago del Estero,1997.0,sorgo,71700,245100
+Santiago del Estero,1997.0,trigo,40000,52700
+Santiago del Estero,1998.0,girasol,13800,11000
+Santiago del Estero,1998.0,maiz,97700,334400
+Santiago del Estero,1998.0,soja,154600,279900
+Santiago del Estero,1998.0,sorgo,68700,224500
+Santiago del Estero,1998.0,trigo,21250,17800
+Santiago del Estero,1999.0,girasol,40000,62300
+Santiago del Estero,1999.0,maiz,114500,241900
+Santiago del Estero,1999.0,soja,280000,520000
+Santiago del Estero,1999.0,sorgo,81100,225200
+Santiago del Estero,1999.0,trigo,43100,95800
+Santiago del Estero,2000.0,girasol,29900,48000
+Santiago del Estero,2000.0,maiz,125500,467060
+Santiago del Estero,2000.0,soja,261500,631400
+Santiago del Estero,2000.0,sorgo,71600,247800
+Santiago del Estero,2000.0,trigo,68000,151000
+Santiago del Estero,2001.0,girasol,28000,25920
+Santiago del Estero,2001.0,maiz,113000,234060
+Santiago del Estero,2001.0,soja,586000,894800
+Santiago del Estero,2001.0,sorgo,83500,222560
+Santiago del Estero,2001.0,trigo,101500,132000
+Santiago del Estero,2002.0,girasol,29500,55400
+Santiago del Estero,2002.0,maiz,83000,252000
+Santiago del Estero,2002.0,soja,659229,1380000
+Santiago del Estero,2002.0,sorgo,45600,155800
+Santiago del Estero,2002.0,trigo,166800,300000
+Santiago del Estero,2003.0,girasol,88500,155000
+Santiago del Estero,2003.0,maiz,72200,247340
+Santiago del Estero,2003.0,soja,654500,1473600
+Santiago del Estero,2003.0,sorgo,58000,223600
+Santiago del Estero,2003.0,trigo,165000,280500
+Santiago del Estero,2004.0,girasol,87500,165800
+Santiago del Estero,2004.0,maiz,75200,276200
+Santiago del Estero,2004.0,soja,679000,1219900
+Santiago del Estero,2004.0,sorgo,56000,196250
+Santiago del Estero,2004.0,trigo,184000,282350
+Santiago del Estero,2005.0,girasol,19700,22090
+Santiago del Estero,2005.0,maiz,81280,210280
+Santiago del Estero,2005.0,soja,630715,713920
+Santiago del Estero,2005.0,sorgo,76900,195350
+Santiago del Estero,2005.0,trigo,130000,74230
+Santiago del Estero,2006.0,girasol,63100,84790
+Santiago del Estero,2006.0,maiz,76750,426400
+Santiago del Estero,2006.0,soja,719580,1572281
+Santiago del Estero,2006.0,sorgo,52300,187390
+Santiago del Estero,2006.0,trigo,159900,175260
+Santiago del Estero,2007.0,girasol,49950,62990
+Santiago del Estero,2007.0,maiz,120300,496710
+Santiago del Estero,2007.0,soja,803380,1974800
+Santiago del Estero,2007.0,sorgo,85000,232510
+Santiago del Estero,2007.0,trigo,191400,203870
+Santiago del Estero,2008.0,girasol,58350,95240
+Santiago del Estero,2008.0,maiz,130230,482800
+Santiago del Estero,2008.0,soja,825900,1549998
+Santiago del Estero,2008.0,sorgo,92550,244840
+Santiago del Estero,2008.0,trigo,76780,63930
+Santiago del Estero,2009.0,girasol,19650,5120
+Santiago del Estero,2009.0,maiz,104640,87210
+Santiago del Estero,2009.0,soja,628660,394082
+Santiago del Estero,2009.0,sorgo,96550,33110
+Santiago del Estero,2009.0,trigo,67840,46910
+Santiago del Estero,2010.0,girasol,7050,4380
+Santiago del Estero,2010.0,maiz,149740,625970
+Santiago del Estero,2010.0,soja,811500,2949636
+Santiago del Estero,2010.0,sorgo,100750,383990
+Santiago del Estero,2010.0,trigo,58080,53170
+Santiago del Estero,2011.0,girasol,34000,55450
+Santiago del Estero,2011.0,maiz,303000,1747630
+Santiago del Estero,2011.0,soja,1100000,2467800
+Santiago del Estero,2011.0,sorgo,301000,1221120
+Santiago del Estero,2011.0,trigo,350000,807300
+Santiago del Estero,2012.0,girasol,29700,47610
+Santiago del Estero,2012.0,maiz,395000,1561380
+Santiago del Estero,2012.0,soja,1073000,873010
+Santiago del Estero,2012.0,sorgo,200000,487870
+Santiago del Estero,2012.0,trigo,363000,683450
+Santiago del Estero,2013.0,girasol,36000,37550
+Santiago del Estero,2013.0,maiz,616500,1699670
+Santiago del Estero,2013.0,soja,1148210,1768179
+Santiago del Estero,2013.0,sorgo,133925,287890
+Santiago del Estero,2013.0,trigo,189750,236900
+Santiago del Estero,2014.0,girasol,8125,7460
+Santiago del Estero,2014.0,maiz,728430,4634110
+Santiago del Estero,2014.0,soja,970350,2737945
+Santiago del Estero,2014.0,sorgo,111225,361230
+Santiago del Estero,2014.0,trigo,51050,12700
+Santiago del Estero,2015.0,girasol,12000,17610
+Santiago del Estero,2015.0,maiz,490200,2407550
+Santiago del Estero,2015.0,soja,869000,1915310
+Santiago del Estero,2015.0,sorgo,116000,308840
+Santiago del Estero,2015.0,trigo,150000,113080
+Santiago del Estero,2016.0,girasol,5700,10300
+Santiago del Estero,2016.0,maiz,672320,4262476
+Santiago del Estero,2016.0,soja,980572,2498134
+Santiago del Estero,2016.0,sorgo,137000,484050
+Santiago del Estero,2016.0,trigo,245550,439420
+Santiago del Estero,2017.0,girasol,45800,71530
+Santiago del Estero,2017.0,maiz,684500,4483905
+Santiago del Estero,2017.0,soja,871840,3159862
+Santiago del Estero,2017.0,sorgo,87600,304490
+Santiago del Estero,2017.0,trigo,328900,545022
+Santiago del Estero,2018.0,girasol,25400,47470
+Santiago del Estero,2018.0,maiz,731890,3661765
+Santiago del Estero,2018.0,soja,894290,2353796
+Santiago del Estero,2018.0,sorgo,81200,151185
+Santiago del Estero,2018.0,trigo,533860,1115157
+Santiago del Estero,2019.0,girasol,97670,222218
+Santiago del Estero,2019.0,maiz,747900,4405979
+Santiago del Estero,2019.0,soja,1028772,3142543
+Santiago del Estero,2019.0,sorgo,85500,218056
+Santiago del Estero,2019.0,trigo,327932,709340
+Santiago del Estero,2020.0,girasol,68454,151461
+Santiago del Estero,2020.0,maiz,811060,5653025
+Santiago del Estero,2020.0,soja,1057280,3377967
+Santiago del Estero,2020.0,sorgo,81000,240331
+Santiago del Estero,2020.0,trigo,500300,1380730
+Santiago del Estero,2021.0,girasol,38540,54443
+Santiago del Estero,2021.0,maiz,744900,5138847
+Santiago del Estero,2021.0,soja,1078150,3603230
+Santiago del Estero,2021.0,sorgo,123800,402233
+Santiago del Estero,2021.0,trigo,395974,468401
+Santiago del Estero,2022.0,girasol,26700,45026
+Santiago del Estero,2022.0,maiz,777100,5386950
+Santiago del Estero,2022.0,soja,1078120,3340985
+Santiago del Estero,2022.0,sorgo,128362,375926
+Santiago del Estero,2022.0,trigo,506780,694135
+Santiago del Estero,2023.0,girasol,61370,70695
+Santiago del Estero,2023.0,maiz,822100,4549312
+Santiago del Estero,2023.0,soja,1129500,2823432
+Santiago del Estero,2023.0,sorgo,131650,352529
+Santiago del Estero,2023.0,trigo,264370,253363
+Santiago del Estero,2024.0,girasol,12360,21457
+Santiago del Estero,2024.0,maiz,827700,1551073
+Santiago del Estero,2024.0,soja,1123180,3030974
+Santiago del Estero,2024.0,sorgo,135450,314301
+Santiago del Estero,2024.0,trigo,339480,474562
+Santiago del Estero,2025.0,girasol,37520,73052
+Santiago del Estero,2025.0,maiz,550700,1612241
+Santiago del Estero,2025.0,soja,1415045,2895235
+Santiago del Estero,2025.0,sorgo,148920,325826
+Santiago del Estero,2025.0,trigo,441340,433058
+Tucumán,1970.0,girasol,600,370
+Tucumán,1970.0,maiz,42150,26650
+Tucumán,1970.0,soja,5750,4700
+Tucumán,1970.0,sorgo,29800,35300
+Tucumán,1970.0,trigo,8500,2565
+Tucumán,1971.0,girasol,2200,1500
+Tucumán,1971.0,maiz,47000,48800
+Tucumán,1971.0,soja,7400,8900
+Tucumán,1971.0,sorgo,29500,57700
+Tucumán,1971.0,trigo,5700,4500
+Tucumán,1972.0,girasol,2500,840
+Tucumán,1972.0,maiz,48600,20800
+Tucumán,1972.0,soja,8500,4500
+Tucumán,1972.0,sorgo,13130,13160
+Tucumán,1972.0,trigo,4000,3600
+Tucumán,1973.0,girasol,2000,1400
+Tucumán,1973.0,maiz,46700,55900
+Tucumán,1973.0,soja,15000,20850
+Tucumán,1973.0,sorgo,18000,36100
+Tucumán,1973.0,trigo,4350,2200
+Tucumán,1974.0,girasol,700,820
+Tucumán,1974.0,maiz,15200,16900
+Tucumán,1974.0,soja,23610,46000
+Tucumán,1974.0,sorgo,7280,14792
+Tucumán,1974.0,trigo,5440,9470
+Tucumán,1975.0,girasol,400,480
+Tucumán,1975.0,maiz,15220,14000
+Tucumán,1975.0,soja,24000,27900
+Tucumán,1975.0,sorgo,7300,14600
+Tucumán,1975.0,trigo,6900,7700
+Tucumán,1976.0,girasol,80,90
+Tucumán,1976.0,maiz,16200,35500
+Tucumán,1976.0,soja,24900,44300
+Tucumán,1976.0,sorgo,7480,17400
+Tucumán,1976.0,trigo,8120,16100
+Tucumán,1977.0,maiz,14000,28000
+Tucumán,1977.0,soja,36000,60000
+Tucumán,1977.0,sorgo,5000,13000
+Tucumán,1977.0,trigo,18000,18900
+Tucumán,1978.0,girasol,1900,1800
+Tucumán,1978.0,maiz,17200,32600
+Tucumán,1978.0,soja,54500,98000
+Tucumán,1978.0,sorgo,4000,10000
+Tucumán,1978.0,trigo,18000,35000
+Tucumán,1979.0,girasol,530,570
+Tucumán,1979.0,maiz,18000,37200
+Tucumán,1979.0,soja,75000,149000
+Tucumán,1979.0,sorgo,2400,4600
+Tucumán,1979.0,trigo,12400,8700
+Tucumán,1980.0,girasol,210,200
+Tucumán,1980.0,maiz,29500,66000
+Tucumán,1980.0,soja,85000,134000
+Tucumán,1980.0,sorgo,900,1800
+Tucumán,1980.0,trigo,10400,18100
+Tucumán,1981.0,girasol,120,100
+Tucumán,1981.0,maiz,36400,83600
+Tucumán,1981.0,soja,80400,165000
+Tucumán,1981.0,sorgo,7160,16200
+Tucumán,1981.0,trigo,16200,15000
+Tucumán,1982.0,girasol,1100,1800
+Tucumán,1982.0,maiz,48400,110800
+Tucumán,1982.0,soja,73200,127300
+Tucumán,1982.0,sorgo,14400,40000
+Tucumán,1982.0,trigo,18000,17000
+Tucumán,1983.0,girasol,300,300
+Tucumán,1983.0,maiz,42550,106800
+Tucumán,1983.0,soja,77000,156200
+Tucumán,1983.0,sorgo,15800,48600
+Tucumán,1983.0,trigo,20500,30250
+Tucumán,1984.0,girasol,320,300
+Tucumán,1984.0,maiz,33900,73400
+Tucumán,1984.0,soja,95500,196000
+Tucumán,1984.0,sorgo,17500,51000
+Tucumán,1984.0,trigo,21400,33000
+Tucumán,1985.0,girasol,430,430
+Tucumán,1985.0,maiz,44400,100000
+Tucumán,1985.0,soja,74750,166000
+Tucumán,1985.0,sorgo,15350,45000
+Tucumán,1985.0,trigo,35920,56000
+Tucumán,1986.0,girasol,720,740
+Tucumán,1986.0,maiz,36000,108000
+Tucumán,1986.0,soja,85630,156000
+Tucumán,1986.0,sorgo,14300,39500
+Tucumán,1986.0,trigo,65400,96000
+Tucumán,1987.0,girasol,500,190
+Tucumán,1987.0,maiz,42700,48500
+Tucumán,1987.0,soja,78300,85500
+Tucumán,1987.0,sorgo,8600,9000
+Tucumán,1987.0,trigo,32200,48400
+Tucumán,1988.0,girasol,500,500
+Tucumán,1988.0,maiz,40500,100000
+Tucumán,1988.0,soja,84000,167000
+Tucumán,1988.0,sorgo,10200,25000
+Tucumán,1988.0,trigo,20000,14000
+Tucumán,1989.0,girasol,300,100
+Tucumán,1989.0,maiz,11300,4500
+Tucumán,1989.0,soja,40000,40000
+Tucumán,1989.0,sorgo,2000,700
+Tucumán,1989.0,trigo,37000,40000
+Tucumán,1990.0,maiz,32000,84800
+Tucumán,1990.0,soja,81500,162200
+Tucumán,1990.0,sorgo,6500,19500
+Tucumán,1990.0,trigo,30000,23000
+Tucumán,1991.0,maiz,30500,109500
+Tucumán,1991.0,soja,83000,198400
+Tucumán,1991.0,sorgo,5800,20000
+Tucumán,1991.0,trigo,33000,49500
+Tucumán,1992.0,maiz,30000,104500
+Tucumán,1992.0,soja,85700,193700
+Tucumán,1992.0,sorgo,3500,12500
+Tucumán,1992.0,trigo,28000,43200
+Tucumán,1993.0,maiz,35400,132300
+Tucumán,1993.0,soja,92000,192600
+Tucumán,1993.0,sorgo,3500,11400
+Tucumán,1993.0,trigo,31500,61700
+Tucumán,1994.0,maiz,40000,156400
+Tucumán,1994.0,soja,90000,173200
+Tucumán,1994.0,sorgo,3400,9300
+Tucumán,1994.0,trigo,23900,21900
+Tucumán,1995.0,maiz,40100,157100
+Tucumán,1995.0,soja,90300,156800
+Tucumán,1995.0,sorgo,3020,9300
+Tucumán,1995.0,trigo,23900,14600
+Tucumán,1996.0,maiz,27000,66520
+Tucumán,1996.0,soja,85000,141000
+Tucumán,1996.0,sorgo,2100,5700
+Tucumán,1996.0,trigo,25000,18300
+Tucumán,1997.0,maiz,40100,185500
+Tucumán,1997.0,soja,90000,201900
+Tucumán,1997.0,sorgo,3300,12600
+Tucumán,1997.0,trigo,52000,46400
+Tucumán,1998.0,maiz,44930,238200
+Tucumán,1998.0,soja,111270,261777
+Tucumán,1998.0,sorgo,1450,7130
+Tucumán,1998.0,trigo,35000,44700
+Tucumán,1999.0,girasol,900,700
+Tucumán,1999.0,maiz,45000,213900
+Tucumán,1999.0,soja,150000,360000
+Tucumán,1999.0,sorgo,1400,6900
+Tucumán,1999.0,trigo,34800,68000
+Tucumán,2000.0,maiz,58000,268840
+Tucumán,2000.0,soja,125000,312100
+Tucumán,2000.0,sorgo,1500,5600
+Tucumán,2000.0,trigo,55000,108000
+Tucumán,2001.0,maiz,53000,281000
+Tucumán,2001.0,soja,180000,329400
+Tucumán,2001.0,sorgo,1500,5250
+Tucumán,2001.0,trigo,60000,70000
+Tucumán,2002.0,maiz,53000,252000
+Tucumán,2002.0,soja,239139,660000
+Tucumán,2002.0,sorgo,1500,4650
+Tucumán,2002.0,trigo,90000,200000
+Tucumán,2003.0,maiz,27000,59500
+Tucumán,2003.0,soja,260000,570000
+Tucumán,2003.0,sorgo,700,900
+Tucumán,2003.0,trigo,105000,160000
+Tucumán,2004.0,maiz,26000,110000
+Tucumán,2004.0,soja,230000,489100
+Tucumán,2004.0,sorgo,1130,4790
+Tucumán,2004.0,trigo,160000,87300
+Tucumán,2005.0,maiz,31910,189360
+Tucumán,2005.0,soja,259630,578238
+Tucumán,2005.0,sorgo,1120,4410
+Tucumán,2005.0,trigo,170000,252750
+Tucumán,2006.0,maiz,28270,133710
+Tucumán,2006.0,soja,283518,835903
+Tucumán,2006.0,sorgo,1100,4770
+Tucumán,2006.0,trigo,207350,259350
+Tucumán,2007.0,maiz,36770,251160
+Tucumán,2007.0,soja,281450,876008
+Tucumán,2007.0,sorgo,1100,4920
+Tucumán,2007.0,trigo,220010,298060
+Tucumán,2008.0,maiz,39060,195730
+Tucumán,2008.0,soja,290070,803925
+Tucumán,2008.0,sorgo,1670,6830
+Tucumán,2008.0,trigo,216280,185220
+Tucumán,2009.0,maiz,39170,250000
+Tucumán,2009.0,soja,293220,763046
+Tucumán,2009.0,sorgo,2980,12960
+Tucumán,2009.0,trigo,189910,120240
+Tucumán,2010.0,maiz,52580,297820
+Tucumán,2010.0,soja,273700,744428
+Tucumán,2010.0,sorgo,3050,14820
+Tucumán,2010.0,trigo,176280,132820
+Tucumán,2011.0,maiz,60930,429620
+Tucumán,2011.0,soja,254870,734662
+Tucumán,2011.0,sorgo,3300,13660
+Tucumán,2011.0,trigo,168840,247710
+Tucumán,2012.0,maiz,50300,167500
+Tucumán,2012.0,soja,230660,342911
+Tucumán,2012.0,sorgo,3230,7490
+Tucumán,2012.0,trigo,142540,182940
+Tucumán,2013.0,maiz,59150,233390
+Tucumán,2013.0,soja,200000,272490
+Tucumán,2013.0,sorgo,3650,6080
+Tucumán,2013.0,trigo,86040,77710
+Tucumán,2014.0,maiz,67350,410150
+Tucumán,2014.0,soja,208900,416001
+Tucumán,2014.0,sorgo,5550,15450
+Tucumán,2014.0,trigo,12870,3250
+Tucumán,2015.0,maiz,51800,286270
+Tucumán,2015.0,soja,198350,413749
+Tucumán,2015.0,sorgo,6600,19430
+Tucumán,2015.0,trigo,63190,53430
+Tucumán,2016.0,maiz,66960,446206
+Tucumán,2016.0,soja,212210,657627
+Tucumán,2016.0,trigo,134330,150070
+Tucumán,2017.0,maiz,65750,329991
+Tucumán,2017.0,soja,203900,491374
+Tucumán,2017.0,sorgo,4200,10650
+Tucumán,2017.0,trigo,145400,115620
+Tucumán,2018.0,maiz,79850,492935
+Tucumán,2018.0,soja,188800,491962
+Tucumán,2018.0,sorgo,4200,8397
+Tucumán,2018.0,trigo,145590,147576
+Tucumán,2019.0,maiz,91080,644726
+Tucumán,2019.0,soja,185900,607826
+Tucumán,2019.0,sorgo,4500,12310
+Tucumán,2019.0,trigo,89200,58312
+Tucumán,2020.0,maiz,89110,429564
+Tucumán,2020.0,soja,174200,375896
+Tucumán,2020.0,sorgo,4200,9640
+Tucumán,2020.0,trigo,98150,99045
+Tucumán,2021.0,girasol,100,305
+Tucumán,2021.0,maiz,93110,437765
+Tucumán,2021.0,soja,166365,445254
+Tucumán,2021.0,sorgo,6200,17870
+Tucumán,2021.0,trigo,82100,60839
+Tucumán,2022.0,girasol,100,305
+Tucumán,2022.0,maiz,92100,454459
+Tucumán,2022.0,soja,153230,271969
+Tucumán,2022.0,sorgo,8000,18397
+Tucumán,2022.0,trigo,75340,52295
+Tucumán,2023.0,girasol,130,260
+Tucumán,2023.0,maiz,88370,385888
+Tucumán,2023.0,soja,164880,225108
+Tucumán,2023.0,sorgo,7500,14871
+Tucumán,2023.0,trigo,73930,51445
+Tucumán,2024.0,girasol,110,253
+Tucumán,2024.0,maiz,88820,237290
+Tucumán,2024.0,soja,172820,515021
+Tucumán,2024.0,sorgo,9950,20266
+Tucumán,2024.0,trigo,83930,102160
+Tucumán,2025.0,girasol,250,625
+Tucumán,2025.0,maiz,62930,265954
+Tucumán,2025.0,soja,185020,473056
+Tucumán,2025.0,sorgo,18000,34440
+Tucumán,2025.0,trigo,82370,86636
